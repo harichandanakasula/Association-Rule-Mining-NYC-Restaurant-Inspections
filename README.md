@@ -18,3 +18,72 @@ This project applies the Apriori algorithm to discover meaningful association ru
 
 ```bash
 python3 main.py market_basket_dataset_small.csv 0.05 0.6
+```
+
+- `0.05` → Minimum support (5%)
+- `0.6`  → Minimum confidence (60%)
+
+Output is saved in `output.txt`.
+
+---
+
+## Data Cleaning & Transformation
+
+- **Selected Columns:**
+  - Borough (BORO)
+  - Cuisine Type (CUISINE DESCRIPTION)
+  - Grade (GRADE)
+  - Violation Code (VIOLATION CODE)
+
+- **Transformation Steps:**
+  - Removed low-signal fields (address, coordinates)
+  - Cleaned categorical features
+  - Transformed rows into baskets for pattern mining
+
+---
+
+## Sample Output
+
+```
+[10F, Manhattan] => [A]        Confidence: 85.31%
+[Coffee/Tea] => [A]            Confidence: 80.26%
+```
+
+These association rules indicate trends between specific boroughs/cuisines and better inspection grades.
+
+---
+
+## Key Insights
+
+- Reduces noise through **targeted feature selection**
+- Yields highly interpretable rules for public health analysts
+- Offers real-world applicability in **restaurant safety monitoring**
+
+---
+
+## Reflection
+
+This project deepened my understanding of unsupervised learning, support/confidence trade-offs, and real-world data wrangling. Building interpretable models from raw city data was both challenging and rewarding, and gave me experience with transforming structured data into usable business insights.
+
+---
+
+## Project Files
+
+- `main.py` – Apriori implementation
+- `transform_to_basket.py` – Preprocessing script
+- `market_basket_dataset_small.csv` – Cleaned sample dataset
+- `output.txt` – Sample rule output
+
+---
+
+## Dataset Source
+
+**NYC Open Data – DOHMH Restaurant Inspection Results**  
+🔗 [https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/43nn-pn8j](https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/43nn-pn8j)
+
+---
+
+
+## ⚖️ License & Disclaimer
+
+This project is for educational purposes. Dataset provided by [NYC Open Data](https://opendata.cityofnewyork.us/) under its public data license. All analysis is my own and not affiliated with the NYC DOHMH.
