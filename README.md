@@ -7,7 +7,7 @@ This project applies the Apriori algorithm to uncover meaningful association rul
 ## Project Overview
 
 - **Algorithm Used:** Apriori (Agrawal & Srikant, VLDB 1994)
-- **Dataset Source:** [NYC Open Data – DOHMH Restaurant Inspection Results]([(https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data])
+- **Dataset Source:** [NYC Open Data – DOHMH Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data)
 - **Final Dataset Size:** 5,000 samples
 - **Tech Stack:** Python, CSV processing, CLI
 
