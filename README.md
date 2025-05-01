@@ -78,7 +78,8 @@ This project deepened my understanding of unsupervised learning, support/confide
 
 ## Dataset Source
 
-**NYC Open Data – DOHMH Restaurant Inspection Results**   [(https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data_preview)] ((https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data_preview))
+**Dataset Source:**  
+[NYC Open Data – DOHMH Restaurant Inspection Results](https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/43nn-pn8j)
 
 ---
 
