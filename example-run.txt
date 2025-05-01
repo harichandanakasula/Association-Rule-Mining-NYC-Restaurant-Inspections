@@ -1,0 +1,49 @@
+== Frequent Itemsets (min_sup = 5.0%) ==
+Items                                                        | Support (%)
+--------------------------------------------------------------------------------
+[A                                                           ] | 68.47%
+[Manhattan                                                   ] | 37.49%
+[Brooklyn                                                    ] | 26.51%
+[A, Manhattan                                                ] | 25.89%
+[Queens                                                      ] | 23.20%
+[A, Brooklyn                                                 ] | 18.96%
+[10F                                                         ] | 17.74%
+[American                                                    ] | 17.34%
+[10F, A                                                      ] | 14.92%
+[A, Queens                                                   ] | 14.82%
+[A, American                                                 ] | 13.06%
+[B                                                           ] | 11.98%
+[Bronx                                                       ] | 9.14%
+[08A                                                         ] | 8.96%
+[Chinese                                                     ] | 8.58%
+[C                                                           ] | 8.42%
+[American, Manhattan                                         ] | 8.40%
+[02B                                                         ] | 7.66%
+[06D                                                         ] | 7.24%
+[10F, Manhattan                                              ] | 6.80%
+[Pizza                                                       ] | 6.78%
+[10B                                                         ] | 6.74%
+[Coffee/Tea                                                  ] | 6.64%
+[A, American, Manhattan                                      ] | 6.46%
+[N                                                           ] | 6.28%
+[A, Bronx                                                    ] | 6.22%
+[06C                                                         ] | 6.14%
+[10F, A, Manhattan                                           ] | 5.72%
+[06D, A                                                      ] | 5.58%
+[04L                                                         ] | 5.34%
+[08A, A                                                      ] | 5.24%
+[02G                                                         ] | 5.10%
+[A, Chinese                                                  ] | 5.02%
+
+== High-Confidence Association Rules (min_conf = 60.0%) ==
+Rule                                                                             | Confidence (%) | Support (%)
+---------------------------------------------------------------------------------------------------------------->
+[10F, Manhattan] => [A]                                                          | 84.12% | 5.72%
+[10F] => [A]                                                                     | 84.10% | 14.92%
+[06D] => [A]                                                                     | 77.07% | 5.58%
+[American, Manhattan] => [A]                                                     | 76.90% | 6.46%
+[American] => [A]                                                                | 75.32% | 13.06%
+[Brooklyn] => [A]                                                                | 71.49% | 18.96%
+[Manhattan] => [A]                                                               | 69.07% | 25.89%
+[Bronx] => [A]                                                                   | 68.05% | 6.22%
+[Queens] => [A]                                                                  | 63.88% | 14.82%

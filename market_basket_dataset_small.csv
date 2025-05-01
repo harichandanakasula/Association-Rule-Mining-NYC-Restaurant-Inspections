@@ -1,0 +1,5001 @@
+Brooklyn,Pizza,08A,A
+Manhattan,American,10A,A
+Manhattan,Caribbean,09C,Z
+Manhattan,Coffee/Tea,06A,A
+Manhattan,Vegan,02B,A
+Bronx,Pizza,10F,A
+Queens,Bagels/Pretzels,02B,A
+Brooklyn,American,06E,A
+Brooklyn,Japanese,04K,B
+Brooklyn,Donuts,04M,A
+Manhattan,French,06C,B
+Brooklyn,German,10A,A
+Manhattan,Other,02B,N
+Manhattan,American,10E,A
+Brooklyn,Chinese,10G,A
+Bronx,Mexican,04A,A
+Queens,Donuts,09B,A
+Manhattan,American,04L,N
+Manhattan,American,02B,B
+Brooklyn,Polish,04L,Z
+Staten Island,American,06F,A
+Brooklyn,Chicken,08A,B
+Staten Island,Pizza,06E,A
+Queens,Sandwiches,06D,A
+Queens,Korean,02B,B
+Queens,Peruvian,04K,C
+Manhattan,Latin American,02B,B
+Manhattan,Korean,10H,A
+Brooklyn,Bottled Beverages,09C,A
+Manhattan,Donuts,10I,A
+Manhattan,Other,06D,A
+Brooklyn,American,04L,A
+Manhattan,Japanese,02B,A
+Manhattan,Japanese,10F,A
+Manhattan,Hamburgers,02B,A
+Brooklyn,Juice, Smoothies, Fruit Salads,09C,A
+Brooklyn,Pizza,08A,N
+Manhattan,American,04H,C
+Manhattan,Chicken,02B,A
+Brooklyn,Caribbean,04L,A
+Queens,Latin American,08A,A
+Manhattan,Coffee/Tea,04A,B
+Queens,African,04M,A
+Manhattan,Sandwiches,10H,A
+Queens,Latin American,02B,C
+Manhattan,American,02B,A
+Brooklyn,Chicken,02B,A
+Bronx,American,02B,A
+Staten Island,American,09B,B
+Manhattan,Japanese,10A,C
+Brooklyn,American,04A,A
+Queens,Peruvian,04M,C
+Manhattan,American,04L,Z
+Queens,Japanese,04L,A
+Queens,Juice, Smoothies, Fruit Salads,10G,A
+Queens,Pizza,04L,A
+Manhattan,American,08A,A
+Manhattan,Chinese,09B,A
+Brooklyn,Pakistani,04L,B
+Queens,Coffee/Tea,06D,A
+Queens,Steakhouse,02B,A
+Staten Island,Seafood,08A,B
+Queens,Caribbean,10A,A
+Manhattan,Coffee/Tea,04M,C
+Manhattan,American,10E,A
+Queens,Chinese,09B,A
+Queens,Latin American,08A,A
+Brooklyn,Pizza,02B,A
+Queens,Korean,04L,A
+Manhattan,Donuts,06E,A
+Manhattan,Japanese,06E,A
+Queens,Chicken,02B,A
+Bronx,Bakery Products/Desserts,06F,A
+Manhattan,Thai,10H,A
+Brooklyn,Chinese,09A,A
+Bronx,Mexican,04A,B
+Bronx,American,08A,A
+Manhattan,Mexican,08A,A
+Manhattan,American,02B,A
+Manhattan,Pizza,02B,B
+Manhattan,American,09C,A
+Manhattan,Japanese,04M,A
+Manhattan,Indian,02B,A
+Manhattan,Japanese,09B,A
+Manhattan,American,10F,A
+Manhattan,Greek,10H,A
+Manhattan,Bakery Products/Desserts,04A,C
+Brooklyn,Mexican,02B,A
+Queens,Moroccan,08A,A
+Manhattan,Italian,06D,A
+Brooklyn,Eastern European,08A,A
+Manhattan,Pizza,04L,A
+Queens,Pizza,02B,A
+Queens,Korean,02B,B
+Brooklyn,Coffee/Tea,02B,A
+Queens,Latin American,09B,A
+Queens,Spanish,04A,A
+Staten Island,American,04L,A
+Brooklyn,Japanese,06D,A
+Manhattan,Asian/Asian Fusion,02B,N
+Manhattan,Vegan,10F,A
+Manhattan,American,06D,A
+Brooklyn,Thai,04K,C
+Queens,Pizza,04L,A
+Queens,Mexican,09B,B
+Queens,Jewish/Kosher,10C,A
+Brooklyn,Latin American,02B,A
+Manhattan,American,10B,A
+Bronx,Spanish,10F,A
+Bronx,Chinese,02B,A
+Queens,Italian,04M,Z
+Brooklyn,Asian/Asian Fusion,02B,Z
+Queens,Latin American,08A,B
+Manhattan,Italian,06C,P
+Bronx,Pizza,04A,A
+Manhattan,Bakery Products/Desserts,04L,A
+Staten Island,American,10F,A
+Queens,Coffee/Tea,02B,A
+Queens,Bangladeshi,02B,A
+Queens,Filipino,06C,B
+Brooklyn,Mexican,10E,A
+Queens,Bangladeshi,04L,N
+Manhattan,Bakery Products/Desserts,18-11,A
+Staten Island,Hamburgers,06F,A
+Manhattan,American,09B,A
+Brooklyn,Spanish,06D,B
+Manhattan,Spanish,04L,A
+Brooklyn,Bakery Products/Desserts,02B,A
+Queens,Indian,04M,B
+Brooklyn,Bakery Products/Desserts,08A,C
+Manhattan,Latin American,02B,A
+Bronx,Hamburgers,08C,A
+Manhattan,Nuts/Confectionary,04A,A
+Bronx,American,04L,A
+Brooklyn,Pizza,02B,A
+Bronx,Chinese,04M,C
+Queens,Bakery Products/Desserts,08A,B
+Queens,Middle Eastern,08A,A
+Manhattan,Bakery Products/Desserts,02B,A
+Manhattan,Middle Eastern,08A,A
+Queens,Latin American,02B,N
+Brooklyn,Caribbean,04L,A
+Brooklyn,Pizza,02B,B
+Manhattan,Chinese,06C,A
+Manhattan,American,02B,A
+Manhattan,French,10E,A
+Queens,Latin American,02B,A
+Brooklyn,Spanish,06F,A
+Queens,Chicken,04M,B
+Manhattan,Italian,04M,A
+Manhattan,Other,04L,N
+Bronx,Pizza,02B,A
+Manhattan,American,02B,A
+Queens,Hawaiian,06D,A
+Manhattan,Peruvian,04L,A
+Manhattan,American,04L,A
+Queens,Chinese,02B,A
+Brooklyn,Chinese/Japanese,06F,A
+Manhattan,American,08A,A
+Bronx,American,04M,C
+Manhattan,Pizza,08A,A
+Brooklyn,Mexican,09B,C
+Bronx,Hamburgers,06D,A
+Queens,American,04M,A
+Staten Island,Hamburgers,06C,A
+Staten Island,Chinese,08A,B
+Queens,Chicken,04A,A
+Manhattan,Mediterranean,09C,A
+Manhattan,Russian,02G,B
+Bronx,Chinese,02B,A
+Brooklyn,Italian,10E,A
+Queens,Asian/Asian Fusion,08A,A
+Manhattan,Asian/Asian Fusion,04K,A
+Brooklyn,Donuts,10F,A
+Manhattan,Tex-Mex,04M,A
+Manhattan,Salads,08A,A
+Brooklyn,American,02B,A
+Manhattan,Spanish,02B,A
+Manhattan,Indian,04A,A
+Brooklyn,Caribbean,09B,A
+Brooklyn,Bagels/Pretzels,08A,A
+Manhattan,Chinese,09B,A
+Brooklyn,American,09C,A
+Manhattan,Chicken,04L,A
+Manhattan,Italian,06D,A
+Manhattan,American,04A,A
+Manhattan,Japanese,09C,A
+Brooklyn,American,04A,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Middle Eastern,03I,N
+Queens,Chinese,02B,N
+Manhattan,Chinese,02B,A
+Queens,Chinese,06B,A
+Bronx,Donuts,10J,A
+Manhattan,Chinese,04L,C
+Manhattan,French,04L,A
+Manhattan,Russian,02B,A
+Manhattan,Italian,09C,A
+Manhattan,American,04L,C
+Brooklyn,Italian,06D,Z
+Bronx,American,06D,A
+Brooklyn,Chinese,08A,C
+Manhattan,Bakery Products/Desserts,04L,Z
+Manhattan,Other,05H,N
+Queens,Latin American,09E,A
+Manhattan,Mexican,09A,A
+Manhattan,Italian,04L,A
+Staten Island,Pizza,04L,B
+Brooklyn,American,04L,B
+Bronx,American,06F,A
+Staten Island,Chinese,09B,A
+Manhattan,American,02B,A
+Queens,Korean,04A,A
+Queens,Coffee/Tea,02B,A
+Queens,Chinese,08A,B
+Manhattan,American,04L,A
+Bronx,Caribbean,06F,B
+Manhattan,Bakery Products/Desserts,04L,B
+Manhattan,American,04L,A
+Manhattan,Japanese,09E,B
+Bronx,Chinese,02B,A
+Manhattan,Donuts,06D,A
+Manhattan,Hamburgers,02B,A
+Manhattan,American,02B,B
+Queens,Latin American,06E,A
+Manhattan,Italian,08A,A
+Queens,Mexican,10F,A
+Brooklyn,Italian,02B,A
+Bronx,Tex-Mex,02B,A
+Bronx,American,02B,A
+Brooklyn,Indian,10C,B
+Manhattan,American,06F,A
+Bronx,American,08A,A
+Queens,Bakery Products/Desserts,04M,A
+Brooklyn,Thai,04K,A
+Brooklyn,Vegan,02B,B
+Queens,Spanish,04L,A
+Manhattan,Greek,08A,A
+Queens,Southeast Asian,08A,Z
+Brooklyn,Chinese/Japanese,02B,A
+Manhattan,American,08A,Z
+Manhattan,Italian,04L,B
+Manhattan,Mexican,02G,B
+Queens,Chicken,04M,Z
+Manhattan,Pizza,04L,A
+Queens,Pizza,04L,A
+Bronx,Caribbean,02B,A
+Bronx,Pancakes/Waffles,08A,A
+Bronx,Pizza,08A,C
+Queens,American,04L,A
+Manhattan,Thai,08A,A
+Queens,Chicken,02B,A
+Brooklyn,Chinese,02B,B
+Brooklyn,Spanish,08A,Z
+Manhattan,Tapas,06E,C
+Brooklyn,Chicken,06E,A
+Manhattan,Chinese,04L,B
+Manhattan,Caribbean,04A,N
+Manhattan,Greek,04L,A
+Queens,Bakery Products/Desserts,06D,B
+Queens,Spanish,10G,A
+Manhattan,Pizza,08A,C
+Brooklyn,Pizza,08A,A
+Manhattan,American,04L,B
+Brooklyn,American,04A,C
+Queens,Pizza,10H,A
+Brooklyn,Russian,04M,A
+Bronx,Chicken,08A,A
+Queens,Spanish,04K,N
+Manhattan,American,02B,A
+Queens,Indian,04L,A
+Bronx,Hamburgers,08A,B
+Manhattan,American,06F,A
+Manhattan,Indian,09B,A
+Queens,Chinese,02B,A
+Manhattan,Coffee/Tea,06D,A
+Bronx,Frozen Desserts,06D,Z
+Brooklyn,Seafood,06D,A
+Queens,Spanish,10A,C
+Brooklyn,Mexican,02B,A
+Brooklyn,Pizza,04M,A
+Manhattan,Latin American,04L,A
+Brooklyn,Spanish,08A,A
+Queens,Mexican,10G,A
+Queens,Latin American,10C,A
+Manhattan,Hotdogs,09C,A
+Manhattan,Mexican,04M,B
+Manhattan,Sandwiches/Salads/Mixed Buffet,06C,A
+Queens,Pizza,08A,A
+Queens,Chinese,09B,A
+Brooklyn,Mexican,09E,A
+Manhattan,Japanese,04M,C
+Queens,Latin American,04M,B
+Brooklyn,Caribbean,09B,A
+Bronx,Chicken,04A,B
+Queens,Other,06F,A
+Manhattan,Asian/Asian Fusion,06D,B
+Brooklyn,Coffee/Tea,09E,A
+Queens,Eastern European,04L,A
+Manhattan,American,08A,P
+Manhattan,American,06E,A
+Manhattan,Korean,09B,C
+Manhattan,Italian,02B,N
+Queens,Asian/Asian Fusion,06F,A
+Brooklyn,Chicken,02B,A
+Brooklyn,Vegan,02B,A
+Manhattan,Sandwiches,08A,A
+Manhattan,Sandwiches,06D,A
+Manhattan,Coffee/Tea,02B,Z
+Brooklyn,American,06D,B
+Manhattan,Sandwiches,02B,Z
+Queens,Latin American,08A,A
+Queens,Bakery Products/Desserts,28-05,A
+Queens,Chinese,08A,Z
+Brooklyn,American,10A,A
+Queens,Chinese,09B,A
+Manhattan,Coffee/Tea,06D,A
+Manhattan,Other,04L,A
+Bronx,Tex-Mex,02B,A
+Queens,American,02B,A
+Bronx,Chinese,04L,A
+Brooklyn,Asian/Asian Fusion,02B,A
+Queens,Japanese,02B,A
+Brooklyn,Caribbean,04H,B
+Manhattan,Japanese,04A,Z
+Manhattan,Bagels/Pretzels,08A,A
+Manhattan,Salads,02C,A
+Brooklyn,Creole,02B,B
+Manhattan,Vegan,02B,C
+Brooklyn,Thai,02B,A
+Manhattan,Coffee/Tea,10G,A
+Queens,Southeast Asian,02B,C
+Manhattan,Frozen Desserts,06E,A
+Staten Island,Pizza,06E,A
+Queens,Hamburgers,04N,C
+Bronx,Japanese,02B,A
+Brooklyn,Mexican,02B,A
+Bronx,Spanish,02B,A
+Manhattan,American,02B,A
+Queens,Caribbean,04A,A
+Brooklyn,Hamburgers,10F,A
+Manhattan,American,06D,A
+Manhattan,Soups/Salads/Sandwiches,10E,A
+Brooklyn,Coffee/Tea,09C,A
+Queens,Spanish,02B,A
+Manhattan,Vegan,10F,A
+Queens,Coffee/Tea,04L,A
+Staten Island,American,04L,C
+Brooklyn,Pizza,02B,A
+Brooklyn,Caribbean,04L,A
+Brooklyn,Jewish/Kosher,04L,A
+Manhattan,Pizza,10F,A
+Brooklyn,Pizza,06D,A
+Queens,Indian,04A,A
+Manhattan,Chinese,09B,C
+Queens,Chinese,06E,Z
+Manhattan,American,04A,A
+Brooklyn,Italian,02B,A
+Brooklyn,Tex-Mex,06E,A
+Brooklyn,Jewish/Kosher,04E,A
+Brooklyn,Sandwiches,06E,A
+Manhattan,Mediterranean,06D,B
+Manhattan,Donuts,08A,A
+Staten Island,Cajun,06D,C
+Manhattan,French,02A,B
+Brooklyn,American,02B,A
+Brooklyn,American,02B,B
+Brooklyn,Jewish/Kosher,02B,A
+Queens,Italian,04M,Z
+Bronx,Chinese,02B,A
+Queens,Korean,02B,C
+Bronx,American,02B,A
+Brooklyn,Pizza,04M,C
+Queens,Tex-Mex,04M,A
+Brooklyn,Pizza,04M,A
+Bronx,Chicken,02B,A
+Staten Island,Italian,09B,A
+Manhattan,Thai,04M,Z
+Manhattan,Coffee/Tea,02B,Z
+Manhattan,Japanese,02B,A
+Manhattan,Korean,02B,A
+Queens,Chinese,02B,B
+Brooklyn,Japanese,02B,A
+Brooklyn,Chinese,04M,B
+Queens,Creole,02B,B
+Bronx,Hamburgers,10J,A
+Queens,Coffee/Tea,02B,B
+Queens,Eastern European,09B,B
+Queens,Chinese,04M,B
+Brooklyn,Chicken,02B,A
+Queens,American,02B,A
+Brooklyn,Caribbean,02B,C
+Bronx,Chinese,09B,A
+Brooklyn,American,09B,A
+Brooklyn,Middle Eastern,09B,A
+Manhattan,Chinese,02B,B
+Manhattan,Steakhouse,02B,A
+Brooklyn,Chicken,02B,B
+Brooklyn,Pizza,02B,A
+Brooklyn,Chinese,09B,A
+Manhattan,Irish,02B,B
+Manhattan,American,02B,A
+Brooklyn,Chinese,02B,A
+Manhattan,Italian,04K,A
+Queens,Chinese,09B,A
+Queens,Chinese,09B,A
+Manhattan,Donuts,04M,A
+Manhattan,Salads,02B,A
+Brooklyn,Vegetarian,02B,A
+Queens,Pizza,02B,B
+Queens,American,02B,A
+Brooklyn,Middle Eastern,09B,N
+Brooklyn,Japanese,09B,A
+Manhattan,Pizza,04M,P
+Brooklyn,Pizza,02B,A
+Manhattan,Pizza,02B,Z
+Manhattan,Korean,09B,C
+Manhattan,Pizza,02B,A
+Manhattan,Irish,09B,A
+Manhattan,Pizza,02B,A
+Manhattan,Japanese,09B,A
+Brooklyn,Chinese,02B,A
+Queens,Spanish,04M,A
+Manhattan,Jewish/Kosher,02B,A
+Manhattan,Latin American,02B,A
+Brooklyn,Pizza,02B,A
+Queens,Chinese/Japanese,09B,A
+Brooklyn,Coffee/Tea,02B,A
+Manhattan,Salads,02B,A
+Manhattan,Jewish/Kosher,02B,A
+Brooklyn,Spanish,02B,A
+Manhattan,Mediterranean,09B,A
+Manhattan,American,02B,A
+Manhattan,Japanese,04L,A
+Brooklyn,Mexican,06F,A
+Manhattan,Asian/Asian Fusion,02B,A
+Brooklyn,Pizza,02B,A
+Brooklyn,Latin American,09B,A
+Brooklyn,Chinese,09B,Z
+Manhattan,Middle Eastern,09C,A
+Manhattan,Italian,02B,A
+Bronx,Chinese,02B,A
+Manhattan,Creole/Cajun,09B,A
+Bronx,American,02B,A
+Brooklyn,Korean,09B,A
+Brooklyn,Chinese,02B,A
+Manhattan,Japanese,02B,B
+Brooklyn,Chicken,04A,A
+Staten Island,Pizza,02B,C
+Manhattan,French,02B,A
+Bronx,Pizza,02B,A
+Queens,Japanese,06F,A
+Queens,Bakery Products/Desserts,09C,A
+Brooklyn,Chinese,02B,A
+Manhattan,Japanese,02B,A
+Manhattan,Italian,04M,A
+Manhattan,Korean,02B,A
+Manhattan,Italian,04L,A
+Queens,Pizza,02B,C
+Queens,Japanese,02B,A
+Manhattan,Chinese,04M,Z
+Brooklyn,Southeast Asian,09B,A
+Brooklyn,Pizza,02B,A
+Queens,Chinese,02B,A
+Bronx,Chinese,02B,A
+Brooklyn,American,04M,B
+Brooklyn,Chicken,02B,A
+Queens,Indian,09B,A
+Queens,Chinese,09B,A
+Manhattan,American,02B,A
+Brooklyn,Vegan,02B,A
+Queens,Latin American,06F,A
+Brooklyn,Coffee/Tea,02B,A
+Manhattan,English,09B,A
+Manhattan,Chinese,02B,Z
+Brooklyn,Caribbean,09B,A
+Brooklyn,Coffee/Tea,02B,A
+Bronx,American,02B,A
+Bronx,Chinese,02B,A
+Manhattan,Salads,02B,A
+Manhattan,Pizza,04K,Z
+Brooklyn,Hamburgers,04A,A
+Staten Island,Chinese,04L,A
+Queens,Japanese,06D,A
+Manhattan,Tex-Mex,02B,A
+Manhattan,Thai,02B,A
+Manhattan,American,02B,A
+Manhattan,Chinese,09B,A
+Brooklyn,Italian,02B,N
+Manhattan,Mexican,09B,A
+Brooklyn,Japanese,02B,A
+Bronx,Pizza,02B,A
+Queens,Chinese,09B,A
+Queens,Chinese,09B,A
+Staten Island,Italian,04L,A
+Brooklyn,Pizza,02B,A
+Manhattan,American,02B,Z
+Brooklyn,American,10J,A
+Manhattan,Thai,04M,A
+Brooklyn,American,02B,A
+Queens,Coffee/Tea,08A,A
+Bronx,Chicken,02B,A
+Queens,Spanish,09B,A
+Manhattan,Pizza,02B,A
+Brooklyn,Jewish/Kosher,02B,A
+Brooklyn,Pizza,02B,A
+Brooklyn,Tapas,04M,A
+Bronx,Mexican,06F,A
+Brooklyn,Indian,02B,Z
+Manhattan,Pizza,02B,A
+Bronx,Mexican,04M,A
+Manhattan,Chicken,02B,A
+Brooklyn,Mexican,04K,Z
+Manhattan,Coffee/Tea,02B,A
+Manhattan,American,02G,A
+Brooklyn,American,03I,Z
+Bronx,American,06F,A
+Manhattan,Japanese,10B,A
+Queens,Chicken,06D,A
+Manhattan,Japanese,10F,N
+Manhattan,French,08A,A
+Manhattan,Pizza,10B,A
+Manhattan,Spanish,06A,A
+Manhattan,Chicken,06A,A
+Queens,Indian,04A,C
+Brooklyn,Sandwiches/Salads/Mixed Buffet,09B,A
+Queens,Latin American,04A,C
+Manhattan,Coffee/Tea,28-05,A
+Manhattan,Coffee/Tea,06D,A
+Queens,American,02G,C
+Manhattan,Greek,04N,B
+Brooklyn,Donuts,10F,A
+Manhattan,French,09C,A
+Brooklyn,Spanish,10B,N
+Brooklyn,Frozen Desserts,06E,A
+Queens,Chinese,02G,A
+Brooklyn,New American,08A,B
+Manhattan,Japanese,10F,A
+Brooklyn,Hamburgers,06D,A
+Queens,Chinese,06D,A
+Queens,Latin American,05D,C
+Brooklyn,Chinese,04N,A
+Queens,American,08A,B
+Staten Island,American,10F,A
+Bronx,Spanish,02G,A
+Manhattan,American,10F,A
+Brooklyn,Thai,10B,C
+Queens,Chicken,08C,A
+Brooklyn,Eastern European,10G,Z
+Manhattan,Asian/Asian Fusion,10F,P
+Manhattan,Japanese,04N,A
+Manhattan,Frozen Desserts,06A,A
+Queens,Pizza,06D,A
+Queens,Juice, Smoothies, Fruit Salads,10H,A
+Manhattan,Japanese,10B,N
+Queens,Latin American,08A,A
+Queens,Turkish,06D,A
+Manhattan,Coffee/Tea,10B,A
+Manhattan,French,06D,A
+Queens,American,10F,A
+Manhattan,Chinese,08A,N
+Manhattan,American,03A,C
+Brooklyn,Bakery Products/Desserts,06C,B
+Brooklyn,American,06D,A
+Queens,Pizza,02B,A
+Brooklyn,American,08A,A
+Manhattan,Sandwiches,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,04N,A
+Staten Island,Coffee/Tea,06F,A
+Manhattan,Japanese,06E,A
+Brooklyn,Pizza,10F,A
+Queens,Juice, Smoothies, Fruit Salads,06E,A
+Manhattan,Japanese,04L,B
+Queens,Latin American,04K,C
+Manhattan,Pizza,08A,B
+Brooklyn,Sandwiches,10F,A
+Manhattan,Chinese,02G,A
+Brooklyn,Coffee/Tea,06D,A
+Manhattan,Donuts,10F,A
+Manhattan,Bakery Products/Desserts,28-06,A
+Manhattan,Spanish,04H,A
+Bronx,Sandwiches,04A,A
+Manhattan,Donuts,06D,A
+Brooklyn,Mexican,04A,B
+Manhattan,Italian,02B,A
+Queens,Japanese,06C,A
+Brooklyn,American,06C,A
+Manhattan,Pizza,02B,A
+Manhattan,American,10F,A
+Bronx,Chinese,02G,A
+Brooklyn,American,10F,A
+Brooklyn,Tex-Mex,10B,A
+Brooklyn,French,06B,A
+Bronx,Hamburgers,10F,A
+Manhattan,American,08C,A
+Queens,Chinese,05D,A
+Brooklyn,Coffee/Tea,08C,A
+Bronx,Mexican,04A,A
+Brooklyn,Middle Eastern,09C,A
+Brooklyn,American,06D,C
+Bronx,Donuts,04H,A
+Manhattan,Pizza,04A,A
+Manhattan,Donuts,04N,A
+Queens,Pizza,10F,A
+Brooklyn,American,02G,A
+Queens,Coffee/Tea,08A,B
+Brooklyn,Sandwiches/Salads/Mixed Buffet,10B,A
+Manhattan,Other,06C,A
+Manhattan,Juice, Smoothies, Fruit Salads,04H,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Japanese,09E,A
+Manhattan,Jewish/Kosher,04L,C
+Queens,Chinese,08A,A
+Brooklyn,Coffee/Tea,08A,A
+Manhattan,Middle Eastern,10F,N
+Queens,Spanish,06F,A
+Manhattan,American,10B,A
+Manhattan,Pizza,10F,A
+Brooklyn,Hamburgers,10H,A
+Brooklyn,French,06D,A
+Manhattan,American,02G,A
+Queens,Coffee/Tea,02G,A
+Manhattan,American,10B,A
+Brooklyn,Chicken,10B,A
+Bronx,Chinese,10F,A
+Bronx,Latin American,10B,A
+Manhattan,American,04N,A
+Manhattan,Korean,10F,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,American,08B,A
+Manhattan,Japanese,10F,A
+Manhattan,American,10B,A
+Staten Island,American,10F,P
+Brooklyn,Middle Eastern,02B,A
+Queens,American,10G,A
+Queens,Pizza,02G,B
+Bronx,Chinese,08A,A
+Brooklyn,Jewish/Kosher,10F,A
+Queens,Bakery Products/Desserts,04L,A
+Brooklyn,Mexican,02G,A
+Queens,Sandwiches,10B,A
+Queens,Chinese,02G,A
+Brooklyn,American,09C,A
+Brooklyn,Bakery Products/Desserts,04N,B
+Manhattan,Tex-Mex,10F,A
+Brooklyn,Pizza,04L,B
+Manhattan,Coffee/Tea,04J,N
+Manhattan,French,10F,A
+Brooklyn,Mexican,09B,A
+Queens,Latin American,10D,A
+Manhattan,Chinese,09C,C
+Bronx,Spanish,06B,A
+Manhattan,Asian/Asian Fusion,04A,A
+Bronx,Bakery Products/Desserts,10B,A
+Bronx,Hamburgers,04K,C
+Manhattan,Indian,05H,C
+Bronx,American,06D,A
+Brooklyn,American,04N,A
+Manhattan,Steakhouse,10F,A
+Queens,Latin American,10B,A
+Manhattan,American,06C,A
+Queens,Chinese,08A,A
+Manhattan,American,10F,A
+Manhattan,Bakery Products/Desserts,04J,A
+Queens,Frozen Desserts,04J,A
+Brooklyn,Latin American,05D,N
+Brooklyn,Caribbean,08A,A
+Queens,American,10E,A
+Brooklyn,Coffee/Tea,06C,A
+Brooklyn,Soul Food,10G,B
+Manhattan,Coffee/Tea,10F,A
+Manhattan,American,10F,A
+Manhattan,Pizza,02B,A
+Staten Island,Donuts,06E,A
+Staten Island,Chinese,02G,A
+Queens,Chinese,10F,A
+Brooklyn,Caribbean,06C,A
+Brooklyn,Chinese,08A,B
+Manhattan,Italian,04L,A
+Manhattan,Japanese,02G,B
+Staten Island,Chinese,10F,A
+Manhattan,Seafood,10F,A
+Queens,Caribbean,10B,A
+Queens,Japanese,10F,A
+Manhattan,American,06D,Z
+Brooklyn,Caribbean,02B,A
+Brooklyn,Hamburgers,10B,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Asian/Asian Fusion,06F,B
+Manhattan,Coffee/Tea,06D,A
+Manhattan,Chinese,08A,A
+Manhattan,Coffee/Tea,10A,A
+Queens,Juice, Smoothies, Fruit Salads,10B,A
+Queens,Chinese,02G,A
+Manhattan,Bakery Products/Desserts,09C,A
+Brooklyn,American,08A,N
+Staten Island,Chicken,02B,A
+Manhattan,American,10B,N
+Brooklyn,Coffee/Tea,06C,C
+Manhattan,Indian,04C,A
+Brooklyn,Mexican,04N,A
+Manhattan,Mexican,10F,A
+Queens,American,05D,A
+Bronx,Pizza,04L,A
+Brooklyn,Middle Eastern,10F,Z
+Queens,Latin American,10F,A
+Manhattan,Coffee/Tea,04A,C
+Queens,Spanish,08A,A
+Brooklyn,Chinese,10B,A
+Bronx,American,10F,A
+Queens,Korean,10F,N
+Queens,Chinese,02B,A
+Brooklyn,American,10F,A
+Brooklyn,Jewish/Kosher,04A,A
+Brooklyn,Bakery Products/Desserts,10B,C
+Queens,Tex-Mex,04N,A
+Manhattan,Other,06C,N
+Brooklyn,Pizza,02G,B
+Manhattan,Italian,02G,A
+Manhattan,Italian,10F,A
+Manhattan,Pizza,10F,A
+Brooklyn,American,09A,A
+Staten Island,Southeast Asian,06F,A
+Brooklyn,Pizza,10F,A
+Manhattan,Coffee/Tea,06C,N
+Staten Island,Mediterranean,08A,A
+Manhattan,Japanese,06C,A
+Queens,Eastern European,08A,A
+Brooklyn,Chinese,09B,C
+Queens,Japanese,10F,A
+Queens,Chinese,10B,A
+Manhattan,Asian/Asian Fusion,06C,A
+Queens,Hamburgers,04H,A
+Brooklyn,American,06D,A
+Queens,Coffee/Tea,03A,C
+Queens,Bagels/Pretzels,08A,C
+Manhattan,Italian,02G,A
+Manhattan,Sandwiches,02G,Z
+Manhattan,Steakhouse,06C,B
+Brooklyn,Chinese,08A,C
+Manhattan,Juice, Smoothies, Fruit Salads,02G,C
+Bronx,Bakery Products/Desserts,10F,B
+Brooklyn,African,10F,A
+Brooklyn,Caribbean,10B,A
+Manhattan,Korean,09C,A
+Queens,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,French,10F,A
+Queens,Caribbean,09B,A
+Manhattan,Pizza,02G,A
+Manhattan,American,10B,A
+Queens,Portuguese,06D,A
+Staten Island,Pizza,06D,A
+Manhattan,Chicken,02B,A
+Brooklyn,Steakhouse,10F,A
+Bronx,Mexican,04C,Z
+Brooklyn,Chicken,10F,C
+Manhattan,Coffee/Tea,05E,C
+Manhattan,Juice, Smoothies, Fruit Salads,04H,A
+Manhattan,American,10F,A
+Queens,Latin American,10B,A
+Bronx,Chinese,08A,A
+Manhattan,American,08A,A
+Manhattan,American,06E,A
+Brooklyn,Coffee/Tea,10H,B
+Brooklyn,Frozen Desserts,08A,A
+Brooklyn,Caribbean,04L,A
+Manhattan,Coffee/Tea,10D,A
+Queens,Pizza,08A,A
+Brooklyn,American,06D,A
+Manhattan,French,06C,Z
+Brooklyn,Coffee/Tea,06C,A
+Queens,Pancakes/Waffles,04N,B
+Manhattan,Seafood,04N,A
+Queens,American,10F,C
+Bronx,Chicken,10G,C
+Staten Island,American,02H,A
+Manhattan,Indian,04N,C
+Queens,Coffee/Tea,08A,A
+Brooklyn,Japanese,10B,A
+Queens,Caribbean,06D,A
+Manhattan,Asian/Asian Fusion,10G,A
+Manhattan,Chinese,08A,Z
+Manhattan,Mexican,10F,A
+Brooklyn,Donuts,04N,A
+Brooklyn,Coffee/Tea,04O,A
+Manhattan,Coffee/Tea,06C,A
+Staten Island,Japanese,05C,A
+Brooklyn,American,04A,Z
+Manhattan,French,04N,A
+Manhattan,Italian,04L,B
+Manhattan,American,06D,A
+Manhattan,Mediterranean,06C,B
+Brooklyn,Japanese,06C,A
+Brooklyn,American,04H,A
+Brooklyn,Chinese,04L,A
+Manhattan,Korean,08A,A
+Brooklyn,Sandwiches,06D,A
+Queens,American,02G,B
+Manhattan,American,04N,A
+Queens,Caribbean,10F,A
+Manhattan,Donuts,06C,A
+Manhattan,Korean,10F,A
+Brooklyn,Caribbean,06D,A
+Manhattan,Japanese,06F,B
+Queens,Spanish,10B,C
+Bronx,Bakery Products/Desserts,10F,A
+Queens,Barbecue,04L,B
+Staten Island,Mediterranean,10B,A
+Brooklyn,Bagels/Pretzels,06D,A
+Queens,Korean,06C,N
+Queens,Juice, Smoothies, Fruit Salads,04H,A
+Manhattan,French,02B,A
+Queens,Middle Eastern,10B,A
+Manhattan,Steakhouse,06D,A
+Manhattan,Russian,06C,A
+Queens,Peruvian,06D,B
+Brooklyn,Frozen Desserts,08C,A
+Brooklyn,Coffee/Tea,06E,A
+Manhattan,American,08A,C
+Bronx,Chinese,10B,A
+Brooklyn,American,05D,A
+Queens,Peruvian,04L,B
+Brooklyn,Tex-Mex,02G,A
+Brooklyn,Italian,04N,A
+Manhattan,Coffee/Tea,02G,A
+Manhattan,Vegetarian,09A,A
+Queens,American,10F,A
+Staten Island,Italian,06B,C
+Manhattan,Italian,04L,A
+Brooklyn,American,06D,B
+Manhattan,Coffee/Tea,02G,A
+Manhattan,Asian/Asian Fusion,02G,B
+Brooklyn,American,04L,B
+Manhattan,Mediterranean,02G,A
+Brooklyn,American,02G,N
+Queens,Caribbean,10F,A
+Manhattan,Bakery Products/Desserts,05D,A
+Brooklyn,Jewish/Kosher,08C,A
+Queens,Pizza,06B,A
+Queens,Latin American,10F,A
+Brooklyn,Bakery Products/Desserts,05H,C
+Brooklyn,American,10G,A
+Bronx,Pizza,06D,A
+Brooklyn,Chinese,10G,B
+Brooklyn,Jewish/Kosher,10F,A
+Queens,Mediterranean,10A,Z
+Brooklyn,Turkish,10B,N
+Manhattan,American,02A,A
+Brooklyn,Coffee/Tea,08A,N
+Bronx,Caribbean,08A,A
+Queens,Bakery Products/Desserts,06D,B
+Manhattan,Coffee/Tea,06D,B
+Manhattan,American,04N,N
+Queens,Chinese,02G,A
+Manhattan,Italian,04C,A
+Queens,Japanese,10F,A
+Queens,Caribbean,10G,A
+Brooklyn,Coffee/Tea,10A,A
+Brooklyn,Coffee/Tea,02G,A
+Queens,American,08A,A
+Queens,Coffee/Tea,04J,A
+Queens,Barbecue,10F,A
+Brooklyn,Mexican,04J,Z
+Manhattan,Hawaiian,06C,A
+Staten Island,Seafood,10F,A
+Queens,Mexican,06D,A
+Queens,Chinese/Cuban,06D,A
+Manhattan,Tex-Mex,10B,A
+Queens,Other,08A,N
+Manhattan,Coffee/Tea,06E,N
+Queens,Latin American,10F,C
+Queens,Mexican,06E,A
+Queens,Korean,06C,A
+Manhattan,American,08A,A
+Manhattan,Chinese,10B,A
+Manhattan,Steakhouse,02G,A
+Manhattan,Turkish,10F,A
+Queens,Coffee/Tea,06C,A
+Manhattan,American,08A,A
+Queens,Sandwiches,04A,A
+Queens,Sandwiches,10B,A
+Staten Island,Mexican,08C,N
+Brooklyn,American,09C,A
+Manhattan,American,10F,B
+Bronx,Caribbean,10F,A
+Manhattan,Chinese,10B,C
+Manhattan,Thai,08A,A
+Staten Island,American,04A,A
+Brooklyn,Mexican,09C,A
+Queens,Juice, Smoothies, Fruit Salads,04N,A
+Manhattan,Coffee/Tea,02G,A
+Staten Island,Italian,06F,A
+Manhattan,Chicken,08A,A
+Brooklyn,Mexican,10F,A
+Brooklyn,Chinese,04L,A
+Brooklyn,Jewish/Kosher,10B,A
+Manhattan,Coffee/Tea,06C,C
+Manhattan,Latin American,06F,A
+Queens,Bakery Products/Desserts,10F,C
+Manhattan,Japanese,09B,A
+Brooklyn,Coffee/Tea,06A,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Frozen Desserts,10F,A
+Staten Island,American,06D,A
+Queens,Italian,10H,A
+Bronx,Bakery Products/Desserts,10F,A
+Brooklyn,Pizza,08A,A
+Manhattan,Tex-Mex,06C,A
+Bronx,Hamburgers,10F,B
+Staten Island,Chicken,08A,B
+Brooklyn,Indian,04H,C
+Queens,Sandwiches,09C,A
+Manhattan,French,08C,C
+Brooklyn,Chinese,06D,B
+Bronx,Pizza,06A,A
+Queens,Latin American,10B,B
+Queens,Spanish,10F,A
+Manhattan,Chinese,02G,C
+Brooklyn,Chicken,02G,B
+Brooklyn,New American,04H,N
+Queens,Chinese,04H,B
+Manhattan,American,02H,A
+Bronx,Italian,06D,A
+Brooklyn,Latin American,10F,A
+Manhattan,American,06C,A
+Bronx,Pizza,04N,A
+Manhattan,American,04L,Z
+Bronx,Pizza,08A,C
+Brooklyn,Latin American,10F,A
+Manhattan,Japanese,10F,A
+Manhattan,Irish,10B,A
+Brooklyn,Caribbean,02B,A
+Manhattan,Italian,02A,N
+Brooklyn,Chinese,10B,A
+Manhattan,American,10F,A
+Manhattan,Italian,06B,A
+Manhattan,American,02G,A
+Brooklyn,Chicken,06D,C
+Brooklyn,Italian,02B,A
+Manhattan,Spanish,04M,A
+Manhattan,Sandwiches,04H,A
+Manhattan,Chinese,04N,A
+Manhattan,American,02G,A
+Queens,Latin American,04M,C
+Manhattan,Bakery Products/Desserts,06C,A
+Brooklyn,Pizza,10B,A
+Brooklyn,Chinese,10B,A
+Bronx,Latin American,02G,Z
+Queens,Bakery Products/Desserts,08A,B
+Manhattan,Tex-Mex,10H,A
+Queens,Chinese,10D,A
+Queens,Pizza,06D,A
+Brooklyn,Caribbean,10B,A
+Manhattan,Mexican,10H,A
+Queens,Chinese,06C,A
+Manhattan,Japanese,08C,A
+Brooklyn,American,04L,A
+Brooklyn,Mediterranean,10F,N
+Manhattan,Latin American,10F,B
+Queens,Mediterranean,02B,A
+Manhattan,American,06C,A
+Brooklyn,Chicken,10B,A
+Brooklyn,Other,06E,A
+Manhattan,Chinese,06F,A
+Queens,Chinese,06D,A
+Manhattan,Coffee/Tea,06D,A
+Manhattan,Latin American,08A,A
+Queens,Barbecue,10F,A
+Bronx,Chinese,10F,A
+Manhattan,Japanese,10B,A
+Manhattan,American,04L,A
+Manhattan,American,06D,A
+Manhattan,Other,10F,A
+Queens,Bakery Products/Desserts,06C,B
+Brooklyn,Japanese,10B,Z
+Brooklyn,Spanish,09C,B
+Manhattan,Peruvian,10H,A
+Queens,Caribbean,10F,A
+Queens,Mexican,09B,A
+Manhattan,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,American,08A,B
+Queens,Bakery Products/Desserts,06D,A
+Queens,Bottled Beverages,06F,N
+Queens,American,05H,N
+Manhattan,Pizza,02B,B
+Brooklyn,Coffee/Tea,10F,A
+Staten Island,Pizza,10I,A
+Brooklyn,Bakery Products/Desserts,08A,B
+Brooklyn,Chicken,04M,A
+Manhattan,Japanese,08C,A
+Brooklyn,Coffee/Tea,10H,N
+Manhattan,American,02B,A
+Manhattan,Pizza,04L,A
+Manhattan,Pizza,02G,Z
+Queens,Latin American,02B,B
+Brooklyn,Pizza,02B,A
+Queens,Mexican,10F,Z
+Brooklyn,Other,10F,A
+Manhattan,Chicken,06C,A
+Queens,Pizza,02B,C
+Manhattan,Bakery Products/Desserts,05D,C
+Manhattan,Indian,10F,A
+Manhattan,American,02G,B
+Brooklyn,Coffee/Tea,10F,A
+Brooklyn,Japanese,04J,N
+Queens,Bakery Products/Desserts,06F,A
+Queens,American,04N,C
+Manhattan,American,08A,B
+Queens,American,10F,A
+Manhattan,Coffee/Tea,08C,C
+Brooklyn,American,06A,A
+Queens,American,06C,A
+Queens,American,10A,A
+Brooklyn,American,10F,A
+Brooklyn,Mexican,05D,N
+Brooklyn,Italian,10F,A
+Manhattan,Pizza,04L,C
+Staten Island,American,09C,A
+Manhattan,American,06D,A
+Queens,Pizza,08C,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,09C,N
+Brooklyn,Asian/Asian Fusion,04A,A
+Brooklyn,Coffee/Tea,06C,A
+Queens,Caribbean,06F,B
+Staten Island,Indian,06E,N
+Queens,Mexican,10H,A
+Manhattan,Chinese,02G,A
+Queens,Jewish/Kosher,06D,C
+Manhattan,Hamburgers,04A,A
+Queens,American,10F,A
+Manhattan,Fusion,02G,B
+Manhattan,Chinese,10F,C
+Manhattan,Juice, Smoothies, Fruit Salads,06D,A
+Bronx,Latin American,06E,A
+Queens,Chicken,06D,A
+Queens,American,10H,A
+Manhattan,Chinese/Cuban,06D,C
+Brooklyn,Pizza,02B,C
+Queens,Japanese,10F,N
+Brooklyn,Chinese,02B,B
+Queens,Coffee/Tea,06D,A
+Manhattan,American,04O,Z
+Brooklyn,Italian,02B,A
+Manhattan,Italian,10F,A
+Brooklyn,Asian/Asian Fusion,10F,B
+Brooklyn,Chinese,10B,A
+Brooklyn,Chinese,06C,A
+Queens,Japanese,08A,A
+Manhattan,Pizza,09C,A
+Brooklyn,Donuts,06C,A
+Manhattan,Asian/Asian Fusion,02G,A
+Manhattan,Hamburgers,10F,A
+Brooklyn,Pizza,06D,N
+Queens,Spanish,10F,A
+Manhattan,Latin American,08A,B
+Queens,American,10F,A
+Bronx,Pizza,10F,A
+Brooklyn,Mediterranean,08A,A
+Brooklyn,Mexican,02G,A
+Queens,Middle Eastern,10F,A
+Manhattan,French,10F,A
+Brooklyn,Latin American,08A,A
+Brooklyn,Latin American,08A,A
+Staten Island,Italian,06D,N
+Manhattan,Mediterranean,08C,A
+Queens,Sandwiches,04L,A
+Manhattan,Barbecue,10F,A
+Manhattan,American,06D,A
+Bronx,Coffee/Tea,10B,A
+Brooklyn,Soul Food,04A,C
+Brooklyn,French,04L,A
+Queens,Filipino,10F,B
+Queens,Korean,04L,A
+Manhattan,Korean,06C,A
+Brooklyn,American,10H,A
+Brooklyn,Chinese,04L,B
+Brooklyn,Pizza,04L,N
+Brooklyn,Donuts,04N,A
+Manhattan,Coffee/Tea,06C,A
+Brooklyn,Mexican,05D,A
+Queens,Asian/Asian Fusion,06C,B
+Brooklyn,American,06D,A
+Queens,Other,05F,N
+Manhattan,Coffee/Tea,06D,A
+Manhattan,Japanese,06C,Z
+Queens,Latin American,05B,A
+Queens,Chinese,10F,A
+Manhattan,American,10F,A
+Manhattan,American,06C,A
+Brooklyn,Eastern European,06D,A
+Queens,Pizza,04K,B
+Manhattan,American,10H,A
+Manhattan,Coffee/Tea,08A,P
+Staten Island,Mexican,08C,B
+Brooklyn,American,04C,A
+Bronx,Pizza,10D,A
+Queens,Filipino,09C,A
+Brooklyn,Caribbean,02B,A
+Brooklyn,Creole,02G,A
+Brooklyn,Bakery Products/Desserts,10F,A
+Queens,Other,04L,C
+Brooklyn,Jewish/Kosher,02G,A
+Manhattan,Mediterranean,10E,A
+Manhattan,Mediterranean,02B,A
+Manhattan,American,04A,A
+Manhattan,Juice, Smoothies, Fruit Salads,04A,A
+Manhattan,Thai,06E,A
+Queens,Caribbean,04H,C
+Bronx,Spanish,10B,B
+Queens,Latin American,08A,B
+Bronx,Coffee/Tea,05H,N
+Brooklyn,Hamburgers,02G,A
+Manhattan,Irish,06D,A
+Queens,Chinese,08A,A
+Brooklyn,American,10F,A
+Queens,Chicken,08A,A
+Bronx,Latin American,10F,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,American,10F,A
+Brooklyn,Tex-Mex,10F,A
+Queens,Steakhouse,06D,A
+Queens,American,10F,A
+Manhattan,Chicken,10H,Z
+Staten Island,American,02B,A
+Queens,Pizza,02G,A
+Manhattan,American,04M,A
+Queens,Caribbean,04L,Z
+Queens,American,04L,B
+Bronx,Mexican,06D,A
+Bronx,Chinese,08A,A
+Bronx,Sandwiches/Salads/Mixed Buffet,02G,B
+Manhattan,Hamburgers,04J,N
+Queens,African,08A,A
+Bronx,Bakery Products/Desserts,04A,A
+Manhattan,Chicken,10B,B
+Brooklyn,Coffee/Tea,10B,N
+Bronx,Pizza,08A,Z
+Brooklyn,Chinese,10B,A
+Manhattan,Juice, Smoothies, Fruit Salads,10F,A
+Bronx,Mexican,10B,A
+Queens,American,05D,B
+Queens,Pizza,06D,Z
+Brooklyn,Hamburgers,06D,A
+Manhattan,Pizza,10F,A
+Brooklyn,Caribbean,10F,Z
+Brooklyn,Pizza,10A,Z
+Brooklyn,Sandwiches,05H,Z
+Queens,Peruvian,06A,A
+Manhattan,Asian/Asian Fusion,02G,B
+Manhattan,Frozen Desserts,06D,B
+Manhattan,Donuts,10F,A
+Brooklyn,American,10F,A
+Queens,Spanish,04N,A
+Queens,Japanese,06D,A
+Queens,Indian,10B,B
+Brooklyn,Bakery Products/Desserts,10H,A
+Manhattan,Asian/Asian Fusion,06D,A
+Queens,Latin American,09E,A
+Brooklyn,Pizza,04N,B
+Queens,Chicken,09B,A
+Manhattan,Jewish/Kosher,10B,A
+Brooklyn,Tex-Mex,06A,A
+Queens,Spanish,10B,A
+Manhattan,Tex-Mex,04N,A
+Brooklyn,American,04N,N
+Queens,Mexican,06C,A
+Manhattan,American,06D,A
+Staten Island,Italian,10F,A
+Manhattan,American,02G,Z
+Manhattan,Irish,10F,A
+Manhattan,Continental,06C,C
+Bronx,American,10F,A
+Manhattan,Italian,04L,B
+Brooklyn,Caribbean,02G,C
+Brooklyn,Chinese,02B,A
+Manhattan,Asian/Asian Fusion,06C,B
+Brooklyn,Japanese,02G,B
+Manhattan,Latin American,06C,A
+Brooklyn,Donuts,10F,A
+Queens,Mexican,08C,B
+Manhattan,American,06C,A
+Manhattan,Other,06C,A
+Bronx,Pizza,08A,C
+Manhattan,American,10F,A
+Queens,American,10F,N
+Queens,Caribbean,09B,A
+Brooklyn,Caribbean,08A,B
+Manhattan,Peruvian,10H,B
+Queens,Korean,06D,A
+Brooklyn,American,04H,B
+Queens,Tex-Mex,08A,A
+Manhattan,Bakery Products/Desserts,10F,A
+Manhattan,Italian,10F,N
+Bronx,Chinese,04M,A
+Queens,Hamburgers,10F,A
+Manhattan,Chinese,10F,A
+Brooklyn,Italian,10F,A
+Brooklyn,Pizza,08A,A
+Bronx,Japanese,08A,Z
+Queens,French,09E,A
+Queens,Latin American,10H,C
+Manhattan,New American,08A,A
+Brooklyn,French,08B,A
+Queens,Chinese,06C,C
+Staten Island,Bakery Products/Desserts,10F,C
+Manhattan,American,02B,A
+Brooklyn,Chinese,02G,A
+Manhattan,Mexican,10B,A
+Brooklyn,American,10B,A
+Queens,Coffee/Tea,10E,A
+Manhattan,Donuts,06C,A
+Brooklyn,Chinese,10F,A
+Brooklyn,American,02G,C
+Manhattan,American,10F,A
+Staten Island,American,06C,A
+Manhattan,American,02G,C
+Brooklyn,Chinese,10F,A
+Manhattan,Coffee/Tea,06C,A
+Manhattan,Indian,02H,B
+Manhattan,American,04H,A
+Queens,Latin American,04N,A
+Manhattan,French,06D,B
+Manhattan,Korean,06D,A
+Manhattan,Mexican,06D,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Latin American,06C,A
+Queens,Hamburgers,10B,A
+Queens,Juice, Smoothies, Fruit Salads,10G,A
+Manhattan,American,02G,C
+Manhattan,Donuts,06D,A
+Brooklyn,Pizza,08A,Z
+Bronx,American,02B,B
+Manhattan,Bagels/Pretzels,10F,A
+Brooklyn,Chinese,06C,B
+Manhattan,Coffee/Tea,10H,A
+Queens,Caribbean,10F,A
+Manhattan,Pizza,10G,N
+Manhattan,Latin American,10F,A
+Brooklyn,Other,04N,N
+Manhattan,American,06D,A
+Manhattan,Steakhouse,06D,A
+Queens,American,05H,Z
+Queens,Indian,06D,C
+Bronx,Bottled Beverages,10F,A
+Manhattan,Chinese,06F,A
+Brooklyn,Juice, Smoothies, Fruit Salads,10B,A
+Staten Island,Chinese,06D,B
+Queens,Filipino,02B,C
+Brooklyn,Caribbean,08A,A
+Manhattan,Donuts,04A,A
+Brooklyn,Juice, Smoothies, Fruit Salads,09E,A
+Manhattan,American,08A,Z
+Manhattan,Frozen Desserts,04A,A
+Manhattan,American,08A,A
+Manhattan,Greek,04N,B
+Manhattan,Pizza,02B,B
+Manhattan,American,10B,A
+Queens,Italian,08A,A
+Brooklyn,American,06D,A
+Manhattan,Chinese,10F,A
+Manhattan,Hamburgers,10E,A
+Manhattan,Japanese,08A,N
+Brooklyn,Chinese,02B,B
+Bronx,Chinese,02B,A
+Manhattan,Bakery Products/Desserts,06A,A
+Manhattan,American,06D,A
+Manhattan,Asian/Asian Fusion,06E,A
+Bronx,Middle Eastern,10E,A
+Bronx,Latin American,10G,A
+Brooklyn,Frozen Desserts,10A,A
+Manhattan,Pizza,02B,C
+Brooklyn,American,08C,A
+Queens,Sandwiches/Salads/Mixed Buffet,04A,Z
+Queens,Bakery Products/Desserts,04L,A
+Bronx,American,10B,N
+Manhattan,American,04L,A
+Staten Island,Coffee/Tea,10E,A
+Manhattan,Pizza,10B,B
+Manhattan,American,06A,A
+Bronx,Spanish,10F,A
+Bronx,Chicken,04N,A
+Manhattan,American,06D,A
+Bronx,Chinese,02G,B
+Bronx,Juice, Smoothies, Fruit Salads,04L,C
+Brooklyn,American,02G,A
+Queens,Juice, Smoothies, Fruit Salads,04A,B
+Manhattan,Mediterranean,08A,B
+Manhattan,Japanese,10F,A
+Manhattan,African,04N,A
+Brooklyn,Caribbean,02H,Z
+Queens,Chinese,04M,B
+Brooklyn,Chinese,04L,A
+Brooklyn,Mexican,08A,B
+Brooklyn,Pizza,06A,A
+Bronx,American,10B,A
+Manhattan,Frozen Desserts,04A,A
+Queens,Chinese,10B,A
+Manhattan,Italian,06H,C
+Queens,Korean,08A,A
+Manhattan,Bakery Products/Desserts,08A,A
+Staten Island,Chinese,02B,B
+Manhattan,American,04A,C
+Queens,Chinese,05D,B
+Manhattan,Italian,02B,A
+Bronx,Bakery Products/Desserts,08A,A
+Manhattan,Other,10F,A
+Brooklyn,Latin American,10F,A
+Manhattan,Seafood,04K,Z
+Brooklyn,American,06D,A
+Queens,Japanese,02G,B
+Manhattan,Juice, Smoothies, Fruit Salads,06D,C
+Bronx,Sandwiches,04A,B
+Manhattan,Italian,02G,B
+Bronx,Chicken,02B,A
+Queens,Coffee/Tea,06E,C
+Manhattan,Sandwiches,10B,N
+Manhattan,French,06F,A
+Staten Island,Chicken,10B,A
+Manhattan,Coffee/Tea,10B,A
+Brooklyn,Mexican,08A,B
+Queens,Asian/Asian Fusion,04N,A
+Bronx,American,04A,C
+Brooklyn,Coffee/Tea,10B,A
+Manhattan,American,08C,A
+Brooklyn,Asian/Asian Fusion,10F,A
+Brooklyn,Sandwiches,10F,A
+Manhattan,Chinese,02G,A
+Brooklyn,Spanish,10F,A
+Manhattan,American,06E,A
+Manhattan,American,10F,A
+Manhattan,Japanese,08A,N
+Manhattan,Coffee/Tea,10G,A
+Brooklyn,Coffee/Tea,04C,A
+Manhattan,Coffee/Tea,04H,A
+Manhattan,Latin American,10H,B
+Brooklyn,Indian,10B,C
+Brooklyn,Juice, Smoothies, Fruit Salads,06C,A
+Brooklyn,Other,08C,A
+Manhattan,Japanese,06C,A
+Manhattan,Hamburgers,04N,B
+Queens,Hamburgers,10G,P
+Manhattan,Coffee/Tea,02B,A
+Manhattan,American,06D,A
+Brooklyn,Creole,04N,A
+Brooklyn,Sandwiches,10F,A
+Manhattan,Mediterranean,10F,A
+Manhattan,American,06D,Z
+Queens,Japanese,10B,A
+Staten Island,Mediterranean,10F,A
+Manhattan,American,02G,A
+Queens,Chinese,02G,A
+Brooklyn,Sandwiches,06D,A
+Queens,Japanese,10B,A
+Manhattan,Spanish,06C,B
+Manhattan,Latin American,02B,A
+Brooklyn,Sandwiches/Salads/Mixed Buffet,04N,A
+Manhattan,Chinese,10F,A
+Brooklyn,Chinese,10F,A
+Brooklyn,Chinese,06E,A
+Staten Island,Coffee/Tea,02B,B
+Brooklyn,Bagels/Pretzels,10F,B
+Brooklyn,Spanish,10B,A
+Brooklyn,Mexican,04L,B
+Manhattan,Coffee/Tea,10B,A
+Brooklyn,Japanese,10F,A
+Manhattan,Other,04L,N
+Manhattan,American,08A,A
+Queens,Donuts,10F,A
+Brooklyn,Pancakes/Waffles,10F,A
+Queens,Korean,10F,A
+Queens,Korean,10F,A
+Queens,Korean,06C,A
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Latin American,08A,A
+Brooklyn,Chinese,05D,C
+Manhattan,German,06C,A
+Manhattan,Hamburgers,10H,A
+Queens,Tex-Mex,10F,A
+Brooklyn,Spanish,05H,C
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Sandwiches,06F,Z
+Manhattan,Donuts,04L,A
+Brooklyn,Caribbean,02G,Z
+Manhattan,Italian,06D,A
+Manhattan,American,06D,A
+Brooklyn,American,10F,A
+Bronx,Donuts,10B,A
+Brooklyn,Asian/Asian Fusion,08C,A
+Brooklyn,Caribbean,08A,C
+Manhattan,Indian,02G,C
+Brooklyn,Mexican,10F,A
+Queens,Latin American,08A,C
+Brooklyn,American,08A,B
+Queens,Mexican,04A,C
+Queens,Irish,04N,N
+Manhattan,Mexican,10G,A
+Brooklyn,Chinese,06C,B
+Brooklyn,Japanese,02B,C
+Brooklyn,Japanese,06A,B
+Brooklyn,African,09E,Z
+Queens,Latin American,04M,B
+Manhattan,Bakery Products/Desserts,04K,B
+Manhattan,Bakery Products/Desserts,06C,C
+Queens,Asian/Asian Fusion,02G,A
+Bronx,Japanese,08A,B
+Brooklyn,American,02G,A
+Brooklyn,Thai,02G,C
+Manhattan,Tex-Mex,10B,A
+Manhattan,Hawaiian,05D,N
+Bronx,Chicken,10B,A
+Manhattan,Mediterranean,02H,Z
+Brooklyn,American,10F,A
+Queens,German,08A,A
+Brooklyn,Pizza,04M,A
+Queens,Pizza,10F,P
+Brooklyn,American,04A,A
+Queens,Chinese,02B,A
+Manhattan,Other,04A,N
+Manhattan,American,06A,A
+Queens,Bakery Products/Desserts,06D,C
+Queens,Chicken,10F,A
+Brooklyn,Chicken,10F,A
+Manhattan,American,04L,B
+Manhattan,Greek,10F,A
+Manhattan,French,10F,A
+Queens,Coffee/Tea,04A,C
+Manhattan,American,10F,A
+Queens,Chinese,10H,A
+Queens,Donuts,10F,A
+Queens,Coffee/Tea,04C,A
+Queens,Chinese,09C,C
+Bronx,Latin American,10F,A
+Queens,Asian/Asian Fusion,10F,A
+Brooklyn,Bakery Products/Desserts,08A,Z
+Brooklyn,Jewish/Kosher,04H,B
+Bronx,Donuts,04H,A
+Bronx,Donuts,10F,A
+Brooklyn,Jewish/Kosher,08C,C
+Brooklyn,Bottled Beverages,08A,Z
+Queens,Other,04K,N
+Brooklyn,Creole,10F,C
+Queens,Chinese,10H,B
+Manhattan,Italian,10F,A
+Staten Island,Pizza,04K,A
+Manhattan,Other,02G,A
+Queens,Caribbean,06C,Z
+Brooklyn,Donuts,10F,A
+Manhattan,Donuts,09C,A
+Queens,Pizza,02G,C
+Brooklyn,Bagels/Pretzels,10F,A
+Brooklyn,Greek,10E,A
+Brooklyn,Latin American,08A,B
+Manhattan,Chinese,04M,A
+Brooklyn,American,08C,A
+Manhattan,Italian,06F,A
+Queens,Asian/Asian Fusion,06A,B
+Manhattan,Spanish,02G,A
+Manhattan,Indian,28-06,C
+Manhattan,Other,02B,A
+Bronx,Chinese,02B,A
+Brooklyn,Japanese,02B,A
+Manhattan,Juice, Smoothies, Fruit Salads,04A,B
+Queens,Asian/Asian Fusion,04L,C
+Bronx,Mexican,06C,A
+Manhattan,Coffee/Tea,10D,N
+Bronx,Latin American,04N,A
+Brooklyn,Mexican,04N,C
+Staten Island,Pizza,09B,A
+Manhattan,Chicken,08A,A
+Queens,Juice, Smoothies, Fruit Salads,10B,A
+Manhattan,Sandwiches,06F,A
+Brooklyn,Thai,09B,A
+Queens,Mexican,04N,A
+Manhattan,American,06E,N
+Brooklyn,Vegan,06D,A
+Bronx,Pancakes/Waffles,10F,A
+Manhattan,Chicken,10F,A
+Brooklyn,Bagels/Pretzels,08A,A
+Brooklyn,Mexican,10F,N
+Bronx,Latin American,06D,A
+Queens,Spanish,10F,A
+Manhattan,Bakery Products/Desserts,08A,Z
+Manhattan,Chinese,02G,A
+Manhattan,Mediterranean,10G,C
+Queens,Bangladeshi,04M,Z
+Manhattan,American,06D,A
+Brooklyn,Bakery Products/Desserts,04L,A
+Bronx,Bakery Products/Desserts,02G,P
+Manhattan,Chinese,10F,N
+Brooklyn,Italian,10B,N
+Manhattan,Indian,06D,A
+Manhattan,Italian,10A,A
+Queens,Coffee/Tea,08C,A
+Queens,Filipino,02B,C
+Queens,Latin American,06A,A
+Bronx,Bakery Products/Desserts,10F,A
+Queens,Chinese,10F,P
+Brooklyn,Bakery Products/Desserts,06E,A
+Brooklyn,American,08A,A
+Bronx,Mexican,10B,A
+Manhattan,Mexican,10F,A
+Brooklyn,American,06C,A
+Manhattan,Other,10G,A
+Brooklyn,Soups/Salads/Sandwiches,04L,A
+Queens,Bakery Products/Desserts,05D,B
+Bronx,Chinese,10F,A
+Manhattan,Tex-Mex,09C,A
+Bronx,Caribbean,10F,A
+Bronx,Latin American,06C,A
+Bronx,Chinese,10I,A
+Brooklyn,American,10F,A
+Manhattan,Donuts,10F,A
+Bronx,Pizza,06F,A
+Queens,Peruvian,02G,B
+Bronx,Chicken,10B,A
+Bronx,Coffee/Tea,10F,A
+Brooklyn,Chinese,05D,A
+Brooklyn,Caribbean,10H,A
+Brooklyn,Chinese,09B,B
+Queens,Latin American,09E,B
+Manhattan,Coffee/Tea,04L,A
+Manhattan,American,10F,A
+Brooklyn,American,06C,A
+Queens,Japanese,10F,P
+Brooklyn,American,10F,A
+Manhattan,Seafood,04L,A
+Brooklyn,Caribbean,10F,A
+Manhattan,Chinese,02B,B
+Queens,Chicken,02G,C
+Manhattan,Donuts,10F,A
+Manhattan,Coffee/Tea,04L,A
+Queens,Bakery Products/Desserts,08B,A
+Brooklyn,Mexican,06D,A
+Queens,Juice, Smoothies, Fruit Salads,10F,A
+Brooklyn,Spanish,10F,A
+Brooklyn,American,08A,N
+Manhattan,American,06C,A
+Staten Island,American,06D,A
+Bronx,American,10D,A
+Bronx,Spanish,04M,C
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Chinese,06D,A
+Brooklyn,American,10F,A
+Manhattan,Mexican,02G,B
+Brooklyn,Salads,02G,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Pizza,10F,A
+Manhattan,Chinese,10F,A
+Queens,Chinese,06C,A
+Brooklyn,Thai,04L,B
+Queens,Japanese,10F,A
+Queens,Caribbean,08A,B
+Queens,Bakery Products/Desserts,06C,A
+Brooklyn,Japanese,02G,A
+Manhattan,Bakery Products/Desserts,04L,P
+Bronx,Latin American,08A,Z
+Bronx,Hamburgers,10B,C
+Brooklyn,Seafood,05C,N
+Brooklyn,Middle Eastern,10F,A
+Manhattan,Italian,06A,N
+Manhattan,American,04K,A
+Manhattan,Frozen Desserts,04N,A
+Manhattan,Hotdogs/Pretzels,10B,A
+Brooklyn,Juice, Smoothies, Fruit Salads,06D,A
+Manhattan,Pizza,02B,A
+Queens,American,06E,N
+Queens,Hamburgers,02G,A
+Manhattan,American,04L,B
+Manhattan,American,04J,A
+Manhattan,Chinese,04N,A
+Brooklyn,American,10F,A
+Queens,American,04K,A
+Queens,Chinese,06C,A
+Manhattan,American,10F,A
+Queens,Bakery Products/Desserts,06E,C
+Brooklyn,Frozen Desserts,02G,Z
+Manhattan,Other,04L,A
+Bronx,Juice, Smoothies, Fruit Salads,10B,B
+Bronx,Pizza,10F,A
+Brooklyn,American,08C,A
+Bronx,Pizza,05D,A
+Manhattan,New French,10F,A
+Manhattan,Asian/Asian Fusion,06C,B
+Manhattan,Coffee/Tea,05H,C
+Manhattan,Italian,05D,B
+Brooklyn,Thai,04A,C
+Brooklyn,Japanese,10F,A
+Brooklyn,Italian,08A,A
+Manhattan,Pizza,10F,A
+Manhattan,Chicken,06D,A
+Manhattan,Coffee/Tea,10F,A
+Bronx,Spanish,06E,N
+Queens,Caribbean,09C,A
+Manhattan,American,10F,A
+Queens,Chinese,08A,A
+Brooklyn,Caribbean,10B,A
+Queens,Caribbean,10F,A
+Brooklyn,Caribbean,10F,A
+Brooklyn,Jewish/Kosher,04N,B
+Queens,Chinese,04M,Z
+Brooklyn,Mexican,02H,A
+Staten Island,Bagels/Pretzels,02G,A
+Brooklyn,Mediterranean,06D,A
+Manhattan,Hawaiian,10B,A
+Manhattan,Pizza,02B,A
+Staten Island,American,10E,A
+Brooklyn,Mexican,10F,A
+Brooklyn,American,10F,A
+Manhattan,Coffee/Tea,06D,A
+Bronx,Chinese,08A,N
+Manhattan,American,04L,A
+Brooklyn,Pizza,06C,A
+Queens,American,05D,N
+Manhattan,Jewish/Kosher,06D,A
+Manhattan,Frozen Desserts,10F,A
+Queens,American,10F,A
+Manhattan,Tex-Mex,10F,A
+Manhattan,Pizza,05D,A
+Brooklyn,Pizza,10F,A
+Queens,American,10F,A
+Brooklyn,Coffee/Tea,10G,A
+Brooklyn,Pizza,06A,A
+Bronx,Coffee/Tea,02B,A
+Brooklyn,Korean,04N,N
+Manhattan,French,04L,A
+Manhattan,American,05D,N
+Brooklyn,American,06D,A
+Queens,Coffee/Tea,04E,A
+Brooklyn,Mediterranean,10B,N
+Bronx,Chinese,10F,A
+Queens,Vegetarian,06C,B
+Manhattan,Spanish,04N,Z
+Manhattan,Chinese,06C,A
+Queens,Chicken,10B,A
+Brooklyn,Caribbean,04H,A
+Manhattan,Asian/Asian Fusion,10F,N
+Manhattan,Japanese,04M,B
+Manhattan,Sandwiches,10F,A
+Queens,Japanese,09B,A
+Manhattan,Coffee/Tea,04N,A
+Queens,American,08A,B
+Queens,American,04N,A
+Queens,Chinese,08A,A
+Brooklyn,Italian,06C,A
+Brooklyn,Thai,06C,A
+Queens,Donuts,08A,A
+Brooklyn,Pizza,02G,C
+Manhattan,Greek,06C,A
+Staten Island,Coffee/Tea,06A,N
+Brooklyn,Jewish/Kosher,04A,B
+Manhattan,Other,06D,A
+Manhattan,Coffee/Tea,10F,N
+Manhattan,Japanese,04L,A
+Manhattan,American,08A,C
+Queens,Soul Food,08A,C
+Queens,Bakery Products/Desserts,10F,A
+Bronx,Pizza,10F,A
+Queens,Latin American,08A,A
+Brooklyn,American,05E,Z
+Manhattan,Mediterranean,10F,A
+Manhattan,Coffee/Tea,10F,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Chinese,02B,B
+Bronx,Chinese,10A,A
+Manhattan,Italian,04L,A
+Manhattan,Italian,08A,A
+Brooklyn,Pizza,08C,A
+Bronx,Chinese,06F,N
+Bronx,Latin American,04J,A
+Brooklyn,Spanish,04N,A
+Queens,Caribbean,04L,B
+Brooklyn,Mexican,08A,B
+Staten Island,Mexican,04A,B
+Bronx,Caribbean,02B,C
+Brooklyn,Mediterranean,10F,A
+Brooklyn,American,08A,B
+Manhattan,American,09B,A
+Manhattan,Coffee/Tea,06C,A
+Manhattan,Chinese,10F,B
+Bronx,Hamburgers,10B,A
+Brooklyn,Middle Eastern,10F,A
+Brooklyn,Latin American,10G,Z
+Brooklyn,Japanese,09C,A
+Bronx,Seafood,10F,A
+Bronx,Chinese,05D,A
+Manhattan,American,08A,A
+Queens,Greek,10F,A
+Queens,Spanish,04L,C
+Brooklyn,Frozen Desserts,06F,B
+Staten Island,Irish,08A,B
+Manhattan,Tapas,10B,N
+Bronx,African,04M,C
+Manhattan,American,06C,A
+Queens,American,10E,A
+Queens,Caribbean,04L,C
+Manhattan,Donuts,10F,A
+Manhattan,Spanish,10F,A
+Manhattan,Chinese,10F,N
+Brooklyn,Hamburgers,08A,A
+Manhattan,Sandwiches,10F,A
+Brooklyn,Latin American,02B,B
+Manhattan,Pizza,10B,A
+Manhattan,Pizza,04A,B
+Queens,Spanish,10G,A
+Manhattan,Italian,06C,A
+Brooklyn,American,10F,A
+Queens,Asian/Asian Fusion,08A,A
+Manhattan,Seafood,10G,A
+Manhattan,American,02G,A
+Manhattan,Other,04L,P
+Queens,Korean,10F,B
+Staten Island,American,10F,B
+Brooklyn,Latin American,10D,A
+Bronx,Thai,08A,C
+Bronx,Spanish,10F,A
+Bronx,Caribbean,10B,Z
+Manhattan,Bagels/Pretzels,02A,A
+Brooklyn,Bakery Products/Desserts,06C,A
+Manhattan,Japanese,10F,B
+Queens,Jewish/Kosher,10F,P
+Staten Island,Donuts,04H,A
+Staten Island,Chinese,02G,A
+Manhattan,Chinese,04L,A
+Queens,Bakery Products/Desserts,10F,P
+Queens,Frozen Desserts,08C,A
+Queens,Pizza,04E,A
+Bronx,Chicken,04A,A
+Manhattan,American,10F,B
+Manhattan,Latin American,10F,Z
+Queens,Hamburgers,06C,A
+Manhattan,American,10B,B
+Manhattan,Scandinavian,08A,A
+Manhattan,American,04L,N
+Manhattan,Mexican,06C,N
+Queens,American,08A,A
+Bronx,Pizza,06C,A
+Queens,Tex-Mex,06C,A
+Manhattan,Mexican,10F,A
+Brooklyn,Bagels/Pretzels,04N,A
+Queens,American,04H,B
+Manhattan,American,10F,A
+Manhattan,Mediterranean,10E,C
+Queens,Mexican,06F,A
+Brooklyn,Latin American,04N,A
+Bronx,Spanish,04L,A
+Brooklyn,Italian,10F,A
+Brooklyn,Japanese,06F,A
+Manhattan,American,02G,A
+Brooklyn,American,10G,A
+Brooklyn,American,10F,A
+Queens,Bottled Beverages,04N,Z
+Bronx,Chinese,08B,A
+Manhattan,American,09C,A
+Brooklyn,Turkish,02B,N
+Manhattan,Asian/Asian Fusion,06D,A
+Manhattan,Chicken,08A,A
+Manhattan,Mediterranean,10F,A
+Manhattan,Italian,10B,A
+Brooklyn,Mexican,10F,A
+Queens,Mexican,09C,A
+Manhattan,Bakery Products/Desserts,02G,C
+Brooklyn,Coffee/Tea,04M,N
+Queens,Mexican,06C,A
+Bronx,Italian,06D,A
+Staten Island,Coffee/Tea,10B,A
+Manhattan,Japanese,04L,B
+Manhattan,American,04H,C
+Bronx,Chinese,05H,C
+Manhattan,French,10B,B
+Manhattan,Tex-Mex,10F,A
+Queens,Mexican,08C,A
+Brooklyn,Coffee/Tea,06A,A
+Bronx,American,06F,A
+Manhattan,Juice, Smoothies, Fruit Salads,04N,N
+Queens,Chinese,06C,A
+Brooklyn,Bagels/Pretzels,04C,A
+Brooklyn,Pizza,08A,A
+Manhattan,Steakhouse,08A,A
+Brooklyn,American,10G,A
+Manhattan,Middle Eastern,04L,A
+Queens,Tex-Mex,08A,A
+Manhattan,Italian,04L,N
+Manhattan,Coffee/Tea,05D,N
+Brooklyn,American,04M,B
+Queens,Pizza,04N,A
+Manhattan,Japanese,08B,A
+Manhattan,Mexican,10F,B
+Queens,Tex-Mex,10F,A
+Queens,Bakery Products/Desserts,06A,A
+Queens,Chicken,10F,A
+Manhattan,Japanese,10F,B
+Brooklyn,Caribbean,04A,C
+Manhattan,Mediterranean,10F,N
+Manhattan,Pizza,06E,A
+Manhattan,American,10F,A
+Manhattan,Coffee/Tea,08A,C
+Manhattan,Italian,09C,A
+Manhattan,Italian,04N,N
+Queens,Asian/Asian Fusion,08A,C
+Manhattan,Chinese,02G,A
+Brooklyn,Chinese,10B,A
+Brooklyn,Coffee/Tea,06A,A
+Bronx,Spanish,04L,B
+Brooklyn,Japanese,10E,A
+Queens,American,06C,A
+Manhattan,Pizza,08A,A
+Queens,Thai,10F,A
+Manhattan,Salads,02B,A
+Manhattan,American,06D,A
+Brooklyn,Spanish,09C,A
+Queens,Latin American,09C,A
+Manhattan,Southeast Asian,08A,A
+Manhattan,Pizza,10B,A
+Manhattan,Bottled Beverages,10B,A
+Manhattan,Chinese,06F,B
+Queens,American,10I,A
+Queens,Bakery Products/Desserts,10F,A
+Bronx,American,10F,A
+Manhattan,Ethiopian,04M,A
+Queens,Chinese,10F,B
+Manhattan,Pizza,06C,A
+Brooklyn,Coffee/Tea,04A,A
+Manhattan,French,04L,C
+Brooklyn,Caribbean,04L,C
+Brooklyn,Jewish/Kosher,06C,A
+Manhattan,American,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,08C,A
+Staten Island,Italian,08A,A
+Manhattan,Tex-Mex,08C,B
+Brooklyn,Salads,06E,A
+Queens,Mediterranean,10G,A
+Bronx,American,06D,A
+Brooklyn,Latin American,06A,A
+Manhattan,Coffee/Tea,04N,B
+Manhattan,Donuts,10G,A
+Brooklyn,Greek,10F,A
+Brooklyn,American,10F,A
+Queens,Brazilian,10B,A
+Brooklyn,Vegetarian,04N,A
+Queens,Chinese,08A,B
+Brooklyn,Japanese,06E,A
+Manhattan,American,04L,A
+Bronx,Pizza,10F,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,06D,A
+Queens,Caribbean,09C,N
+Manhattan,Thai,02B,N
+Manhattan,Steakhouse,02G,A
+Manhattan,Fusion,10F,A
+Brooklyn,American,04H,A
+Bronx,Caribbean,02H,A
+Bronx,American,06D,A
+Manhattan,American,02G,B
+Queens,Chinese,06C,A
+Manhattan,Caribbean,02B,A
+Manhattan,Spanish,04K,A
+Manhattan,Mediterranean,06D,A
+Brooklyn,Latin American,06C,C
+Brooklyn,Bakery Products/Desserts,10B,A
+Brooklyn,Chinese,08A,C
+Brooklyn,Bakery Products/Desserts,28-05,A
+Queens,Coffee/Tea,10F,A
+Manhattan,Vegan,06C,A
+Manhattan,Latin American,10F,A
+Manhattan,Other,04C,Z
+Queens,Korean,02B,C
+Queens,American,10F,A
+Manhattan,Seafood,05D,N
+Queens,Coffee/Tea,06C,C
+Manhattan,Hamburgers,10F,A
+Manhattan,Thai,04K,B
+Bronx,Mexican,06D,B
+Manhattan,Coffee/Tea,06D,A
+Brooklyn,American,10B,A
+Brooklyn,Spanish,04E,A
+Manhattan,Korean,06E,A
+Brooklyn,Donuts,02G,A
+Brooklyn,Pizza,10F,A
+Manhattan,Jewish/Kosher,02G,A
+Brooklyn,Mexican,08C,A
+Brooklyn,Thai,02G,B
+Brooklyn,American,04A,B
+Queens,Fusion,04L,A
+Manhattan,Sandwiches,06A,A
+Bronx,Latin American,04N,A
+Bronx,Chinese,02B,C
+Bronx,Italian,10F,A
+Bronx,Mexican,02G,N
+Manhattan,Asian/Asian Fusion,06A,A
+Queens,Chinese,08A,C
+Brooklyn,Italian,06C,A
+Manhattan,Irish,04L,A
+Brooklyn,Pizza,02B,A
+Manhattan,Italian,10F,A
+Queens,American,04A,A
+Bronx,Pizza,09B,A
+Manhattan,Italian,06C,A
+Manhattan,Donuts,04K,A
+Brooklyn,Hamburgers,10F,A
+Brooklyn,Chinese,10D,A
+Bronx,Latin American,08A,A
+Brooklyn,Coffee/Tea,08A,A
+Queens,Pakistani,10B,P
+Manhattan,Chinese,10B,A
+Manhattan,Asian/Asian Fusion,06C,B
+Brooklyn,Mexican,06D,A
+Manhattan,Japanese,02B,A
+Queens,American,04H,A
+Bronx,Chicken,06C,C
+Queens,American,04H,A
+Brooklyn,Mexican,10C,N
+Manhattan,Italian,09C,N
+Staten Island,Italian,06D,A
+Brooklyn,Sandwiches,05D,C
+Brooklyn,Mexican,10F,A
+Bronx,Bakery Products/Desserts,10B,A
+Bronx,American,10F,C
+Manhattan,American,08A,A
+Manhattan,Pizza,08A,C
+Brooklyn,Chinese,06C,A
+Brooklyn,Caribbean,02H,B
+Manhattan,American,06C,A
+Brooklyn,Italian,10H,A
+Brooklyn,American,04L,Z
+Brooklyn,Pizza,04L,A
+Manhattan,Pizza,10F,A
+Manhattan,Bakery Products/Desserts,06C,A
+Bronx,Bakery Products/Desserts,10F,N
+Queens,Spanish,04N,A
+Manhattan,American,08A,A
+Manhattan,Japanese,04N,C
+Brooklyn,Donuts,02G,A
+Brooklyn,Mexican,02B,A
+Manhattan,Chinese,10G,C
+Queens,Italian,10F,A
+Queens,Mexican,10D,A
+Manhattan,Sandwiches,08B,A
+Queens,Donuts,06D,A
+Brooklyn,Indian,08A,B
+Queens,Latin American,02B,A
+Manhattan,American,06D,A
+Brooklyn,Donuts,06D,A
+Queens,Bakery Products/Desserts,06D,B
+Brooklyn,Asian/Asian Fusion,08A,N
+Queens,Mediterranean,10H,A
+Brooklyn,Italian,10F,A
+Brooklyn,Frozen Desserts,04A,A
+Brooklyn,Eastern European,10F,A
+Brooklyn,American,06F,N
+Brooklyn,Jewish/Kosher,10G,N
+Manhattan,American,10E,A
+Bronx,Sandwiches,10F,B
+Brooklyn,Pizza,06D,A
+Manhattan,Tapas,09B,N
+Manhattan,Coffee/Tea,04L,A
+Manhattan,American,08A,C
+Brooklyn,Coffee/Tea,10F,A
+Brooklyn,Juice, Smoothies, Fruit Salads,10B,A
+Manhattan,Latin American,10J,A
+Manhattan,Korean,05B,A
+Manhattan,French,10F,C
+Queens,Hamburgers,04N,A
+Manhattan,American,04K,A
+Brooklyn,Pizza,10F,A
+Manhattan,Coffee/Tea,10H,N
+Brooklyn,Chinese,02G,C
+Brooklyn,Mexican,10F,A
+Bronx,Juice, Smoothies, Fruit Salads,10B,A
+Queens,Japanese,06C,N
+Manhattan,Japanese,06A,B
+Queens,Irish,10F,A
+Queens,Coffee/Tea,10F,A
+Brooklyn,American,04N,A
+Manhattan,American,08A,A
+Queens,Latin American,06E,A
+Brooklyn,American,10H,C
+Manhattan,American,06D,A
+Brooklyn,Latin American,10E,A
+Brooklyn,American,04A,Z
+Bronx,Chinese,06C,A
+Brooklyn,Coffee/Tea,04N,A
+Brooklyn,Spanish,04N,A
+Queens,Hamburgers,10B,A
+Brooklyn,Thai,08C,N
+Manhattan,Spanish,10B,A
+Queens,Sandwiches,06D,A
+Manhattan,Coffee/Tea,04A,Z
+Queens,Pizza,02G,Z
+Manhattan,Steakhouse,10F,A
+Queens,Caribbean,06C,C
+Brooklyn,Italian,04L,A
+Bronx,Chinese,04H,Z
+Queens,Korean,06D,C
+Brooklyn,Spanish,02C,A
+Queens,Latin American,09C,A
+Brooklyn,Bakery Products/Desserts,06E,A
+Brooklyn,Chinese/Japanese,06C,A
+Manhattan,Coffee/Tea,10B,A
+Brooklyn,Bakery Products/Desserts,06D,A
+Queens,American,04N,A
+Queens,American,10F,A
+Manhattan,Chinese,02G,A
+Staten Island,American,09B,A
+Staten Island,Chinese,06B,A
+Brooklyn,American,04A,B
+Manhattan,Chinese,10F,A
+Bronx,American,10B,A
+Manhattan,American,08A,A
+Manhattan,Mediterranean,10F,A
+Manhattan,Middle Eastern,10F,A
+Manhattan,Asian/Asian Fusion,04D,C
+Brooklyn,Chinese,02B,A
+Queens,American,10J,A
+Manhattan,Italian,02G,A
+Queens,Bakery Products/Desserts,02G,A
+Bronx,Bakery Products/Desserts,04K,N
+Manhattan,Coffee/Tea,08A,A
+Manhattan,American,10B,A
+Brooklyn,Pizza,02H,C
+Brooklyn,Coffee/Tea,06C,A
+Queens,Italian,08A,A
+Bronx,Hamburgers,10F,A
+Brooklyn,American,04A,A
+Brooklyn,Japanese,10B,A
+Manhattan,Coffee/Tea,08A,A
+Brooklyn,Italian,02G,A
+Staten Island,Pizza,10F,A
+Bronx,Pizza,02B,C
+Manhattan,Pakistani,10B,N
+Queens,American,04L,A
+Bronx,Bakery Products/Desserts,08A,A
+Brooklyn,Bakery Products/Desserts,06D,A
+Brooklyn,Tex-Mex,10F,A
+Brooklyn,Soups/Salads/Sandwiches,06C,B
+Bronx,Tex-Mex,10F,A
+Brooklyn,Coffee/Tea,04A,A
+Brooklyn,Jewish/Kosher,10F,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,American,10F,A
+Manhattan,French,10F,A
+Brooklyn,Italian,10H,A
+Bronx,Caribbean,10D,A
+Manhattan,Seafood,10F,A
+Manhattan,New French,04A,N
+Manhattan,Fusion,10F,A
+Manhattan,Coffee/Tea,04M,N
+Brooklyn,Coffee/Tea,06D,A
+Staten Island,American,09C,A
+Brooklyn,American,02B,N
+Manhattan,French,06D,A
+Manhattan,Pizza,10F,A
+Brooklyn,Caribbean,10F,A
+Manhattan,Chinese,08A,A
+Brooklyn,Pizza,02B,C
+Queens,Latin American,02B,C
+Brooklyn,Fusion,06A,B
+Brooklyn,Chinese,08A,C
+Manhattan,Latin American,05D,A
+Manhattan,Irish,08A,A
+Manhattan,Chinese,10F,A
+Brooklyn,Coffee/Tea,09B,A
+Bronx,Eastern European,06E,C
+Brooklyn,Vegetarian,05H,N
+Queens,Peruvian,04N,N
+Bronx,Pizza,10F,N
+Manhattan,Bakery Products/Desserts,06A,A
+Manhattan,Japanese,10H,A
+Queens,Italian,08A,A
+Manhattan,Coffee/Tea,08A,B
+Manhattan,Italian,08A,B
+Brooklyn,Bottled Beverages,04N,A
+Queens,Pizza,02B,A
+Manhattan,Hamburgers,10G,N
+Brooklyn,Jewish/Kosher,06F,A
+Manhattan,Korean,10F,C
+Manhattan,American,06D,A
+Manhattan,Mexican,02G,A
+Manhattan,French,04L,A
+Queens,Chicken,08A,A
+Brooklyn,Middle Eastern,10F,A
+Manhattan,Coffee/Tea,06D,A
+Queens,Chinese,08C,Z
+Manhattan,Chinese,05D,C
+Brooklyn,Tex-Mex,10D,A
+Queens,Chicken,09B,A
+Brooklyn,American,06E,A
+Brooklyn,Greek,06D,A
+Brooklyn,Caribbean,02G,B
+Queens,Latin American,02G,A
+Queens,American,08A,A
+Queens,Chicken,04L,B
+Brooklyn,Coffee/Tea,08A,A
+Manhattan,American,08A,P
+Brooklyn,Latin American,02H,A
+Brooklyn,Bakery Products/Desserts,08A,B
+Queens,Pizza,06C,A
+Manhattan,American,10F,A
+Queens,Latin American,06A,A
+Manhattan,American,05D,A
+Manhattan,Italian,10F,A
+Manhattan,Indian,08A,B
+Bronx,Bakery Products/Desserts,02G,A
+Brooklyn,Chinese,02B,C
+Queens,Mexican,08C,A
+Queens,Latin American,10B,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Coffee/Tea,04N,A
+Manhattan,Japanese,06F,B
+Queens,American,04L,A
+Brooklyn,Frozen Desserts,04N,A
+Manhattan,Sandwiches,10B,B
+Brooklyn,Bakery Products/Desserts,06F,A
+Manhattan,Australian,04C,A
+Manhattan,Thai,02H,A
+Brooklyn,Sandwiches,10F,A
+Manhattan,Bagels/Pretzels,06A,A
+Staten Island,Bakery Products/Desserts,02G,A
+Manhattan,Seafood,10F,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Thai,04K,B
+Manhattan,Thai,06C,A
+Brooklyn,Korean,06A,B
+Brooklyn,American,10B,A
+Manhattan,Continental,10F,A
+Queens,Pizza,08A,A
+Brooklyn,American,10F,A
+Queens,Hamburgers,06E,A
+Manhattan,Bakery Products/Desserts,06C,A
+Brooklyn,French,10B,C
+Queens,Donuts,10F,A
+Brooklyn,Greek,06C,B
+Manhattan,American,10H,C
+Queens,Creole/Cajun,02G,A
+Manhattan,Continental,02G,A
+Brooklyn,American,04H,A
+Bronx,Juice, Smoothies, Fruit Salads,10F,A
+Queens,American,02G,A
+Queens,Chinese,06D,N
+Queens,Mexican,28-06,B
+Brooklyn,Donuts,04L,A
+Manhattan,Pizza,08A,B
+Manhattan,American,08A,A
+Queens,Juice, Smoothies, Fruit Salads,09C,A
+Brooklyn,Donuts,02G,A
+Brooklyn,Chinese,08A,C
+Queens,Eastern European,04H,A
+Queens,American,08A,A
+Brooklyn,Middle Eastern,02B,A
+Queens,Mexican,04A,C
+Queens,Chinese,10G,Z
+Brooklyn,Frozen Desserts,04A,A
+Manhattan,American,10B,A
+Manhattan,American,10F,A
+Manhattan,Japanese,06C,A
+Brooklyn,Pizza,08A,C
+Manhattan,Pizza,04M,B
+Manhattan,Japanese,04N,A
+Manhattan,Frozen Desserts,28-06,A
+Brooklyn,Eastern European,10F,B
+Bronx,Spanish,10F,A
+Manhattan,Pizza,08A,A
+Queens,Latin American,06B,A
+Manhattan,Italian,02G,B
+Queens,American,06D,C
+Brooklyn,American,10F,A
+Manhattan,American,09C,A
+Manhattan,Asian/Asian Fusion,02G,B
+Manhattan,Chinese,04L,A
+Brooklyn,Frozen Desserts,10B,A
+Brooklyn,Latin American,04L,A
+Bronx,Donuts,10F,A
+Queens,Latin American,10A,A
+Manhattan,Pizza,06D,A
+Queens,American,04L,B
+Bronx,Vegetarian,02B,A
+Queens,Japanese,04A,A
+Queens,Chinese,02G,A
+Queens,Latin American,04L,B
+Manhattan,American,02B,A
+Brooklyn,Bakery Products/Desserts,04J,A
+Queens,Pizza,02G,A
+Queens,Caribbean,05D,A
+Brooklyn,African,06C,A
+Manhattan,Steakhouse,08A,B
+Manhattan,Indian,04L,B
+Brooklyn,American,08A,C
+Manhattan,American,04N,A
+Queens,Chinese/Japanese,04K,C
+Bronx,Pizza,02B,B
+Manhattan,Asian/Asian Fusion,06B,Z
+Manhattan,Coffee/Tea,06D,A
+Staten Island,Sandwiches,04L,A
+Manhattan,American,04N,A
+Brooklyn,Bagels/Pretzels,10F,A
+Bronx,Chicken,10F,A
+Staten Island,Filipino,10F,A
+Queens,Bakery Products/Desserts,04A,A
+Manhattan,Mexican,04N,C
+Brooklyn,American,28-06,N
+Manhattan,Italian,02B,A
+Brooklyn,Chinese,05D,N
+Manhattan,Pizza,04A,B
+Queens,Mediterranean,09E,A
+Manhattan,Chinese,10F,A
+Manhattan,Filipino,10F,A
+Brooklyn,Italian,10B,N
+Queens,Coffee/Tea,08C,A
+Manhattan,Eastern European,10F,A
+Queens,Italian,09C,A
+Manhattan,American,02G,A
+Queens,Japanese,08B,A
+Manhattan,American,06F,A
+Queens,Bakery Products/Desserts,06B,A
+Brooklyn,American,02B,A
+Manhattan,Mexican,02B,A
+Brooklyn,Russian,10F,A
+Manhattan,Chinese,02B,A
+Brooklyn,Sandwiches,06C,B
+Bronx,Chicken,04A,B
+Brooklyn,American,10F,A
+Manhattan,American,08A,A
+Brooklyn,Caribbean,10F,A
+Manhattan,Latin American,06A,A
+Queens,Bakery Products/Desserts,06F,A
+Manhattan,Salads,02G,A
+Manhattan,Coffee/Tea,08A,A
+Manhattan,American,04J,N
+Manhattan,Bagels/Pretzels,06D,A
+Manhattan,Coffee/Tea,06D,B
+Queens,Latin American,10F,A
+Brooklyn,American,10H,A
+Manhattan,Bagels/Pretzels,05D,N
+Manhattan,American,08A,A
+Bronx,Italian,10F,A
+Manhattan,Frozen Desserts,04N,A
+Queens,American,06D,A
+Manhattan,American,08A,A
+Queens,Hamburgers,06A,A
+Staten Island,Chinese,10F,A
+Manhattan,Asian/Asian Fusion,09B,N
+Brooklyn,Chicken,10F,A
+Queens,American,06F,N
+Brooklyn,Thai,08A,A
+Manhattan,Indian,03A,B
+Brooklyn,Ethiopian,10B,A
+Bronx,Hamburgers,10F,A
+Brooklyn,Bakery Products/Desserts,10E,A
+Manhattan,Japanese,06E,A
+Manhattan,Caribbean,04H,N
+Manhattan,Japanese,10G,C
+Brooklyn,Coffee/Tea,06D,N
+Brooklyn,Coffee/Tea,10B,A
+Queens,Latin American,02B,A
+Queens,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,American,10F,A
+Queens,Mexican,04C,B
+Manhattan,Pizza,10B,A
+Queens,Pizza,06F,B
+Manhattan,American,10F,A
+Brooklyn,Coffee/Tea,06A,A
+Queens,Chilean,10F,N
+Brooklyn,Pizza,04L,A
+Bronx,Tex-Mex,10B,A
+Brooklyn,Tex-Mex,08A,A
+Queens,Chinese,08A,C
+Manhattan,Coffee/Tea,10B,A
+Manhattan,Frozen Desserts,08A,A
+Bronx,American,08A,A
+Manhattan,Vegan,10B,A
+Queens,Hamburgers,10F,A
+Manhattan,American,10F,A
+Bronx,Donuts,10F,A
+Bronx,American,04N,A
+Queens,Hamburgers,10F,A
+Bronx,Latin American,06F,A
+Manhattan,Bagels/Pretzels,08A,A
+Staten Island,Frozen Desserts,04N,A
+Bronx,Latin American,05F,B
+Manhattan,American,10F,A
+Bronx,Chinese,08A,A
+Brooklyn,Chinese,10F,P
+Manhattan,Asian/Asian Fusion,08A,A
+Manhattan,American,06F,A
+Manhattan,Pizza,02B,B
+Manhattan,Chinese,02G,N
+Staten Island,Hamburgers,09E,A
+Brooklyn,American,08C,A
+Queens,Japanese,10F,A
+Manhattan,American,06D,A
+Brooklyn,Latin American,04N,A
+Bronx,Chinese,10F,B
+Brooklyn,Pizza,04A,A
+Queens,Peruvian,09B,C
+Brooklyn,Donuts,10F,A
+Brooklyn,Mediterranean,08A,C
+Brooklyn,French,08A,A
+Manhattan,Sandwiches,02B,A
+Brooklyn,Sandwiches,10F,C
+Brooklyn,Turkish,10B,A
+Queens,Irish,04N,N
+Manhattan,American,02G,C
+Queens,Irish,10B,N
+Staten Island,Mexican,10E,B
+Manhattan,American,08A,B
+Queens,Chinese,06D,A
+Queens,Chinese,05D,N
+Bronx,American,02G,Z
+Queens,Chicken,10F,A
+Manhattan,American,06D,A
+Bronx,Chicken,04N,A
+Manhattan,American,10F,A
+Manhattan,Coffee/Tea,10F,A
+Bronx,Pizza,04L,B
+Brooklyn,Hamburgers,06D,A
+Manhattan,American,10F,A
+Manhattan,Mediterranean,10B,A
+Manhattan,American,06D,A
+Brooklyn,Chinese,10B,A
+Brooklyn,American,10B,A
+Queens,Tex-Mex,10B,A
+Manhattan,Seafood,06A,A
+Queens,Latin American,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,06F,A
+Brooklyn,Italian,02B,Z
+Staten Island,Latin American,06D,A
+Manhattan,Other,08A,N
+Staten Island,Sandwiches,04A,B
+Manhattan,Donuts,10F,A
+Bronx,Tex-Mex,04A,B
+Manhattan,Chinese,04M,A
+Brooklyn,Bagels/Pretzels,10F,C
+Queens,Indian,10F,Z
+Manhattan,American,04N,A
+Manhattan,Eastern European,04N,B
+Manhattan,American,06D,Z
+Brooklyn,Japanese,02B,A
+Queens,Donuts,06F,A
+Staten Island,American,06D,A
+Queens,Chinese,04L,Z
+Staten Island,Chinese,02G,A
+Brooklyn,Bottled Beverages,04C,A
+Manhattan,American,09E,N
+Manhattan,Spanish,10A,A
+Queens,Mexican,04A,C
+Brooklyn,Hamburgers,02G,A
+Brooklyn,Coffee/Tea,06C,A
+Manhattan,American,02I,A
+Queens,Brazilian,10F,A
+Queens,Juice, Smoothies, Fruit Salads,04A,A
+Manhattan,American,04N,A
+Manhattan,Italian,10G,Z
+Brooklyn,Barbecue,06D,B
+Brooklyn,Chicken,10F,A
+Staten Island,Other,02G,Z
+Manhattan,American,10F,A
+Manhattan,Latin American,06D,B
+Brooklyn,Coffee/Tea,10F,A
+Brooklyn,Eastern European,10B,A
+Brooklyn,Tex-Mex,10B,A
+Manhattan,Juice, Smoothies, Fruit Salads,10B,B
+Manhattan,Mexican,06E,A
+Manhattan,Asian/Asian Fusion,10F,A
+Manhattan,French,02G,A
+Manhattan,Chicken,04M,B
+Brooklyn,Bakery Products/Desserts,02B,B
+Queens,Other,04A,A
+Staten Island,American,10I,A
+Queens,American,09C,A
+Manhattan,Frozen Desserts,04J,A
+Queens,Chinese,04L,B
+Queens,Chinese/Japanese,06D,C
+Manhattan,Bottled Beverages,08C,A
+Manhattan,Japanese,10F,A
+Brooklyn,Mexican,09C,A
+Manhattan,Eastern European,10F,N
+Queens,Sandwiches,04N,A
+Brooklyn,Chinese,02G,A
+Brooklyn,Latin American,04A,A
+Bronx,Chinese,04M,A
+Brooklyn,Pizza,08A,A
+Manhattan,Latin American,08A,B
+Brooklyn,Indian,10F,B
+Manhattan,Japanese,04L,A
+Manhattan,Japanese,04L,A
+Manhattan,Hamburgers,06D,A
+Brooklyn,American,06D,A
+Brooklyn,American,08A,A
+Manhattan,Italian,06D,A
+Queens,Chinese,10B,N
+Queens,Bottled Beverages,04H,A
+Queens,Bakery Products/Desserts,09C,B
+Manhattan,Mexican,06D,C
+Queens,Caribbean,10B,C
+Brooklyn,Chicken,06D,A
+Brooklyn,Pizza,08A,A
+Manhattan,American,02G,A
+Queens,Mexican,06C,B
+Brooklyn,Spanish,10F,A
+Queens,Italian,02G,A
+Queens,Continental,04N,A
+Manhattan,Eastern European,10F,A
+Bronx,Coffee/Tea,10B,N
+Manhattan,Pizza,10F,A
+Manhattan,Pizza,04A,A
+Staten Island,Hamburgers,10F,A
+Queens,Chinese,06C,A
+Queens,Latin American,10B,A
+Queens,Pizza,02G,A
+Manhattan,American,10B,A
+Manhattan,Mediterranean,10F,A
+Queens,Pizza,06D,N
+Brooklyn,Caribbean,08A,A
+Brooklyn,American,28-06,N
+Manhattan,Hamburgers,10F,A
+Brooklyn,Caribbean,04L,A
+Manhattan,American,10F,A
+Manhattan,Coffee/Tea,10B,Z
+Brooklyn,Jewish/Kosher,10F,A
+Queens,Chinese,04H,A
+Manhattan,American,10F,A
+Brooklyn,Chinese,02B,A
+Queens,American,06C,A
+Manhattan,American,06A,A
+Queens,American,08A,A
+Brooklyn,Chinese,06A,C
+Brooklyn,American,06D,A
+Queens,Sandwiches,06D,A
+Queens,Other,02F,N
+Manhattan,Coffee/Tea,10F,A
+Brooklyn,Pizza,09A,B
+Brooklyn,American,06E,B
+Queens,American,06D,B
+Manhattan,American,05D,N
+Queens,Caribbean,10F,C
+Manhattan,American,10F,A
+Brooklyn,Japanese,08A,A
+Manhattan,Irish,08A,A
+Brooklyn,Chinese,28-05,C
+Brooklyn,Frozen Desserts,08A,A
+Queens,Pizza,08A,Z
+Queens,American,06D,A
+Brooklyn,American,06D,A
+Queens,American,10F,A
+Brooklyn,American,02B,B
+Queens,Chinese,02G,A
+Manhattan,Sandwiches,06A,A
+Brooklyn,Coffee/Tea,05C,N
+Brooklyn,Bagels/Pretzels,04M,A
+Queens,American,10F,B
+Brooklyn,Chinese,08A,C
+Manhattan,American,04N,B
+Manhattan,Chinese,04N,A
+Brooklyn,Southeast Asian,04H,A
+Bronx,Caribbean,04L,B
+Manhattan,American,04H,A
+Queens,Korean,02G,N
+Bronx,Donuts,06D,A
+Brooklyn,Latin American,04N,A
+Manhattan,American,08A,N
+Manhattan,American,10F,A
+Brooklyn,American,08A,B
+Queens,American,06D,N
+Manhattan,Spanish,10H,A
+Queens,Tex-Mex,10F,A
+Brooklyn,Latin American,08B,A
+Queens,Latin American,08A,B
+Brooklyn,Creole,10B,B
+Queens,American,08A,A
+Brooklyn,Tex-Mex,04A,A
+Manhattan,Pizza,10G,A
+Manhattan,Chinese,28-05,A
+Brooklyn,Asian/Asian Fusion,06C,A
+Brooklyn,Coffee/Tea,06D,N
+Bronx,Jewish/Kosher,02B,A
+Staten Island,Italian,06C,A
+Brooklyn,Frozen Desserts,10G,A
+Manhattan,American,10F,A
+Brooklyn,Latin American,10B,A
+Queens,Vegetarian,06C,A
+Manhattan,Irish,10F,A
+Queens,Indian,06C,A
+Manhattan,French,04L,A
+Brooklyn,Thai,10F,A
+Manhattan,Middle Eastern,04L,Z
+Queens,Frozen Desserts,08C,C
+Queens,Asian/Asian Fusion,06F,Z
+Manhattan,Sandwiches,06C,A
+Queens,Sandwiches,06D,A
+Brooklyn,Tex-Mex,10H,A
+Queens,Chinese,04A,C
+Staten Island,Mexican,10F,N
+Queens,Bakery Products/Desserts,08A,N
+Manhattan,American,05B,A
+Brooklyn,Mediterranean,10F,A
+Brooklyn,Indian,04A,Z
+Brooklyn,Italian,10F,A
+Brooklyn,Jewish/Kosher,10B,B
+Brooklyn,Coffee/Tea,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,08A,A
+Brooklyn,Coffee/Tea,04N,A
+Bronx,Hamburgers,06D,A
+Manhattan,Mexican,04N,Z
+Queens,Chinese,10F,A
+Manhattan,Thai,10F,B
+Queens,American,06F,A
+Bronx,Pizza,02B,Z
+Queens,Thai,10H,A
+Queens,Chinese,02B,A
+Queens,Frozen Desserts,06A,A
+Brooklyn,Indian,10G,A
+Brooklyn,Korean,08A,A
+Brooklyn,Mediterranean,02G,A
+Brooklyn,American,08A,A
+Brooklyn,Mexican,10F,P
+Staten Island,Pizza,10F,A
+Manhattan,Seafood,06E,A
+Brooklyn,American,05D,C
+Bronx,Hamburgers,10B,A
+Manhattan,Other,02G,B
+Manhattan,American,08C,A
+Bronx,Latin American,06C,A
+Manhattan,Donuts,08C,A
+Brooklyn,Chinese,10B,A
+Manhattan,Chinese,02B,C
+Manhattan,Pizza,08A,A
+Brooklyn,Bakery Products/Desserts,06C,B
+Brooklyn,Frozen Desserts,08A,A
+Queens,Coffee/Tea,06D,Z
+Queens,Caribbean,02B,A
+Manhattan,Japanese,04D,N
+Manhattan,Sandwiches/Salads/Mixed Buffet,04M,A
+Manhattan,American,04M,C
+Brooklyn,Bakery Products/Desserts,10E,A
+Manhattan,Coffee/Tea,04N,A
+Queens,Donuts,04L,A
+Manhattan,American,06D,A
+Queens,Bakery Products/Desserts,06C,A
+Brooklyn,Chinese,04A,A
+Manhattan,Donuts,06A,A
+Manhattan,American,10B,A
+Bronx,American,04L,P
+Manhattan,Tex-Mex,04A,A
+Brooklyn,Pizza,04K,A
+Manhattan,Donuts,02G,A
+Manhattan,American,10F,A
+Brooklyn,American,09E,A
+Manhattan,American,06D,A
+Manhattan,Coffee/Tea,06A,A
+Queens,Mediterranean,04L,A
+Manhattan,Tex-Mex,04N,A
+Brooklyn,Juice, Smoothies, Fruit Salads,06D,A
+Queens,Mediterranean,10F,A
+Brooklyn,Hamburgers,06D,A
+Manhattan,Bangladeshi,04A,B
+Queens,American,04H,C
+Manhattan,Coffee/Tea,10G,N
+Brooklyn,Soul Food,04L,A
+Manhattan,Steakhouse,08A,B
+Queens,Thai,10F,A
+Queens,French,02B,A
+Brooklyn,Pizza,04L,A
+Brooklyn,Pizza,05D,A
+Brooklyn,Donuts,06D,A
+Brooklyn,Coffee/Tea,06D,A
+Brooklyn,Mexican,10B,A
+Queens,Peruvian,06B,C
+Manhattan,Donuts,10F,A
+Manhattan,Coffee/Tea,08A,A
+Manhattan,Greek,10D,A
+Manhattan,Frozen Desserts,10F,A
+Manhattan,American,04L,A
+Manhattan,Donuts,04N,A
+Bronx,American,10G,B
+Queens,Japanese,08A,A
+Bronx,Pizza,04A,B
+Bronx,Donuts,10F,A
+Staten Island,Latin American,02G,A
+Queens,American,08A,A
+Manhattan,Middle Eastern,06F,A
+Manhattan,Coffee/Tea,10B,Z
+Manhattan,Italian,10F,A
+Manhattan,Korean,10B,Z
+Brooklyn,Indian,02H,A
+Manhattan,American,04E,A
+Manhattan,Bakery Products/Desserts,08A,A
+Queens,Latin American,06C,C
+Manhattan,Chinese/Cuban,02B,A
+Bronx,Pizza,10F,B
+Manhattan,American,06A,A
+Queens,Spanish,09B,B
+Manhattan,Juice, Smoothies, Fruit Salads,09C,A
+Brooklyn,Chinese,08A,C
+Manhattan,American,04H,A
+Manhattan,American,05D,C
+Staten Island,American,10F,A
+Queens,American,10B,A
+Brooklyn,Italian,08C,A
+Manhattan,Chinese,09B,N
+Bronx,Latin American,04M,B
+Manhattan,Seafood,06C,N
+Queens,Chinese,02B,C
+Bronx,Latin American,10F,A
+Brooklyn,Eastern European,05D,C
+Brooklyn,Salads,10B,A
+Bronx,American,10E,A
+Brooklyn,Caribbean,06F,C
+Manhattan,Juice, Smoothies, Fruit Salads,10H,B
+Bronx,Chinese,08A,B
+Brooklyn,Pizza,04A,B
+Bronx,Pizza,06C,A
+Queens,Juice, Smoothies, Fruit Salads,02B,N
+Queens,Caribbean,04L,A
+Brooklyn,Chinese,02G,A
+Queens,Italian,10F,A
+Manhattan,Bottled Beverages,10B,A
+Manhattan,Bakery Products/Desserts,08C,B
+Brooklyn,Thai,04N,A
+Brooklyn,Latin American,28-06,N
+Manhattan,Mexican,08A,A
+Brooklyn,American,10B,A
+Manhattan,Italian,04N,A
+Manhattan,American,08A,B
+Bronx,Caribbean,08A,A
+Brooklyn,Mexican,06C,A
+Manhattan,Pizza,28-06,Z
+Brooklyn,American,10G,N
+Queens,Fusion,02B,B
+Manhattan,Italian,04N,A
+Queens,Tex-Mex,04H,A
+Queens,American,06C,A
+Queens,Coffee/Tea,06C,A
+Queens,Mexican,02G,A
+Manhattan,Thai,09A,C
+Queens,Korean,06A,A
+Queens,American,06D,A
+Manhattan,American,02G,A
+Bronx,Sandwiches/Salads/Mixed Buffet,10F,A
+Manhattan,Coffee/Tea,06D,A
+Manhattan,American,10F,A
+Brooklyn,Asian/Asian Fusion,10F,A
+Brooklyn,American,10B,Z
+Brooklyn,Mexican,08A,A
+Bronx,Bakery Products/Desserts,06C,C
+Manhattan,Thai,04N,B
+Brooklyn,American,10G,A
+Queens,Bakery Products/Desserts,02B,C
+Manhattan,American,04A,A
+Brooklyn,Tex-Mex,02B,B
+Manhattan,American,04L,A
+Manhattan,American,06D,A
+Manhattan,Sandwiches,10F,C
+Manhattan,Asian/Asian Fusion,10F,A
+Manhattan,Pizza,04N,A
+Bronx,Chicken,10F,A
+Queens,Pizza,10F,A
+Brooklyn,Donuts,10F,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Caribbean,04N,A
+Brooklyn,Donuts,04A,A
+Manhattan,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,Tex-Mex,10F,A
+Brooklyn,Sandwiches,06D,A
+Manhattan,Japanese,10F,A
+Brooklyn,Juice, Smoothies, Fruit Salads,09E,A
+Manhattan,Southeast Asian,06C,A
+Brooklyn,Coffee/Tea,06D,A
+Manhattan,Japanese,06D,A
+Manhattan,Pizza,10B,A
+Manhattan,American,04O,B
+Queens,Chinese,04A,C
+Manhattan,Bakery Products/Desserts,08A,Z
+Brooklyn,Sandwiches,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,06E,C
+Manhattan,American,06C,A
+Queens,Coffee/Tea,04A,B
+Manhattan,Hamburgers,10F,A
+Manhattan,Bagels/Pretzels,10F,A
+Brooklyn,Latin American,10D,A
+Manhattan,American,09C,A
+Queens,American,09C,A
+Queens,Chinese,08A,C
+Manhattan,Japanese,06D,N
+Brooklyn,Chinese,10F,A
+Brooklyn,Mexican,02G,A
+Manhattan,Indian,10F,N
+Queens,Spanish,08A,A
+Manhattan,American,02G,A
+Queens,Sandwiches,10F,A
+Manhattan,Coffee/Tea,04A,A
+Manhattan,Frozen Desserts,10F,A
+Brooklyn,Chinese,10B,A
+Queens,Japanese,02B,A
+Queens,Chilean,08A,A
+Manhattan,American,08A,B
+Bronx,Chinese,04N,C
+Staten Island,American,08A,N
+Brooklyn,Donuts,08A,A
+Brooklyn,Korean,08A,N
+Manhattan,Bakery Products/Desserts,10F,A
+Bronx,Sandwiches,09E,A
+Manhattan,Other,06E,A
+Manhattan,Mediterranean,10B,A
+Brooklyn,Caribbean,09C,A
+Brooklyn,French,02H,A
+Manhattan,Bakery Products/Desserts,06C,C
+Manhattan,Japanese,06D,A
+Bronx,French,09E,A
+Queens,Chinese,06C,N
+Queens,Thai,10E,Z
+Manhattan,Chicken,09A,A
+Queens,Chinese,04L,C
+Manhattan,Seafood,08A,B
+Bronx,Chinese,10F,A
+Brooklyn,Hawaiian,04M,A
+Manhattan,Bottled Beverages,06D,A
+Queens,American,06D,B
+Queens,Chinese,02B,A
+Manhattan,Asian/Asian Fusion,10B,A
+Brooklyn,Pizza,10F,A
+Brooklyn,Jewish/Kosher,10F,N
+Manhattan,Australian,04N,A
+Manhattan,Asian/Asian Fusion,10G,C
+Manhattan,Thai,06C,A
+Manhattan,American,06F,A
+Manhattan,Bakery Products/Desserts,08C,A
+Manhattan,Coffee/Tea,08A,A
+Manhattan,Donuts,10F,A
+Manhattan,Italian,08A,N
+Queens,Other,04L,N
+Queens,Continental,02G,A
+Manhattan,American,06E,A
+Queens,Spanish,10F,A
+Manhattan,Mexican,10B,A
+Queens,Chinese,02G,C
+Manhattan,American,10F,A
+Brooklyn,American,10B,A
+Manhattan,Chinese,06C,A
+Brooklyn,French,06D,C
+Staten Island,Japanese,02C,A
+Queens,Latin American,06C,A
+Queens,Pizza,08A,A
+Bronx,Middle Eastern,08A,B
+Queens,German,04N,A
+Manhattan,Bakery Products/Desserts,09A,B
+Queens,Korean,04A,C
+Bronx,American,10B,A
+Manhattan,Other,10F,A
+Manhattan,Spanish,10B,A
+Manhattan,American,04N,B
+Queens,Pizza,10F,N
+Bronx,Juice, Smoothies, Fruit Salads,06E,A
+Manhattan,Other,04H,A
+Queens,Coffee/Tea,06C,B
+Brooklyn,Japanese,08A,B
+Manhattan,American,10E,A
+Manhattan,Coffee/Tea,06D,A
+Bronx,Bakery Products/Desserts,03A,N
+Brooklyn,Jewish/Kosher,10B,A
+Brooklyn,Japanese,04H,A
+Manhattan,Japanese,02B,C
+Bronx,Mexican,09E,Z
+Queens,Caribbean,08A,A
+Staten Island,Hamburgers,05C,A
+Brooklyn,Caribbean,08A,A
+Queens,Sandwiches/Salads/Mixed Buffet,02B,B
+Queens,American,10B,A
+Staten Island,American,10F,A
+Bronx,Caribbean,10B,B
+Manhattan,Coffee/Tea,10B,A
+Brooklyn,Chinese,10F,B
+Staten Island,American,10F,A
+Queens,Latin American,10D,B
+Brooklyn,Seafood,04L,A
+Brooklyn,Frozen Desserts,06F,A
+Manhattan,Irish,10F,C
+Brooklyn,Mexican,06D,A
+Brooklyn,American,10F,A
+Manhattan,Mexican,06C,N
+Brooklyn,Russian,10F,A
+Brooklyn,Chinese,10F,A
+Manhattan,Armenian,08A,A
+Queens,Japanese,08A,A
+Queens,American,04J,N
+Queens,Fusion,04H,C
+Queens,Latin American,04L,B
+Brooklyn,American,04L,B
+Manhattan,Other,06F,N
+Brooklyn,Mediterranean,02G,N
+Queens,American,06D,A
+Brooklyn,Eastern European,04A,C
+Manhattan,Thai,04L,Z
+Queens,Frozen Desserts,10B,A
+Brooklyn,Bottled Beverages,06D,A
+Manhattan,Caribbean,10F,Z
+Queens,Afghan,06A,A
+Manhattan,Juice, Smoothies, Fruit Salads,06C,A
+Manhattan,American,04L,A
+Brooklyn,American,06D,A
+Brooklyn,Donuts,06D,A
+Brooklyn,Sandwiches,06C,A
+Brooklyn,Fusion,10F,A
+Brooklyn,Juice, Smoothies, Fruit Salads,10F,A
+Brooklyn,Coffee/Tea,04N,A
+Manhattan,American,09B,A
+Manhattan,Japanese,06F,A
+Queens,Chinese,06D,A
+Manhattan,Chinese,02B,C
+Brooklyn,Chinese,04L,B
+Manhattan,Middle Eastern,10F,A
+Manhattan,Hamburgers,02G,A
+Queens,Hamburgers,06D,A
+Brooklyn,Mexican,02B,B
+Brooklyn,Caribbean,10F,B
+Manhattan,Turkish,10F,A
+Brooklyn,Italian,10F,Z
+Queens,Latin American,06D,A
+Queens,American,06F,A
+Queens,American,10F,A
+Bronx,Latin American,06D,B
+Manhattan,American,10F,C
+Brooklyn,Vegan,02H,A
+Manhattan,Chinese,08A,B
+Queens,Pizza,10F,A
+Brooklyn,Thai,06G,B
+Manhattan,American,10F,A
+Manhattan,French,06D,A
+Manhattan,Indian,06D,A
+Manhattan,American,08A,A
+Manhattan,Bakery Products/Desserts,06C,Z
+Brooklyn,Japanese,02G,Z
+Manhattan,Chinese/Japanese,02G,A
+Staten Island,American,10H,A
+Brooklyn,Creole/Cajun,10G,A
+Queens,Chicken,04L,B
+Manhattan,Coffee/Tea,10B,Z
+Queens,Asian/Asian Fusion,04A,Z
+Manhattan,Mediterranean,06F,A
+Manhattan,Bakery Products/Desserts,10F,A
+Manhattan,Japanese,04L,A
+Queens,Mexican,02B,C
+Brooklyn,Chinese,02G,A
+Bronx,Chinese,02B,B
+Queens,Chicken,06C,A
+Manhattan,American,04N,B
+Manhattan,American,06C,C
+Queens,Pizza,10F,A
+Brooklyn,Coffee/Tea,04L,A
+Brooklyn,Coffee/Tea,04N,A
+Brooklyn,Tex-Mex,06C,A
+Brooklyn,Pizza,09C,A
+Queens,American,10F,A
+Queens,Hamburgers,10F,A
+Brooklyn,Frozen Desserts,10B,A
+Queens,Hamburgers,10F,A
+Bronx,Chinese,04K,B
+Manhattan,Irish,06C,A
+Brooklyn,Tex-Mex,10F,A
+Queens,Caribbean,04C,A
+Brooklyn,Chinese,06D,A
+Manhattan,Greek,06C,A
+Brooklyn,Pizza,06C,Z
+Brooklyn,Caribbean,04H,A
+Manhattan,Indian,05D,A
+Manhattan,French,10F,A
+Manhattan,American,06D,A
+Manhattan,Chinese,10F,A
+Manhattan,American,02G,A
+Queens,American,06D,A
+Queens,Salads,06C,A
+Manhattan,Pizza,10F,A
+Bronx,Hamburgers,08A,C
+Manhattan,Russian,02H,C
+Bronx,Middle Eastern,10F,B
+Queens,Spanish,02G,B
+Bronx,Caribbean,02G,C
+Brooklyn,Caribbean,08A,A
+Brooklyn,Chinese,02G,N
+Queens,Indian,02G,C
+Brooklyn,American,04K,B
+Manhattan,American,10F,A
+Queens,Salads,04H,N
+Manhattan,Coffee/Tea,06C,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Asian/Asian Fusion,08B,A
+Bronx,Bakery Products/Desserts,06F,A
+Queens,Donuts,02G,A
+Brooklyn,Pizza,02G,A
+Brooklyn,Japanese,10F,A
+Brooklyn,Pancakes/Waffles,02B,A
+Queens,Peruvian,04A,B
+Manhattan,Chinese,02B,N
+Queens,Indian,08A,B
+Manhattan,American,04H,A
+Brooklyn,Caribbean,08C,A
+Staten Island,Mediterranean,06F,A
+Queens,Bottled Beverages,06D,A
+Queens,American,10F,A
+Bronx,Pizza,02G,A
+Brooklyn,Pizza,02B,B
+Manhattan,Mexican,04L,A
+Brooklyn,Pakistani,02H,C
+Staten Island,American,10F,A
+Brooklyn,Hamburgers,10F,A
+Bronx,American,10F,Z
+Brooklyn,Donuts,10E,A
+Staten Island,Spanish,04N,A
+Staten Island,Thai,04N,A
+Bronx,Middle Eastern,04L,A
+Manhattan,Coffee/Tea,06D,N
+Manhattan,Other,08A,A
+Brooklyn,Coffee/Tea,04M,A
+Manhattan,Middle Eastern,10G,A
+Manhattan,Italian,10F,A
+Bronx,Donuts,04N,A
+Manhattan,Turkish,04M,A
+Queens,Mexican,03A,C
+Manhattan,Japanese,05D,N
+Brooklyn,Jewish/Kosher,10F,N
+Manhattan,Mexican,10B,A
+Brooklyn,Chinese,06D,B
+Brooklyn,Caribbean,08A,A
+Staten Island,Italian,10F,A
+Queens,Peruvian,08A,C
+Bronx,Seafood,09C,A
+Queens,Chinese,04L,B
+Bronx,African,04L,B
+Brooklyn,Latin American,06D,A
+Brooklyn,Bagels/Pretzels,04N,C
+Bronx,Coffee/Tea,10F,A
+Manhattan,Jewish/Kosher,08A,A
+Bronx,Pizza,10F,A
+Brooklyn,Hotdogs/Pretzels,04J,A
+Manhattan,American,04O,A
+Queens,American,08B,B
+Queens,American,10F,A
+Manhattan,Mediterranean,02B,A
+Bronx,Donuts,06D,B
+Queens,Coffee/Tea,02B,A
+Manhattan,American,10F,A
+Queens,Peruvian,04L,B
+Queens,Spanish,06C,A
+Manhattan,American,10B,A
+Manhattan,American,06D,A
+Brooklyn,Fusion,08C,A
+Queens,Caribbean,10F,Z
+Manhattan,Sandwiches,02B,Z
+Queens,Hamburgers,10F,A
+Bronx,Chicken,10B,A
+Queens,Latin American,04A,C
+Staten Island,Asian/Asian Fusion,02G,N
+Manhattan,Bottled Beverages,06D,A
+Manhattan,Mexican,06E,N
+Brooklyn,Russian,04L,A
+Manhattan,Japanese,02B,N
+Queens,American,04A,A
+Manhattan,Italian,28-01,Z
+Manhattan,Pizza,10A,A
+Queens,Bagels/Pretzels,09E,A
+Queens,Juice, Smoothies, Fruit Salads,04A,A
+Brooklyn,Coffee/Tea,10F,A
+Brooklyn,Tex-Mex,10H,A
+Queens,American,10B,A
+Brooklyn,Coffee/Tea,06C,A
+Manhattan,Pizza,10F,A
+Bronx,Caribbean,08A,B
+Manhattan,American,04H,A
+Brooklyn,Bagels/Pretzels,10B,A
+Manhattan,Hamburgers,10F,A
+Brooklyn,American,06E,A
+Manhattan,American,08A,C
+Brooklyn,Coffee/Tea,04K,B
+Manhattan,Donuts,10F,A
+Brooklyn,American,10J,A
+Queens,Other,06D,N
+Queens,Other,10G,A
+Queens,Latin American,04A,C
+Manhattan,Japanese,04H,A
+Bronx,Pizza,02G,A
+Manhattan,American,06D,A
+Brooklyn,Spanish,02G,A
+Queens,Chinese,06C,A
+Manhattan,Juice, Smoothies, Fruit Salads,10B,A
+Bronx,Caribbean,04N,B
+Brooklyn,Middle Eastern,10F,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,10H,A
+Staten Island,Japanese,04L,A
+Manhattan,American,06C,A
+Manhattan,American,10B,N
+Brooklyn,Mediterranean,09E,A
+Brooklyn,Hamburgers,10F,A
+Brooklyn,Coffee/Tea,28-06,A
+Manhattan,American,06A,A
+Manhattan,Pizza,06E,A
+Queens,Pizza,10G,B
+Manhattan,French,02F,A
+Brooklyn,Spanish,02B,A
+Manhattan,Bakery Products/Desserts,10F,A
+Brooklyn,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,Other,10F,A
+Brooklyn,Afghan,10H,A
+Brooklyn,Jewish/Kosher,04L,A
+Brooklyn,Japanese,10H,A
+Brooklyn,Thai,10E,A
+Brooklyn,Salads,02G,C
+Manhattan,Japanese,06D,B
+Queens,Chinese,08C,A
+Bronx,Latin American,06C,A
+Queens,Caribbean,04H,Z
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Mexican,04L,A
+Manhattan,Italian,10B,N
+Queens,Chinese,08A,C
+Brooklyn,Chicken,04N,A
+Manhattan,Irish,10F,A
+Bronx,Bakery Products/Desserts,08C,A
+Queens,Caribbean,10F,A
+Manhattan,Spanish,04L,A
+Manhattan,Italian,10D,A
+Manhattan,American,10F,A
+Queens,American,04A,A
+Brooklyn,Coffee/Tea,10F,A
+Manhattan,Thai,06E,A
+Manhattan,Coffee/Tea,10F,A
+Queens,American,06D,A
+Manhattan,American,06C,A
+Manhattan,Spanish,08A,A
+Manhattan,Sandwiches,10F,A
+Manhattan,Coffee/Tea,05F,C
+Brooklyn,American,06B,A
+Manhattan,Juice, Smoothies, Fruit Salads,10B,C
+Manhattan,Korean,05D,A
+Queens,Mediterranean,10G,A
+Brooklyn,American,10B,A
+Queens,Bakery Products/Desserts,06F,B
+Queens,Seafood,06D,A
+Brooklyn,Vegan,10G,A
+Brooklyn,Pizza,02G,A
+Queens,Pizza,10F,A
+Brooklyn,American,10F,A
+Manhattan,Chinese,04M,P
+Manhattan,Italian,10B,A
+Brooklyn,Spanish,10A,A
+Manhattan,Bakery Products/Desserts,10F,B
+Manhattan,American,06A,A
+Manhattan,American,04H,A
+Queens,Mexican,06C,A
+Queens,Mexican,08A,C
+Manhattan,Hamburgers,10A,A
+Bronx,American,10F,N
+Manhattan,Chinese,10B,A
+Manhattan,Coffee/Tea,06A,A
+Queens,Bakery Products/Desserts,10F,A
+Manhattan,American,20-04,A
+Manhattan,Salads,02B,A
+Brooklyn,Middle Eastern,02G,B
+Manhattan,Hamburgers,10B,A
+Manhattan,Spanish,04N,Z
+Brooklyn,New French,08C,A
+Manhattan,Chinese,02G,B
+Brooklyn,Coffee/Tea,02B,A
+Queens,American,06D,A
+Manhattan,Steakhouse,04L,B
+Manhattan,Donuts,08C,A
+Staten Island,Japanese,02G,A
+Bronx,American,06F,A
+Brooklyn,Pizza,10B,A
+Manhattan,Spanish,10F,A
+Brooklyn,Chinese,10F,A
+Manhattan,American,06F,A
+Bronx,Chicken,04F,A
+Staten Island,Chinese,04C,A
+Queens,Italian,09C,A
+Brooklyn,Coffee/Tea,10F,A
+Brooklyn,Spanish,03B,A
+Bronx,Pizza,10F,A
+Manhattan,Bagels/Pretzels,10F,A
+Brooklyn,Chinese,10F,B
+Manhattan,Italian,06D,A
+Bronx,American,10B,A
+Brooklyn,Mexican,10F,A
+Queens,Jewish/Kosher,10F,A
+Brooklyn,Coffee/Tea,10F,A
+Staten Island,Bakery Products/Desserts,08A,A
+Manhattan,Chinese,04A,N
+Brooklyn,Spanish,10F,A
+Staten Island,Chicken,04L,A
+Manhattan,American,08A,A
+Queens,American,06D,A
+Brooklyn,Caribbean,04J,A
+Brooklyn,American,04N,Z
+Manhattan,Pizza,06F,A
+Queens,Mexican,06D,A
+Queens,Chicken,08A,N
+Brooklyn,Chinese,10F,A
+Bronx,Pizza,10B,A
+Brooklyn,American,08A,A
+Queens,Japanese,06D,Z
+Manhattan,Hamburgers,10B,A
+Queens,Chinese,04L,C
+Brooklyn,Tex-Mex,10F,A
+Queens,American,10H,A
+Brooklyn,Latin American,04A,A
+Manhattan,Italian,08A,A
+Manhattan,Other,10B,A
+Queens,American,06D,A
+Manhattan,American,10F,A
+Queens,Bakery Products/Desserts,06E,A
+Brooklyn,Chinese,10F,A
+Manhattan,Latin American,04H,N
+Bronx,Tex-Mex,02G,A
+Manhattan,Hotdogs/Pretzels,06F,A
+Brooklyn,Jewish/Kosher,02G,A
+Manhattan,American,09C,A
+Manhattan,Bakery Products/Desserts,04H,A
+Manhattan,Coffee/Tea,10F,B
+Brooklyn,Other,02G,N
+Staten Island,Chinese,02G,Z
+Queens,Bakery Products/Desserts,10F,B
+Queens,Chicken,04A,A
+Brooklyn,Chinese,09B,A
+Queens,Hamburgers,10F,A
+Queens,Spanish,10B,A
+Queens,Bangladeshi,10F,Z
+Brooklyn,Spanish,02H,A
+Manhattan,Pizza,10F,A
+Staten Island,Irish,08C,A
+Brooklyn,Pizza,10B,A
+Manhattan,Chinese,10F,A
+Brooklyn,Coffee/Tea,06D,A
+Staten Island,Sandwiches,02G,A
+Manhattan,Chinese,04H,B
+Manhattan,Latin American,04L,C
+Queens,Chinese,06F,A
+Brooklyn,American,10B,A
+Manhattan,Other,06C,A
+Manhattan,American,10F,A
+Queens,American,02B,A
+Manhattan,Japanese,04A,A
+Manhattan,American,10B,A
+Staten Island,Pizza,10H,A
+Queens,Hamburgers,10A,A
+Manhattan,Chinese,10B,Z
+Brooklyn,Bakery Products/Desserts,10F,A
+Queens,Coffee/Tea,02G,A
+Manhattan,American,06C,A
+Queens,Bakery Products/Desserts,08A,A
+Bronx,Chicken,04L,C
+Queens,Coffee/Tea,04A,B
+Manhattan,Mexican,10B,A
+Brooklyn,Mexican,08A,B
+Brooklyn,Pizza,04L,A
+Manhattan,American,10B,A
+Queens,Korean,02G,A
+Manhattan,American,06D,A
+Queens,Chicken,02B,B
+Queens,American,10F,A
+Bronx,Chicken,02C,A
+Queens,Coffee/Tea,08A,C
+Queens,Jewish/Kosher,10A,A
+Manhattan,American,04H,N
+Brooklyn,Pizza,10A,A
+Brooklyn,Frozen Desserts,10B,A
+Manhattan,Salads,04L,A
+Brooklyn,Asian/Asian Fusion,10F,A
+Brooklyn,Asian/Asian Fusion,10F,A
+Manhattan,American,04L,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,French,06F,A
+Manhattan,American,08A,A
+Brooklyn,American,06C,A
+Manhattan,Middle Eastern,10H,A
+Brooklyn,American,06F,A
+Manhattan,Soul Food,06C,A
+Manhattan,Mexican,04M,A
+Manhattan,Donuts,10F,A
+Manhattan,Italian,04L,A
+Manhattan,American,08A,A
+Bronx,Chinese,06C,A
+Manhattan,Tex-Mex,06C,A
+Manhattan,American,02B,N
+Brooklyn,Hamburgers,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,06D,A
+Manhattan,Coffee/Tea,04H,B
+Manhattan,Spanish,04L,A
+Queens,Chinese,05D,C
+Manhattan,American,08A,A
+Brooklyn,Italian,10F,A
+Queens,Latin American,06E,B
+Queens,Coffee/Tea,10F,A
+Brooklyn,Chinese,10F,A
+Manhattan,Sandwiches,09C,Z
+Brooklyn,Creole,06D,B
+Staten Island,American,02G,A
+Manhattan,Coffee/Tea,02G,A
+Queens,Chicken,06C,C
+Manhattan,Japanese,09C,A
+Manhattan,Italian,02G,B
+Brooklyn,Middle Eastern,02G,N
+Manhattan,Indian,06A,A
+Manhattan,Chinese,02B,A
+Manhattan,Coffee/Tea,06C,A
+Manhattan,Chinese,10F,A
+Brooklyn,Coffee/Tea,10F,A
+Manhattan,Salads,06A,A
+Queens,American,10D,A
+Brooklyn,Vegan,06A,A
+Bronx,Italian,06D,A
+Queens,Donuts,08A,A
+Manhattan,American,10H,A
+Manhattan,Mexican,02B,B
+Manhattan,Pizza,10F,A
+Manhattan,Thai,02B,Z
+Brooklyn,Pizza,10F,A
+Queens,Pizza,10F,A
+Queens,Chinese,02B,C
+Bronx,Chinese,06C,N
+Queens,Japanese,09C,A
+Manhattan,Asian/Asian Fusion,02G,B
+Brooklyn,Chinese,10F,A
+Manhattan,Pizza,05D,C
+Manhattan,Coffee/Tea,09E,A
+Brooklyn,Coffee/Tea,10B,A
+Brooklyn,Chicken,04A,N
+Staten Island,American,10E,B
+Manhattan,Coffee/Tea,10F,A
+Queens,Sandwiches,06C,A
+Queens,American,10F,B
+Queens,Caribbean,08A,B
+Manhattan,American,10B,A
+Manhattan,Turkish,06D,A
+Brooklyn,Donuts,10G,A
+Queens,Caribbean,08A,C
+Queens,Coffee/Tea,06F,A
+Queens,Italian,06D,A
+Staten Island,African,08A,A
+Manhattan,Pizza,04A,A
+Manhattan,Mexican,06D,A
+Manhattan,American,08A,A
+Brooklyn,Pizza,10B,A
+Bronx,Mexican,10F,A
+Brooklyn,Chicken,08A,C
+Brooklyn,Caribbean,10F,A
+Manhattan,Bakery Products/Desserts,06D,A
+Brooklyn,Chicken,04H,A
+Manhattan,Vegan,10F,A
+Brooklyn,Barbecue,10B,A
+Staten Island,Tex-Mex,02G,B
+Queens,Bakery Products/Desserts,08C,A
+Bronx,American,08A,A
+Manhattan,Coffee/Tea,10F,A
+Bronx,Pizza,02G,B
+Queens,Irish,09C,A
+Queens,Latin American,06C,A
+Manhattan,Pizza,10I,A
+Brooklyn,Japanese,04A,N
+Brooklyn,Coffee/Tea,10F,A
+Bronx,Bakery Products/Desserts,10B,A
+Queens,Brazilian,08A,A
+Queens,Korean,10F,A
+Queens,Donuts,08A,A
+Bronx,Hamburgers,10F,B
+Manhattan,Chinese,02G,N
+Manhattan,American,10H,A
+Bronx,Tex-Mex,10F,A
+Manhattan,Tapas,04A,B
+Manhattan,Italian,04N,B
+Brooklyn,Coffee/Tea,06D,A
+Queens,Bakery Products/Desserts,06D,A
+Manhattan,American,10B,A
+Manhattan,Frozen Desserts,04A,C
+Manhattan,Coffee/Tea,10B,B
+Brooklyn,Vegan,10A,A
+Queens,Donuts,09E,A
+Manhattan,Latin American,04N,N
+Brooklyn,Indian,08A,C
+Manhattan,American,02B,A
+Brooklyn,Chicken,04L,P
+Queens,Coffee/Tea,04A,A
+Bronx,African,10B,A
+Manhattan,Seafood,04L,B
+Queens,Spanish,02I,C
+Manhattan,Coffee/Tea,10F,A
+Brooklyn,Creole,10F,A
+Queens,Chinese,10F,A
+Manhattan,American,06D,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,04L,A
+Manhattan,Asian/Asian Fusion,02B,Z
+Staten Island,Bakery Products/Desserts,10F,A
+Bronx,Bakery Products/Desserts,04C,Z
+Brooklyn,Caribbean,04L,B
+Queens,Chinese,05D,N
+Manhattan,American,06E,C
+Queens,Sandwiches,08A,A
+Queens,American,06D,A
+Bronx,Latin American,10F,B
+Manhattan,Chinese,10F,A
+Queens,Chinese,04L,A
+Manhattan,Tex-Mex,10F,A
+Manhattan,Greek,04K,A
+Queens,Chicken,04N,B
+Queens,Chinese,02B,B
+Bronx,Sandwiches,10B,B
+Queens,Asian/Asian Fusion,08A,Z
+Brooklyn,French,02F,A
+Queens,Italian,06C,A
+Queens,Bakery Products/Desserts,04N,A
+Queens,Korean,05H,Z
+Brooklyn,Japanese,10F,A
+Manhattan,Coffee/Tea,05H,N
+Manhattan,Italian,10B,A
+Manhattan,Juice, Smoothies, Fruit Salads,10B,A
+Manhattan,Hamburgers,10F,N
+Brooklyn,Juice, Smoothies, Fruit Salads,10B,A
+Manhattan,Italian,06C,A
+Brooklyn,Hamburgers,10F,A
+Manhattan,Australian,06C,A
+Queens,Latin American,08C,B
+Queens,Mexican,09E,N
+Staten Island,American,04N,A
+Queens,Caribbean,08A,B
+Queens,Spanish,04H,N
+Queens,Coffee/Tea,10G,A
+Brooklyn,Bakery Products/Desserts,08C,B
+Brooklyn,Japanese,08A,A
+Queens,Bagels/Pretzels,04K,C
+Queens,Donuts,10F,A
+Manhattan,American,09B,A
+Manhattan,American,04N,A
+Manhattan,Italian,10B,A
+Bronx,Latin American,04K,C
+Brooklyn,Korean,10F,A
+Manhattan,Chicken,06C,B
+Staten Island,Chicken,08B,A
+Manhattan,American,04H,B
+Brooklyn,Jewish/Kosher,06A,N
+Staten Island,Pizza,10B,A
+Bronx,Latin American,04K,C
+Staten Island,Frozen Desserts,08C,A
+Brooklyn,Mexican,09C,A
+Brooklyn,Seafood,06C,A
+Brooklyn,Pizza,09E,A
+Queens,Bakery Products/Desserts,10F,Z
+Queens,Asian/Asian Fusion,10F,N
+Brooklyn,Fusion,04L,Z
+Queens,Other,10H,A
+Brooklyn,Other,04A,N
+Brooklyn,Pizza,02G,A
+Queens,Caribbean,10F,A
+Manhattan,Sandwiches,10B,A
+Manhattan,Coffee/Tea,06C,A
+Brooklyn,Vegan,06D,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Thai,08C,A
+Manhattan,Other,04N,N
+Brooklyn,American,10F,A
+Queens,American,04N,B
+Brooklyn,Chicken,06C,A
+Manhattan,Coffee/Tea,10F,A
+Queens,American,10G,A
+Manhattan,Mexican,28-06,Z
+Queens,Sandwiches,10H,A
+Manhattan,Chinese,04O,A
+Manhattan,American,10B,Z
+Queens,American,08A,A
+Manhattan,Japanese,06C,A
+Queens,Indian,06F,C
+Manhattan,Barbecue,04N,A
+Manhattan,American,05H,C
+Manhattan,American,10F,A
+Brooklyn,Chinese,06D,A
+Manhattan,American,10F,A
+Manhattan,Pizza,28-06,B
+Brooklyn,Pizza,10F,A
+Brooklyn,American,02G,A
+Brooklyn,American,10F,A
+Brooklyn,Bakery Products/Desserts,06C,A
+Manhattan,Chinese,02B,Z
+Brooklyn,Other,10F,A
+Manhattan,Pizza,04A,C
+Manhattan,Frozen Desserts,10F,A
+Brooklyn,American,02G,C
+Queens,Caribbean,08C,B
+Staten Island,American,06D,A
+Staten Island,Italian,06D,A
+Manhattan,Asian/Asian Fusion,04M,B
+Bronx,Bakery Products/Desserts,02B,B
+Manhattan,Irish,10F,A
+Manhattan,Hamburgers,04H,A
+Brooklyn,Jewish/Kosher,06D,A
+Brooklyn,Japanese,08A,C
+Queens,Caribbean,08A,Z
+Queens,Filipino,04N,A
+Manhattan,Coffee/Tea,10B,A
+Manhattan,Japanese,10B,N
+Brooklyn,Jewish/Kosher,04L,A
+Queens,Bottled Beverages,06D,B
+Manhattan,Bakery Products/Desserts,06E,C
+Brooklyn,Donuts,10B,A
+Brooklyn,American,10G,A
+Manhattan,Italian,04M,B
+Brooklyn,Korean,06C,B
+Queens,Bakery Products/Desserts,10A,A
+Manhattan,Chinese,04L,A
+Brooklyn,Chinese,06C,A
+Manhattan,American,06C,A
+Manhattan,Chinese,08A,A
+Manhattan,American,06D,A
+Brooklyn,Bagels/Pretzels,02G,A
+Brooklyn,Pancakes/Waffles,04N,A
+Manhattan,Chinese,02B,Z
+Queens,Other,05D,A
+Brooklyn,Eastern European,10F,A
+Brooklyn,Spanish,06E,A
+Queens,American,08A,A
+Brooklyn,Coffee/Tea,10G,A
+Queens,Juice, Smoothies, Fruit Salads,10F,A
+Brooklyn,Japanese,04M,A
+Manhattan,Latin American,06A,N
+Manhattan,Chinese,04N,C
+Brooklyn,Pizza,08A,B
+Bronx,Chinese,09B,A
+Manhattan,Vegan,06D,A
+Manhattan,Japanese,09C,B
+Manhattan,Korean,02B,A
+Manhattan,Pizza,05H,B
+Manhattan,Bakery Products/Desserts,10F,A
+Brooklyn,Coffee/Tea,04L,B
+Brooklyn,Coffee/Tea,06C,A
+Manhattan,Frozen Desserts,10I,A
+Queens,Latin American,10F,A
+Brooklyn,American,06E,A
+Manhattan,Caribbean,04J,N
+Manhattan,Juice, Smoothies, Fruit Salads,08C,A
+Queens,Chicken,02B,Z
+Manhattan,Chinese,08A,B
+Brooklyn,Pizza,04A,Z
+Bronx,Spanish,10F,A
+Queens,Middle Eastern,28-06,N
+Manhattan,Other,06F,A
+Queens,Pizza,04N,N
+Queens,American,10F,A
+Queens,American,10F,A
+Brooklyn,Donuts,04A,A
+Manhattan,Australian,04N,C
+Bronx,Seafood,04H,A
+Queens,Chinese,02B,B
+Queens,Korean,04J,N
+Manhattan,American,10F,N
+Bronx,Chinese,06A,B
+Brooklyn,Sandwiches,10G,A
+Brooklyn,Coffee/Tea,03A,A
+Brooklyn,American,04H,A
+Brooklyn,Pizza,06C,A
+Queens,Latin American,10G,A
+Queens,American,02G,A
+Queens,Indian,10F,N
+Manhattan,Donuts,08A,A
+Staten Island,Tex-Mex,04A,B
+Brooklyn,Coffee/Tea,28-06,A
+Manhattan,American,04C,A
+Bronx,Other,10G,N
+Manhattan,Coffee/Tea,04N,A
+Brooklyn,Bakery Products/Desserts,04L,A
+Bronx,Bottled Beverages,06C,B
+Brooklyn,Mexican,08A,A
+Manhattan,American,10F,A
+Manhattan,American,06D,B
+Brooklyn,Coffee/Tea,06D,A
+Staten Island,Seafood,10F,A
+Staten Island,Mexican,04A,A
+Brooklyn,Other,10G,B
+Manhattan,Hamburgers,10F,A
+Queens,Chicken,04L,A
+Manhattan,Other,08B,A
+Brooklyn,Bottled Beverages,04C,A
+Queens,Sandwiches/Salads/Mixed Buffet,02B,Z
+Manhattan,Italian,10F,A
+Manhattan,Chicken,10F,A
+Queens,Spanish,09B,A
+Queens,Coffee/Tea,06C,A
+Queens,Latin American,06C,A
+Brooklyn,American,04N,A
+Bronx,Pizza,10F,Z
+Manhattan,Juice, Smoothies, Fruit Salads,06A,A
+Queens,Bottled Beverages,10G,A
+Manhattan,Southeast Asian,08A,C
+Manhattan,Latin American,09B,A
+Manhattan,Fusion,08A,A
+Queens,Spanish,10B,A
+Manhattan,Coffee/Tea,02G,A
+Manhattan,Chinese/Cuban,04H,A
+Manhattan,French,10B,A
+Brooklyn,Jewish/Kosher,02B,A
+Brooklyn,Japanese,10B,N
+Brooklyn,Pizza,10B,A
+Brooklyn,Chinese,08A,A
+Manhattan,Italian,10D,N
+Bronx,Latin American,10F,A
+Queens,Chinese,10F,A
+Queens,Japanese,04E,N
+Brooklyn,Chinese,06D,A
+Brooklyn,Seafood,04N,A
+Queens,American,10F,A
+Brooklyn,Chinese,10F,A
+Bronx,American,04L,A
+Staten Island,Latin American,04C,N
+Manhattan,American,04L,A
+Brooklyn,Other,06C,A
+Bronx,Latin American,02B,C
+Queens,Juice, Smoothies, Fruit Salads,10F,A
+Staten Island,American,04M,C
+Queens,Caribbean,06C,B
+Manhattan,American,06C,N
+Brooklyn,Chicken,10F,A
+Brooklyn,Bakery Products/Desserts,04A,C
+Queens,Tex-Mex,06C,A
+Manhattan,Middle Eastern,06C,A
+Queens,Pizza,10F,A
+Queens,American,10B,A
+Manhattan,Donuts,09A,A
+Manhattan,Spanish,04A,B
+Brooklyn,Pizza,06F,A
+Brooklyn,Pizza,04L,C
+Queens,Latin American,06D,B
+Manhattan,American,10J,A
+Bronx,Chicken,04N,B
+Manhattan,Japanese,10B,B
+Queens,Spanish,06E,A
+Brooklyn,Caribbean,10B,A
+Manhattan,Asian/Asian Fusion,10B,B
+Manhattan,Coffee/Tea,08A,A
+Brooklyn,Latin American,04L,C
+Manhattan,American,04N,A
+Staten Island,Japanese,02G,A
+Manhattan,Indian,09C,A
+Bronx,Latin American,08A,B
+Brooklyn,Caribbean,08B,B
+Manhattan,Asian/Asian Fusion,02B,B
+Brooklyn,Frozen Desserts,08A,A
+Manhattan,American,04M,A
+Manhattan,Donuts,06E,A
+Manhattan,Bakery Products/Desserts,10F,A
+Manhattan,Coffee/Tea,02B,Z
+Queens,Spanish,09E,N
+Brooklyn,Japanese,10F,A
+Bronx,Latin American,10F,A
+Staten Island,Mexican,10F,A
+Manhattan,Italian,04N,A
+Manhattan,Chinese,04N,A
+Manhattan,Continental,06C,C
+Manhattan,Peruvian,08A,A
+Manhattan,Pizza,10B,Z
+Staten Island,Mexican,02B,B
+Queens,New American,02B,A
+Manhattan,Mexican,10F,A
+Bronx,Latin American,06C,A
+Brooklyn,Italian,08A,A
+Brooklyn,Juice, Smoothies, Fruit Salads,04A,N
+Queens,Other,06C,A
+Manhattan,Coffee/Tea,06C,A
+Queens,Spanish,08A,A
+Manhattan,American,10F,B
+Brooklyn,American,10F,A
+Bronx,Italian,08A,A
+Brooklyn,Italian,06C,A
+Manhattan,Mexican,09C,A
+Queens,American,06E,A
+Queens,Latin American,09C,A
+Brooklyn,Mexican,08A,A
+Manhattan,Sandwiches,10F,A
+Brooklyn,American,08A,C
+Brooklyn,Tex-Mex,10F,A
+Manhattan,Middle Eastern,02B,C
+Manhattan,Mexican,10B,A
+Queens,Latin American,10H,A
+Manhattan,Chinese,06F,A
+Brooklyn,Donuts,10F,A
+Bronx,Juice, Smoothies, Fruit Salads,02B,A
+Brooklyn,Chinese,06C,A
+Manhattan,Bakery Products/Desserts,10E,A
+Manhattan,American,04H,A
+Manhattan,Bakery Products/Desserts,02B,A
+Queens,Middle Eastern,04A,C
+Queens,Latin American,03B,C
+Queens,Other,09A,N
+Queens,Spanish,06C,C
+Brooklyn,Chicken,10F,A
+Manhattan,Latin American,04L,C
+Queens,Indian,02G,N
+Manhattan,Juice, Smoothies, Fruit Salads,06D,A
+Manhattan,Italian,08C,A
+Queens,Sandwiches,08A,A
+Queens,Bangladeshi,05D,Z
+Brooklyn,Jewish/Kosher,06D,P
+Staten Island,Bagels/Pretzels,06F,A
+Bronx,Pizza,10E,A
+Manhattan,American,10F,A
+Manhattan,Chinese,10F,B
+Brooklyn,Pizza,10F,A
+Brooklyn,Pizza,09A,A
+Manhattan,Italian,08C,Z
+Bronx,Tex-Mex,02B,A
+Brooklyn,Jewish/Kosher,03A,Z
+Brooklyn,American,10F,A
+Staten Island,Bakery Products/Desserts,04L,P
+Manhattan,Mexican,02B,N
+Queens,Pizza,04N,A
+Brooklyn,Chicken,10F,A
+Brooklyn,Soul Food,05F,C
+Brooklyn,Tex-Mex,06F,A
+Manhattan,American,04H,A
+Brooklyn,Chinese,06D,B
+Brooklyn,Sandwiches,06D,A
+Manhattan,American,04N,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Asian/Asian Fusion,06C,A
+Staten Island,Pizza,10B,A
+Brooklyn,Spanish,10B,A
+Bronx,Seafood,04H,C
+Manhattan,American,10G,A
+Queens,American,06C,B
+Manhattan,Polish,08A,B
+Queens,Latin American,09E,A
+Brooklyn,Chinese,06E,B
+Brooklyn,Italian,03B,A
+Bronx,Pizza,02G,A
+Manhattan,American,04H,A
+Manhattan,African,10F,A
+Bronx,Latin American,06C,B
+Manhattan,American,06D,A
+Brooklyn,Coffee/Tea,10F,A
+Manhattan,Steakhouse,10E,A
+Manhattan,Hamburgers,06D,A
+Brooklyn,Southeast Asian,10F,B
+Brooklyn,Coffee/Tea,10B,N
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,05D,C
+Brooklyn,Latin American,02G,A
+Brooklyn,American,10H,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Chinese,04L,Z
+Brooklyn,Donuts,06E,A
+Queens,American,06C,A
+Staten Island,Chinese,10F,A
+Manhattan,Indian,28-06,N
+Manhattan,Thai,08A,C
+Queens,Coffee/Tea,02B,A
+Queens,Bagels/Pretzels,02G,C
+Queens,Chinese,02B,A
+Bronx,Bottled Beverages,10A,P
+Staten Island,Mexican,04M,B
+Queens,American,10B,A
+Manhattan,Coffee/Tea,02B,Z
+Manhattan,Asian/Asian Fusion,06D,A
+Bronx,Mexican,06C,N
+Queens,Chinese,09B,A
+Queens,Greek,08A,A
+Queens,Chicken,06C,A
+Bronx,Chinese,04N,Z
+Brooklyn,Seafood,10F,A
+Bronx,Chicken,02G,C
+Queens,Japanese,06D,A
+Manhattan,Coffee/Tea,06D,A
+Queens,Bagels/Pretzels,04A,A
+Brooklyn,Mediterranean,06C,A
+Brooklyn,Chinese,10B,A
+Brooklyn,American,04N,A
+Manhattan,American,06D,A
+Manhattan,Coffee/Tea,04H,A
+Brooklyn,Bagels/Pretzels,10F,A
+Manhattan,Japanese,02A,Z
+Brooklyn,Indian,10F,B
+Bronx,Chicken,10F,A
+Bronx,Spanish,10B,A
+Queens,Mexican,02G,C
+Brooklyn,Bottled Beverages,10G,A
+Manhattan,Bakery Products/Desserts,10F,N
+Queens,Chinese,10B,A
+Manhattan,Tex-Mex,10G,A
+Brooklyn,Chinese,02G,C
+Bronx,American,08C,B
+Queens,Bottled Beverages,06D,A
+Manhattan,Ethiopian,02G,A
+Manhattan,Pizza,06C,B
+Manhattan,Peruvian,09E,A
+Manhattan,Irish,08A,A
+Brooklyn,Mexican,02G,B
+Manhattan,Donuts,10B,A
+Staten Island,Tex-Mex,04A,A
+Brooklyn,Pizza,04M,A
+Manhattan,Spanish,08A,A
+Brooklyn,Pancakes/Waffles,10F,A
+Brooklyn,American,10B,A
+Queens,English,10H,A
+Manhattan,American,10G,A
+Brooklyn,American,04K,B
+Queens,Caribbean,06E,B
+Manhattan,Chicken,10F,A
+Bronx,American,06A,A
+Brooklyn,Caribbean,10F,A
+Manhattan,American,10B,A
+Manhattan,Jewish/Kosher,02B,A
+Queens,American,08A,B
+Brooklyn,Sandwiches,06D,C
+Bronx,Hamburgers,10F,A
+Manhattan,Caribbean,04L,A
+Manhattan,Mexican,10B,A
+Brooklyn,Middle Eastern,06B,Z
+Queens,Chicken,04M,C
+Brooklyn,Chicken,02B,A
+Manhattan,Soups/Salads/Sandwiches,05D,A
+Manhattan,Coffee/Tea,10F,A
+Brooklyn,Tex-Mex,10B,A
+Manhattan,American,08A,A
+Brooklyn,Chinese,10F,B
+Queens,Chinese,02G,A
+Manhattan,Coffee/Tea,04N,A
+Brooklyn,Bangladeshi,10F,A
+Bronx,Chinese,02G,A
+Queens,Bakery Products/Desserts,10E,A
+Brooklyn,Chinese,10F,A
+Brooklyn,Indian,02B,C
+Queens,Korean,10G,A
+Brooklyn,Japanese,02B,A
+Queens,Japanese,09B,A
+Brooklyn,Coffee/Tea,06D,A
+Manhattan,Coffee/Tea,04N,Z
+Brooklyn,American,06D,A
+Manhattan,Hawaiian,10B,N
+Brooklyn,Caribbean,28-06,N
+Manhattan,American,06D,A
+Brooklyn,Hamburgers,06D,A
+Queens,Chinese,06C,N
+Queens,Greek,02H,A
+Bronx,Juice, Smoothies, Fruit Salads,10B,A
+Brooklyn,Japanese,10F,A
+Staten Island,Pizza,10F,A
+Queens,Asian/Asian Fusion,04H,B
+Queens,Pizza,04C,A
+Queens,Coffee/Tea,10A,A
+Brooklyn,Donuts,09C,A
+Manhattan,African,09B,B
+Brooklyn,Latin American,04L,B
+Manhattan,Italian,04N,C
+Manhattan,Chinese,06D,A
+Queens,Spanish,06C,A
+Brooklyn,Other,10B,N
+Bronx,Coffee/Tea,06D,A
+Bronx,Fusion,10F,N
+Queens,Thai,04L,B
+Brooklyn,Coffee/Tea,04A,B
+Queens,Donuts,08A,A
+Queens,Spanish,10F,A
+Manhattan,Italian,10F,A
+Brooklyn,Bangladeshi,10F,C
+Brooklyn,Mexican,06C,A
+Manhattan,Thai,08C,C
+Brooklyn,Bottled Beverages,10B,A
+Queens,Bakery Products/Desserts,02G,A
+Manhattan,Coffee/Tea,06A,A
+Queens,Chinese,09C,A
+Manhattan,Chinese,10F,A
+Manhattan,Indian,10F,A
+Bronx,Latin American,04L,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,Hamburgers,06D,A
+Manhattan,American,08A,A
+Manhattan,American,08A,A
+Brooklyn,Middle Eastern,10F,A
+Manhattan,Mediterranean,08A,A
+Queens,Bakery Products/Desserts,10F,A
+Manhattan,Caribbean,10F,P
+Manhattan,Coffee/Tea,10F,A
+Manhattan,American,10H,A
+Bronx,Spanish,10F,A
+Queens,Chinese,02G,A
+Manhattan,Tex-Mex,10F,A
+Manhattan,Korean,06F,A
+Brooklyn,Vegan,10H,A
+Queens,American,08A,A
+Manhattan,Mexican,04A,A
+Brooklyn,American,08A,A
+Brooklyn,Pizza,04A,A
+Manhattan,American,10G,A
+Manhattan,Latin American,06D,A
+Manhattan,Coffee/Tea,02G,A
+Bronx,Pizza,10B,A
+Brooklyn,Pizza,10F,A
+Manhattan,American,02B,A
+Manhattan,Mexican,08A,C
+Manhattan,Vegan,02G,C
+Queens,Mexican,06F,A
+Brooklyn,American,06D,A
+Manhattan,American,10B,A
+Manhattan,Coffee/Tea,08A,C
+Brooklyn,Coffee/Tea,10I,A
+Brooklyn,Mexican,08A,B
+Queens,Indian,05H,N
+Brooklyn,African,10F,A
+Bronx,Mexican,10B,A
+Brooklyn,Hamburgers,02B,A
+Brooklyn,Frozen Desserts,10F,A
+Manhattan,Bagels/Pretzels,06D,A
+Queens,Chinese,02B,C
+Manhattan,American,08A,A
+Manhattan,Tex-Mex,04K,C
+Manhattan,American,28-06,C
+Brooklyn,American,10B,N
+Manhattan,Coffee/Tea,06D,A
+Manhattan,American,08A,A
+Manhattan,American,10G,A
+Manhattan,Vegetarian,08A,A
+Manhattan,Bakery Products/Desserts,04J,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,Mediterranean,06D,A
+Manhattan,American,08A,A
+Brooklyn,Creole,04A,C
+Queens,Latin American,06A,C
+Brooklyn,Chicken,04L,A
+Manhattan,Korean,04J,A
+Manhattan,Pizza,02H,A
+Bronx,Pizza,06C,A
+Queens,American,10F,A
+Manhattan,Salads,10F,A
+Queens,Chinese,05D,Z
+Queens,American,06C,B
+Brooklyn,Bagels/Pretzels,10B,A
+Brooklyn,Bagels/Pretzels,08A,C
+Manhattan,Chinese,02G,A
+Brooklyn,Italian,08A,A
+Brooklyn,Bottled Beverages,06C,A
+Queens,Indonesian,10F,A
+Staten Island,Pizza,10E,A
+Brooklyn,Italian,06C,A
+Queens,Korean,06A,B
+Queens,Indian,06D,A
+Bronx,American,06D,A
+Brooklyn,Pizza,10G,A
+Manhattan,Spanish,10F,A
+Manhattan,Hamburgers,10E,N
+Bronx,Latin American,06D,B
+Manhattan,French,10F,Z
+Queens,Spanish,09E,B
+Manhattan,Irish,02H,A
+Brooklyn,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,Eastern European,08C,A
+Manhattan,Italian,06C,A
+Brooklyn,American,06C,A
+Brooklyn,Chicken,05D,Z
+Queens,Latin American,02B,A
+Queens,Tex-Mex,10F,A
+Queens,American,10F,A
+Staten Island,Mediterranean,08A,A
+Manhattan,American,02G,A
+Brooklyn,Chinese,02B,A
+Queens,Coffee/Tea,06A,C
+Manhattan,American,06D,A
+Manhattan,Japanese,10B,C
+Queens,Juice, Smoothies, Fruit Salads,06C,N
+Bronx,Latin American,08A,A
+Manhattan,American,10B,C
+Bronx,Juice, Smoothies, Fruit Salads,10B,N
+Queens,Caribbean,04L,A
+Manhattan,Chicken,06E,A
+Brooklyn,Korean,10F,A
+Queens,Bakery Products/Desserts,04J,A
+Queens,Chicken,02B,A
+Brooklyn,American,06C,A
+Bronx,Spanish,10F,B
+Bronx,Pizza,10G,A
+Queens,Latin American,09E,A
+Queens,American,04N,A
+Brooklyn,Creole,04A,A
+Brooklyn,Korean,06F,A
+Queens,American,06C,B
+Queens,American,04M,A
+Queens,Mexican,06C,A
+Brooklyn,Other,02B,N
+Queens,Latin American,08A,A
+Bronx,Chinese,04L,C
+Bronx,Juice, Smoothies, Fruit Salads,06F,A
+Manhattan,Italian,06C,B
+Bronx,Chicken,10F,A
+Manhattan,Coffee/Tea,04A,C
+Bronx,Hamburgers,06D,A
+Brooklyn,Bottled Beverages,08A,N
+Manhattan,Japanese,04K,A
+Bronx,Spanish,02G,N
+Manhattan,Mexican,08A,C
+Bronx,American,06C,A
+Queens,Turkish,02B,A
+Manhattan,Coffee/Tea,10B,C
+Brooklyn,African,10B,C
+Manhattan,Italian,10H,A
+Manhattan,American,10B,C
+Brooklyn,Chinese,04H,A
+Queens,Coffee/Tea,06C,A
+Manhattan,American,06D,A
+Manhattan,Asian/Asian Fusion,02A,A
+Manhattan,Asian/Asian Fusion,02B,C
+Brooklyn,Jewish/Kosher,02B,A
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Coffee/Tea,10B,A
+Brooklyn,Tex-Mex,10F,A
+Brooklyn,Turkish,06C,A
+Brooklyn,American,10B,A
+Manhattan,Sandwiches,10F,B
+Brooklyn,American,28-06,Z
+Manhattan,Coffee/Tea,10B,A
+Manhattan,American,10F,A
+Manhattan,American,06D,A
+Brooklyn,Asian/Asian Fusion,09B,A
+Queens,Korean,04L,A
+Bronx,American,08A,B
+Brooklyn,Soul Food,04N,A
+Staten Island,Pizza,06C,B
+Manhattan,French,06D,A
+Brooklyn,Juice, Smoothies, Fruit Salads,10F,N
+Staten Island,Pizza,08C,A
+Manhattan,Tex-Mex,06A,A
+Queens,Sandwiches,10D,A
+Brooklyn,Pizza,10B,A
+Bronx,Pizza,04C,B
+Bronx,Latin American,04L,P
+Manhattan,Coffee/Tea,06F,A
+Manhattan,American,02B,B
+Bronx,Latin American,10F,A
+Manhattan,American,10F,A
+Brooklyn,French,06D,A
+Manhattan,American,04M,C
+Brooklyn,Caribbean,03I,A
+Queens,Caribbean,02B,C
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Asian/Asian Fusion,02B,A
+Staten Island,American,06D,A
+Brooklyn,Hamburgers,10B,A
+Bronx,Chicken,02G,N
+Manhattan,American,10F,A
+Manhattan,Hamburgers,10F,A
+Manhattan,American,06D,A
+Brooklyn,African,08A,N
+Manhattan,American,10B,N
+Queens,Hamburgers,08B,A
+Brooklyn,Coffee/Tea,04H,A
+Manhattan,Indian,10F,C
+Manhattan,Mexican,08A,A
+Manhattan,Italian,10E,A
+Brooklyn,Hamburgers,10F,A
+Brooklyn,Sandwiches/Salads/Mixed Buffet,10B,A
+Manhattan,American,10H,B
+Manhattan,Irish,06D,C
+Queens,Latin American,02G,A
+Brooklyn,Mexican,10B,B
+Manhattan,Coffee/Tea,08A,A
+Staten Island,Japanese,02G,A
+Manhattan,American,10F,P
+Manhattan,Pizza,08C,B
+Brooklyn,Chinese,10B,A
+Staten Island,Chinese,02G,B
+Brooklyn,Coffee/Tea,10F,A
+Manhattan,Chinese,06E,A
+Brooklyn,Eastern European,10B,A
+Manhattan,Bakery Products/Desserts,10F,A
+Brooklyn,American,08C,A
+Manhattan,Mediterranean,04H,B
+Queens,Southeast Asian,10F,Z
+Manhattan,Coffee/Tea,04L,C
+Manhattan,American,08A,A
+Manhattan,American,06D,A
+Bronx,American,06C,A
+Manhattan,Salads,04N,A
+Brooklyn,Chinese,08A,Z
+Manhattan,American,10F,A
+Manhattan,Asian/Asian Fusion,10F,A
+Queens,Mexican,06D,C
+Manhattan,American,08A,A
+Brooklyn,Donuts,10F,A
+Brooklyn,Bangladeshi,10F,C
+Brooklyn,Jewish/Kosher,10F,A
+Queens,Jewish/Kosher,04L,A
+Manhattan,Chinese,06F,A
+Manhattan,Japanese,02G,A
+Queens,Donuts,10F,A
+Manhattan,Pizza,10F,A
+Manhattan,Tex-Mex,06D,A
+Manhattan,Seafood,10F,Z
+Manhattan,Japanese,10F,A
+Bronx,Pizza,10G,A
+Queens,Spanish,08A,A
+Brooklyn,Donuts,10F,A
+Queens,Chinese,10D,A
+Manhattan,American,06A,A
+Bronx,Pizza,02B,A
+Manhattan,Chicken,04K,A
+Queens,Chinese,10F,A
+Manhattan,American,06C,N
+Manhattan,Juice, Smoothies, Fruit Salads,08A,A
+Bronx,American,10G,A
+Queens,Donuts,02G,A
+Manhattan,American,10F,A
+Queens,American,10F,A
+Manhattan,Bakery Products/Desserts,10E,B
+Manhattan,Chinese,04L,B
+Bronx,Pizza,04J,C
+Queens,Seafood,04H,B
+Queens,Indian,06A,B
+Queens,Chicken,04A,C
+Manhattan,Korean,06D,A
+Manhattan,Chinese,03A,N
+Brooklyn,Mexican,04L,A
+Queens,Chinese,04L,N
+Queens,Sandwiches,10F,A
+Manhattan,American,10F,A
+Manhattan,Italian,06D,A
+Brooklyn,African,06E,A
+Staten Island,Bakery Products/Desserts,10F,A
+Manhattan,Asian/Asian Fusion,02G,N
+Manhattan,Jewish/Kosher,04M,B
+Manhattan,American,10G,A
+Bronx,American,04L,C
+Manhattan,Latin American,10F,A
+Manhattan,Bakery Products/Desserts,04L,B
+Manhattan,Spanish,10F,A
+Staten Island,Hamburgers,10F,A
+Queens,Pancakes/Waffles,04L,N
+Queens,Filipino,09E,A
+Queens,Asian/Asian Fusion,04N,A
+Brooklyn,American,02B,A
+Queens,Pizza,04N,A
+Manhattan,Tex-Mex,06A,B
+Manhattan,Coffee/Tea,10B,A
+Brooklyn,Bakery Products/Desserts,10F,A
+Bronx,Coffee/Tea,10F,A
+Brooklyn,Jewish/Kosher,10F,A
+Manhattan,Caribbean,09C,A
+Brooklyn,Caribbean,02H,A
+Queens,Latin American,04L,B
+Bronx,Chicken,04N,B
+Staten Island,Donuts,09B,A
+Manhattan,Spanish,10B,N
+Queens,Coffee/Tea,04L,A
+Brooklyn,American,10B,N
+Brooklyn,Chinese,06A,Z
+Brooklyn,Caribbean,05D,B
+Brooklyn,Juice, Smoothies, Fruit Salads,05H,A
+Manhattan,Seafood,08B,A
+Manhattan,Coffee/Tea,08C,C
+Queens,Pizza,06D,A
+Manhattan,Other,04M,A
+Manhattan,Latin American,10G,A
+Brooklyn,Latin American,09C,A
+Queens,Caribbean,05D,C
+Manhattan,American,10G,A
+Brooklyn,American,06C,A
+Queens,Bangladeshi,02B,A
+Manhattan,American,10B,A
+Brooklyn,American,05D,C
+Brooklyn,Frozen Desserts,04L,A
+Queens,Juice, Smoothies, Fruit Salads,05D,A
+Manhattan,Juice, Smoothies, Fruit Salads,10F,A
+Manhattan,American,10F,A
+Manhattan,Japanese,10F,B
+Manhattan,Italian,06A,A
+Brooklyn,American,06F,A
+Queens,Bakery Products/Desserts,02G,A
+Manhattan,American,06C,A
+Queens,Donuts,08A,A
+Staten Island,Japanese,10F,A
+Manhattan,Pizza,08A,P
+Manhattan,Mediterranean,08A,N
+Manhattan,Bakery Products/Desserts,02G,A
+Brooklyn,Mexican,08B,A
+Brooklyn,Turkish,08C,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Bagels/Pretzels,06C,A
+Manhattan,Other,09C,A
+Queens,Latin American,06D,A
+Manhattan,Italian,08A,A
+Manhattan,American,04N,A
+Queens,Greek,10F,C
+Queens,American,06D,A
+Queens,African,08A,A
+Bronx,Chinese,06C,A
+Manhattan,Bakery Products/Desserts,09C,A
+Bronx,American,04N,A
+Queens,Bakery Products/Desserts,02B,B
+Manhattan,Eastern European,10E,A
+Queens,American,10F,A
+Manhattan,Coffee/Tea,04N,C
+Manhattan,Seafood,10B,A
+Bronx,Hamburgers,04N,A
+Manhattan,Italian,08C,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,10F,A
+Brooklyn,Italian,10F,A
+Manhattan,French,09C,A
+Manhattan,Japanese,02B,A
+Brooklyn,Sandwiches,10F,A
+Queens,Chinese,06F,A
+Manhattan,Bakery Products/Desserts,10F,A
+Brooklyn,Sandwiches,06D,A
+Manhattan,Coffee/Tea,06D,A
+Queens,Asian/Asian Fusion,06A,A
+Bronx,African,10G,Z
+Brooklyn,Asian/Asian Fusion,06D,A
+Bronx,Chinese,10B,A
+Manhattan,American,10F,A
+Staten Island,Jewish/Kosher,08A,A
+Manhattan,Pizza,10E,N
+Queens,Chinese,05D,N
+Brooklyn,Chinese,10F,A
+Queens,Japanese,10F,A
+Bronx,Chicken,08A,A
+Manhattan,Spanish,06E,B
+Brooklyn,Middle Eastern,04L,A
+Manhattan,Italian,08A,B
+Manhattan,Sandwiches,02G,A
+Manhattan,Japanese,06D,A
+Queens,Middle Eastern,10D,A
+Queens,Korean,04J,N
+Queens,Tapas,04L,A
+Queens,Chinese,06F,A
+Queens,Tex-Mex,10G,A
+Manhattan,Chinese,08C,N
+Manhattan,Vegetarian,10F,A
+Queens,Chinese,02G,A
+Bronx,Latin American,10F,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,02G,A
+Brooklyn,Caribbean,02H,A
+Brooklyn,American,06A,A
+Queens,American,10E,A
+Manhattan,Donuts,10A,A
+Queens,Coffee/Tea,04N,B
+Brooklyn,Hotdogs/Pretzels,04A,A
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Chinese,04L,C
+Manhattan,Italian,04H,A
+Staten Island,Donuts,06D,A
+Manhattan,Spanish,09E,A
+Brooklyn,Coffee/Tea,06D,A
+Manhattan,Chinese,06D,A
+Bronx,Irish,10F,A
+Manhattan,Juice, Smoothies, Fruit Salads,04P,Z
+Manhattan,American,04L,A
+Bronx,Pizza,10B,A
+Brooklyn,Latin American,09C,A
+Queens,Chinese,02B,A
+Manhattan,Pizza,06C,N
+Bronx,American,02G,A
+Queens,Latin American,09E,C
+Queens,Chinese,10F,A
+Manhattan,Hamburgers,09B,A
+Queens,Pakistani,10C,A
+Bronx,Chinese,02B,A
+Bronx,American,04L,A
+Brooklyn,Caribbean,10F,A
+Manhattan,Chicken,10F,Z
+Brooklyn,Mexican,06C,A
+Queens,Bakery Products/Desserts,06C,A
+Queens,American,08A,Z
+Bronx,Spanish,06D,N
+Bronx,Latin American,06A,A
+Brooklyn,French,04K,B
+Manhattan,Mediterranean,10E,C
+Brooklyn,Latin American,04N,A
+Manhattan,American,06F,A
+Manhattan,American,06E,A
+Manhattan,American,06D,A
+Manhattan,Pizza,04A,C
+Queens,Chinese,02G,Z
+Queens,Bangladeshi,04N,A
+Queens,Spanish,08A,A
+Queens,American,02B,A
+Manhattan,Other,09E,N
+Manhattan,Vegan,06C,A
+Manhattan,Donuts,10B,A
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Japanese,10B,A
+Brooklyn,Bagels/Pretzels,06C,C
+Brooklyn,American,10F,A
+Brooklyn,Coffee/Tea,10F,A
+Queens,American,08A,A
+Brooklyn,Pizza,04M,A
+Manhattan,American,08A,A
+Brooklyn,Middle Eastern,10F,A
+Brooklyn,Coffee/Tea,10F,A
+Manhattan,Japanese,04A,A
+Brooklyn,Seafood,09B,A
+Queens,American,08C,C
+Queens,Donuts,28-06,A
+Manhattan,French,06C,A
+Staten Island,Chinese,10F,A
+Brooklyn,Juice, Smoothies, Fruit Salads,06C,A
+Bronx,Pizza,10F,A
+Manhattan,Salads,10E,A
+Bronx,Middle Eastern,04M,A
+Manhattan,Italian,10H,A
+Queens,Coffee/Tea,04A,B
+Queens,Other,06D,A
+Manhattan,Korean,10D,A
+Queens,American,02B,A
+Manhattan,Donuts,10H,A
+Queens,Korean,08C,N
+Brooklyn,Latin American,04L,A
+Queens,Moroccan,06F,Z
+Manhattan,American,04N,Z
+Brooklyn,Japanese,06C,A
+Manhattan,Indian,06C,A
+Brooklyn,Chicken,04A,A
+Brooklyn,American,09C,A
+Queens,Bakery Products/Desserts,04N,A
+Queens,Thai,02B,A
+Manhattan,Chinese,08A,C
+Bronx,Bakery Products/Desserts,09B,C
+Brooklyn,Hamburgers,10F,A
+Manhattan,Italian,08A,C
+Staten Island,Seafood,06F,N
+Brooklyn,Mexican,10F,A
+Brooklyn,Chinese,08A,A
+Brooklyn,American,08C,A
+Brooklyn,Donuts,06C,A
+Brooklyn,Salads,02G,A
+Manhattan,American,10F,A
+Bronx,Italian,10H,A
+Brooklyn,American,10B,A
+Brooklyn,Chinese,10F,A
+Queens,Latin American,06D,A
+Manhattan,Bakery Products/Desserts,10B,A
+Brooklyn,Tex-Mex,09E,A
+Manhattan,Indian,04C,B
+Brooklyn,American,05D,A
+Queens,Indian,08A,B
+Manhattan,German,10B,A
+Queens,Mexican,02B,B
+Manhattan,Latin American,10F,A
+Brooklyn,American,10F,C
+Queens,Indian,02B,B
+Queens,Other,06D,A
+Queens,American,10F,A
+Manhattan,Mediterranean,06D,C
+Queens,Tex-Mex,02G,A
+Bronx,American,06E,A
+Brooklyn,Spanish,06D,A
+Manhattan,Coffee/Tea,04A,A
+Queens,Jewish/Kosher,04L,B
+Brooklyn,Japanese,09C,A
+Queens,Mexican,06D,B
+Brooklyn,Frozen Desserts,10F,A
+Bronx,Mexican,04L,A
+Queens,Chinese,10D,A
+Manhattan,Chinese,06F,C
+Manhattan,American,10B,A
+Manhattan,American,08A,B
+Brooklyn,Pizza,10F,A
+Brooklyn,Spanish,10E,A
+Brooklyn,Asian/Asian Fusion,06A,B
+Manhattan,Juice, Smoothies, Fruit Salads,10F,A
+Queens,Spanish,10F,N
+Manhattan,American,09C,A
+Manhattan,American,10A,A
+Manhattan,Chinese,10H,A
+Queens,Bangladeshi,09C,B
+Manhattan,Sandwiches,10B,A
+Manhattan,Italian,08A,C
+Manhattan,Mediterranean,02G,A
+Manhattan,Mexican,04A,A
+Brooklyn,Chinese,04L,A
+Brooklyn,American,06D,B
+Brooklyn,Jewish/Kosher,10E,A
+Queens,Chinese,08C,A
+Queens,Indian,02G,B
+Staten Island,Pizza,04A,Z
+Manhattan,Chicken,06C,A
+Manhattan,Chinese,10B,N
+Queens,American,10B,A
+Queens,Creole,06C,Z
+Manhattan,American,06C,A
+Queens,Juice, Smoothies, Fruit Salads,06A,B
+Manhattan,Asian/Asian Fusion,06B,A
+Manhattan,Chicken,10B,A
+Manhattan,Mexican,02B,C
+Queens,Chinese,04M,P
+Manhattan,Sandwiches,06C,B
+Manhattan,Hotdogs/Pretzels,04N,B
+Brooklyn,American,04N,A
+Manhattan,Mediterranean,10F,B
+Manhattan,Sandwiches/Salads/Mixed Buffet,10F,A
+Manhattan,Coffee/Tea,09C,A
+Queens,Pizza,06D,C
+Queens,American,09C,B
+Manhattan,Sandwiches,06C,A
+Manhattan,Coffee/Tea,06A,A
+Brooklyn,Coffee/Tea,06D,A
+Manhattan,Irish,10F,A
+Brooklyn,Chinese,04L,C
+Manhattan,Chinese,08A,B
+Queens,Bakery Products/Desserts,04N,B
+Queens,Chinese,04H,C
+Manhattan,American,06C,A
+Queens,American,02B,A
+Brooklyn,Caribbean,02H,A
+Manhattan,Vegan,09C,A
+Queens,Italian,10D,A
+Queens,Spanish,04L,B
+Brooklyn,Frozen Desserts,02B,B
+Manhattan,Bakery Products/Desserts,02B,A
+Manhattan,Coffee/Tea,04J,N
+Manhattan,Jewish/Kosher,04L,B
+Manhattan,American,02B,A
+Queens,Mexican,04N,A
+Manhattan,Coffee/Tea,10F,N
+Manhattan,Pizza,04A,A
+Manhattan,American,10G,Z
+Manhattan,Coffee/Tea,10F,B
+Manhattan,Coffee/Tea,10B,Z
+Brooklyn,American,08A,A
+Brooklyn,American,02G,C
+Manhattan,American,05D,A
+Manhattan,Korean,10F,A
+Queens,American,08A,C
+Manhattan,Coffee/Tea,10G,A
+Manhattan,Pizza,10F,A
+Brooklyn,American,04N,A
+Brooklyn,Indian,10F,A
+Brooklyn,Caribbean,04L,B
+Manhattan,Spanish,06A,C
+Queens,Coffee/Tea,10F,A
+Bronx,Latin American,10F,A
+Bronx,Chinese,08A,A
+Manhattan,American,04N,A
+Staten Island,Japanese,02B,B
+Brooklyn,Japanese,06D,C
+Queens,Asian/Asian Fusion,10F,A
+Manhattan,Sandwiches,10B,N
+Manhattan,Bottled Beverages,08A,A
+Queens,Chicken,06A,C
+Staten Island,Pizza,10I,A
+Bronx,Pizza,06D,A
+Manhattan,Mexican,06E,A
+Brooklyn,Chinese,06C,B
+Brooklyn,Coffee/Tea,05D,C
+Manhattan,Bakery Products/Desserts,09E,B
+Manhattan,Pizza,10B,A
+Manhattan,American,06E,A
+Bronx,Bakery Products/Desserts,10F,A
+Manhattan,Italian,10G,N
+Manhattan,Japanese,06A,A
+Queens,Chinese,06C,C
+Brooklyn,Chinese,02G,N
+Manhattan,Mediterranean,02H,C
+Brooklyn,Latin American,04K,C
+Brooklyn,American,04L,A
+Manhattan,Mexican,09B,A
+Manhattan,Chinese,06C,B
+Queens,Spanish,08A,C
+Manhattan,Asian/Asian Fusion,02G,A
+Queens,Chicken,10B,A
+Manhattan,Coffee/Tea,06D,A
+Bronx,Latin American,06C,A
+Brooklyn,Tex-Mex,10E,A
+Queens,Japanese,02B,A
+Queens,Chinese,08A,B
+Brooklyn,American,04N,A
+Queens,Coffee/Tea,10F,A
+Manhattan,Coffee/Tea,08C,A
+Manhattan,Jewish/Kosher,10F,A
+Brooklyn,Caribbean,04A,A
+Bronx,American,10F,A
+Brooklyn,Donuts,10F,A
+Bronx,Latin American,02B,A
+Manhattan,Salads,06A,A
+Brooklyn,American,04L,B
+Manhattan,Latin American,10E,A
+Queens,Chinese,02G,B
+Manhattan,Mexican,06D,N
+Manhattan,Japanese,10H,A
+Queens,Bakery Products/Desserts,10F,P
+Manhattan,Pizza,10F,Z
+Staten Island,Italian,06A,N
+Staten Island,American,10F,A
+Bronx,Spanish,10B,A
+Queens,Hamburgers,08C,A
+Manhattan,American,02H,Z
+Manhattan,Caribbean,06E,C
+Bronx,Juice, Smoothies, Fruit Salads,06A,B
+Brooklyn,American,08A,A
+Manhattan,Pizza,04N,A
+Queens,Pizza,10G,A
+Bronx,Latin American,08A,C
+Manhattan,African,10B,A
+Staten Island,Frozen Desserts,06D,A
+Queens,Pizza,02B,A
+Manhattan,Pizza,06C,A
+Queens,Juice, Smoothies, Fruit Salads,10F,A
+Brooklyn,Tapas,04H,A
+Manhattan,Korean,06E,Z
+Manhattan,Korean,10H,A
+Queens,American,10B,Z
+Queens,Donuts,02G,A
+Brooklyn,Bakery Products/Desserts,04H,A
+Bronx,Chinese,10F,A
+Bronx,American,06C,A
+Manhattan,Bagels/Pretzels,10E,B
+Brooklyn,Thai,10G,B
+Bronx,Chicken,10D,A
+Queens,Bottled Beverages,06D,N
+Brooklyn,Barbecue,04A,N
+Queens,Other,06C,A
+Brooklyn,American,02I,C
+Manhattan,Chinese,06D,N
+Manhattan,American,06D,B
+Manhattan,Pizza,06C,B
+Manhattan,Sandwiches,10F,A
+Queens,Hamburgers,04M,B
+Manhattan,French,06A,C
+Brooklyn,Middle Eastern,02B,B
+Queens,Hamburgers,10F,A
+Queens,Mexican,06C,B
+Bronx,Spanish,06C,A
+Queens,Chinese,08A,N
+Queens,Latin American,06C,A
+Brooklyn,Pizza,06D,A
+Queens,American,10I,A
+Queens,Bakery Products/Desserts,10B,A
+Bronx,American,04A,N
+Brooklyn,American,08A,A
+Brooklyn,Chinese/Japanese,02B,N
+Manhattan,Vegetarian,02G,A
+Bronx,Pizza,10F,A
+Brooklyn,Bagels/Pretzels,06C,A
+Bronx,Chinese,09E,C
+Bronx,Chinese,06A,A
+Bronx,Hamburgers,10B,A
+Manhattan,Donuts,10F,A
+Manhattan,Latin American,04J,A
+Staten Island,Juice, Smoothies, Fruit Salads,08A,Z
+Manhattan,Coffee/Tea,10B,A
+Queens,Mexican,10B,A
+Manhattan,French,02B,A
+Staten Island,Japanese,04L,N
+Manhattan,American,10B,A
+Queens,Caribbean,06C,A
+Brooklyn,Pizza,02G,A
+Manhattan,American,08A,B
+Manhattan,Italian,04N,B
+Queens,Caribbean,08A,A
+Manhattan,Bakery Products/Desserts,06C,N
+Bronx,Pizza,10G,A
+Manhattan,Middle Eastern,04L,N
+Manhattan,Chicken,04M,C
+Queens,Bangladeshi,02H,C
+Manhattan,American,08A,C
+Brooklyn,Mexican,10F,A
+Queens,Mexican,06D,A
+Brooklyn,Chinese,10F,A
+Bronx,Latin American,02H,A
+Brooklyn,Caribbean,10H,A
+Manhattan,Hamburgers,06C,A
+Queens,Chinese,08A,A
+Manhattan,Mediterranean,10B,A
+Manhattan,American,10B,B
+Brooklyn,Pizza,10B,A
+Brooklyn,Chinese,09B,N
+Queens,Japanese,02B,Z
+Queens,Mexican,02H,Z
+Bronx,Juice, Smoothies, Fruit Salads,08A,B
+Manhattan,Mexican,10F,A
+Manhattan,Bagels/Pretzels,08A,A
+Bronx,Caribbean,02B,B
+Manhattan,Mediterranean,02G,A
+Manhattan,Coffee/Tea,04L,A
+Queens,Pizza,10F,C
+Brooklyn,American,06C,A
+Queens,Coffee/Tea,06A,A
+Manhattan,Eastern European,04L,A
+Brooklyn,Caribbean,09B,A
+Staten Island,American,10B,A
+Manhattan,American,10F,A
+Staten Island,Spanish,08C,A
+Manhattan,Coffee/Tea,04H,B
+Queens,Spanish,28-06,A
+Manhattan,Coffee/Tea,10F,A
+Manhattan,American,08A,Z
+Manhattan,American,02B,A
+Manhattan,Spanish,08A,B
+Queens,Latin American,06C,A
+Queens,Indian,06D,A
+Manhattan,Mexican,06E,A
+Brooklyn,Barbecue,10F,A
+Brooklyn,Pizza,04J,Z
+Brooklyn,Pizza,10F,A
+Brooklyn,Latin American,09C,A
+Brooklyn,Chicken,04N,A
+Queens,Thai,06A,A
+Queens,American,10F,A
+Queens,Japanese,09E,A
+Bronx,Chicken,08A,A
+Queens,Latin American,10A,A
+Manhattan,Sandwiches,10F,A
+Manhattan,Chicken,10F,A
+Queens,Italian,10H,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,06C,A
+Manhattan,Chicken,04N,A
+Queens,Mexican,10B,B
+Brooklyn,Chinese,10F,A
+Queens,Greek,02I,C
+Manhattan,French,04O,A
+Brooklyn,Southeast Asian,09B,A
+Brooklyn,Japanese,02B,Z
+Manhattan,Mexican,10I,A
+Brooklyn,Pizza,04L,B
+Brooklyn,Bagels/Pretzels,06C,A
+Queens,Japanese,08A,A
+Queens,Asian/Asian Fusion,02F,N
+Brooklyn,Russian,02B,A
+Bronx,Seafood,10J,A
+Manhattan,Vegan,06A,A
+Bronx,Barbecue,08A,A
+Queens,Thai,02G,A
+Manhattan,Sandwiches,06D,A
+Brooklyn,Creole,04N,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,08C,A
+Manhattan,Mexican,04N,A
+Brooklyn,Coffee/Tea,10F,A
+Bronx,Sandwiches,10F,B
+Manhattan,Pizza,06A,B
+Staten Island,Italian,02H,A
+Brooklyn,Chicken,04L,A
+Bronx,Spanish,08A,N
+Brooklyn,Bagels/Pretzels,06C,B
+Queens,Caribbean,08A,B
+Queens,Coffee/Tea,04N,C
+Brooklyn,Korean,09B,B
+Queens,Bagels/Pretzels,10F,A
+Manhattan,Caribbean,04A,B
+Brooklyn,Bakery Products/Desserts,08A,A
+Brooklyn,Pizza,04K,A
+Queens,Pizza,10B,A
+Brooklyn,Mexican,09B,B
+Queens,Irish,08A,Z
+Manhattan,Salads,10F,A
+Brooklyn,American,10B,C
+Queens,Mexican,04M,C
+Queens,Caribbean,10B,A
+Manhattan,French,09C,A
+Brooklyn,Coffee/Tea,10E,A
+Manhattan,Indian,02B,B
+Queens,American,06A,A
+Queens,Fusion,08A,Z
+Queens,American,10B,A
+Manhattan,American,02H,A
+Bronx,Japanese,06D,A
+Manhattan,American,04N,A
+Manhattan,Asian/Asian Fusion,04J,A
+Queens,American,06C,A
+Manhattan,American,05H,N
+Brooklyn,Caribbean,09C,A
+Manhattan,Other,05D,Z
+Manhattan,Korean,02I,A
+Brooklyn,Tex-Mex,10F,A
+Queens,Indian,10G,N
+Queens,Thai,10F,A
+Queens,Caribbean,10F,A
+Brooklyn,Pizza,08C,A
+Manhattan,Mediterranean,09C,A
+Queens,Chinese,10F,A
+Manhattan,Italian,02B,N
+Queens,Donuts,10H,A
+Bronx,Seafood,06D,A
+Brooklyn,Pizza,10F,A
+Manhattan,American,10B,C
+Queens,Mexican,02B,C
+Manhattan,Mexican,10G,A
+Manhattan,Italian,10F,A
+Bronx,American,10B,A
+Queens,Chicken,04L,A
+Staten Island,Hamburgers,04L,B
+Queens,Pakistani,06A,B
+Manhattan,Spanish,02B,A
+Queens,Latin American,08A,B
+Brooklyn,Chinese,06C,A
+Manhattan,Italian,06D,A
+Manhattan,Sandwiches,10B,B
+Manhattan,Hamburgers,10F,A
+Brooklyn,American,02B,B
+Manhattan,Bakery Products/Desserts,02B,B
+Manhattan,Seafood,10F,P
+Queens,Bakery Products/Desserts,05D,C
+Bronx,Mexican,10B,A
+Bronx,Jewish/Kosher,06D,A
+Queens,Thai,06C,N
+Queens,American,08A,B
+Brooklyn,Jewish/Kosher,09C,A
+Manhattan,Japanese,06C,A
+Manhattan,Chinese,06C,Z
+Manhattan,American,02G,B
+Queens,Chinese,06A,A
+Manhattan,Brazilian,02B,N
+Queens,Peruvian,10G,N
+Manhattan,Pizza,10F,A
+Brooklyn,Italian,04L,A
+Queens,Caribbean,05C,C
+Brooklyn,Donuts,10F,A
+Queens,Latin American,10F,A
+Manhattan,Pizza,10F,C
+Manhattan,Other,02G,C
+Manhattan,Pizza,10F,A
+Queens,Chinese,06C,C
+Brooklyn,Bagels/Pretzels,10B,A
+Queens,Caribbean,10F,A
+Brooklyn,Russian,10F,A
+Queens,Caribbean,08A,A
+Staten Island,Italian,10F,A
+Brooklyn,Caribbean,04N,C
+Manhattan,Italian,10F,A
+Manhattan,Coffee/Tea,02G,A
+Queens,American,08A,A
+Manhattan,Caribbean,04L,N
+Queens,Pizza,10F,B
+Queens,Sandwiches,04L,A
+Manhattan,Coffee/Tea,04J,Z
+Manhattan,American,02G,A
+Brooklyn,Turkish,05A,N
+Manhattan,Latin American,02B,A
+Queens,American,10F,A
+Bronx,Spanish,02B,B
+Queens,Bagels/Pretzels,06D,C
+Queens,Caribbean,08B,A
+Manhattan,Sandwiches/Salads/Mixed Buffet,09C,A
+Manhattan,Pizza,09C,C
+Manhattan,American,10G,A
+Queens,Chinese,06F,A
+Queens,Indian,09C,B
+Bronx,Coffee/Tea,10F,A
+Manhattan,Italian,10F,A
+Staten Island,Mexican,04A,B
+Manhattan,Mediterranean,06F,A
+Brooklyn,American,10F,A
+Manhattan,Coffee/Tea,06C,A
+Staten Island,Pizza,10F,A
+Manhattan,American,06D,A
+Brooklyn,Hotdogs,10H,A
+Manhattan,American,08A,A
+Manhattan,Italian,10E,N
+Manhattan,Pizza,10F,C
+Staten Island,Chinese,04L,A
+Queens,American,08C,A
+Manhattan,American,02B,N
+Brooklyn,Sandwiches,05D,C
+Queens,Latin American,06C,B
+Manhattan,American,06F,A
+Manhattan,Asian/Asian Fusion,04C,A
+Queens,Chicken,10D,A
+Manhattan,Bakery Products/Desserts,10F,A
+Bronx,American,08C,A
+Queens,American,06D,A
+Bronx,Latin American,02G,A
+Queens,Jewish/Kosher,10F,A
+Brooklyn,Bagels/Pretzels,04L,A
+Bronx,Sandwiches,09B,A
+Brooklyn,Thai,02G,A
+Bronx,Cajun,04L,A
+Brooklyn,Irish,02G,C
+Manhattan,Thai,02B,A
+Manhattan,Italian,08A,N
+Manhattan,Tex-Mex,06C,A
+Brooklyn,Irish,06D,B
+Queens,American,06D,A
+Bronx,Bakery Products/Desserts,06C,B
+Bronx,Caribbean,10F,A
+Bronx,Bakery Products/Desserts,06D,A
+Brooklyn,Seafood,04L,A
+Manhattan,Indian,04C,C
+Brooklyn,Jewish/Kosher,10B,A
+Bronx,American,10B,A
+Manhattan,Chinese,02B,B
+Brooklyn,Pizza,04L,A
+Manhattan,American,06C,A
+Brooklyn,Pizza,08A,A
+Brooklyn,African,09B,C
+Brooklyn,Donuts,04N,A
+Brooklyn,Mediterranean,10F,A
+Brooklyn,Creole,10F,A
+Manhattan,Italian,08A,B
+Brooklyn,Hotdogs/Pretzels,08A,A
+Manhattan,Asian/Asian Fusion,06C,A
+Queens,Indian,06E,B
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Coffee/Tea,04N,C
+Brooklyn,Caribbean,10F,A
+Queens,Latin American,10F,A
+Queens,American,06D,A
+Queens,Irish,06D,B
+Manhattan,Mexican,10B,A
+Bronx,Mexican,10B,A
+Brooklyn,Bakery Products/Desserts,06D,A
+Queens,Asian/Asian Fusion,10F,A
+Bronx,Pizza,10B,A
+Brooklyn,Thai,02G,B
+Manhattan,American,10B,B
+Queens,American,06E,A
+Queens,Latin American,10B,A
+Bronx,Mexican,06C,A
+Manhattan,Spanish,02G,C
+Manhattan,Bakery Products/Desserts,10F,A
+Queens,Sandwiches,04L,C
+Brooklyn,Latin American,02B,B
+Brooklyn,Mexican,02G,N
+Queens,Caribbean,04N,A
+Staten Island,American,04J,A
+Manhattan,Asian/Asian Fusion,02G,Z
+Manhattan,Juice, Smoothies, Fruit Salads,06C,A
+Brooklyn,Bakery Products/Desserts,04L,A
+Manhattan,Chinese,02G,A
+Manhattan,Italian,10F,A
+Manhattan,Bagels/Pretzels,03C,A
+Queens,Latin American,10F,A
+Queens,Coffee/Tea,04L,A
+Brooklyn,Frozen Desserts,10B,N
+Queens,Chinese,04L,B
+Queens,Indian,10F,A
+Manhattan,Japanese,06D,A
+Brooklyn,Coffee/Tea,04A,A
+Bronx,Bagels/Pretzels,02G,B
+Brooklyn,American,10F,A
+Brooklyn,Chinese,10F,A
+Manhattan,Mediterranean,08A,A
+Manhattan,Bakery Products/Desserts,04K,A
+Queens,Jewish/Kosher,06D,A
+Manhattan,Coffee/Tea,04A,A
+Brooklyn,Pizza,10F,Z
+Manhattan,American,06A,B
+Brooklyn,American,04N,A
+Manhattan,Bangladeshi,06C,B
+Manhattan,Mexican,08A,A
+Manhattan,Japanese,04M,N
+Brooklyn,Spanish,10D,B
+Brooklyn,Jewish/Kosher,10F,A
+Manhattan,Italian,10F,C
+Queens,Chicken,04M,A
+Queens,Korean,04N,Z
+Queens,Sandwiches,10F,A
+Bronx,American,02G,B
+Bronx,Greek,06F,A
+Queens,Other,04A,B
+Manhattan,Japanese,04N,A
+Brooklyn,Indian,08C,B
+Manhattan,Pizza,08A,C
+Staten Island,Chicken,02B,N
+Queens,Chinese,08A,P
+Brooklyn,Pizza,08A,A
+Brooklyn,American,04N,A
+Queens,Chinese,05D,A
+Brooklyn,Pizza,08A,A
+Queens,Latin American,10G,C
+Bronx,Latin American,02B,A
+Manhattan,American,06D,Z
+Manhattan,American,10F,A
+Manhattan,Bakery Products/Desserts,10F,C
+Queens,Sandwiches/Salads/Mixed Buffet,10F,N
+Manhattan,Bagels/Pretzels,06C,C
+Brooklyn,Mediterranean,10F,A
+Brooklyn,Chinese,06F,A
+Queens,Latin American,02B,A
+Manhattan,Japanese,10F,N
+Brooklyn,American,06C,B
+Brooklyn,Other,04A,Z
+Brooklyn,American,04N,A
+Manhattan,Chinese,08A,B
+Bronx,Pizza,10G,A
+Brooklyn,Hamburgers,04N,A
+Queens,Irish,08A,A
+Manhattan,Chinese,08A,B
+Brooklyn,Bakery Products/Desserts,04N,B
+Bronx,Chicken,04A,C
+Manhattan,American,02G,C
+Staten Island,Japanese,06D,N
+Brooklyn,Vegetarian,06D,A
+Staten Island,Bakery Products/Desserts,10F,A
+Manhattan,American,06A,A
+Queens,American,06F,C
+Queens,Spanish,10H,A
+Brooklyn,African,10A,C
+Manhattan,Chinese,02G,N
+Queens,Asian/Asian Fusion,10F,A
+Manhattan,Donuts,06F,B
+Staten Island,Chicken,04A,A
+Brooklyn,Bakery Products/Desserts,04A,A
+Queens,Bangladeshi,06E,C
+Manhattan,Coffee/Tea,08A,A
+Manhattan,Bagels/Pretzels,10B,A
+Brooklyn,Mexican,04M,C
+Brooklyn,Chicken,10A,Z
+Staten Island,Juice, Smoothies, Fruit Salads,04M,B
+Queens,Pizza,10B,A
+Manhattan,Tex-Mex,08A,A
+Brooklyn,Pizza,05D,Z
+Staten Island,Latin American,10E,B
+Manhattan,Pizza,09B,A
+Queens,Egyptian,02B,A
+Queens,Pizza,10F,A
+Manhattan,French,10F,B
+Manhattan,African,04N,A
+Manhattan,American,10F,A
+Manhattan,American,08A,A
+Bronx,Spanish,10G,Z
+Manhattan,Bagels/Pretzels,05D,C
+Bronx,Mexican,08A,A
+Brooklyn,Donuts,04L,A
+Brooklyn,Mexican,10F,A
+Bronx,Pizza,04M,A
+Brooklyn,Indian,02B,A
+Manhattan,Korean,06E,N
+Manhattan,American,08A,A
+Queens,Mexican,10F,A
+Manhattan,Spanish,04N,B
+Manhattan,American,08A,A
+Brooklyn,Eastern European,02G,A
+Brooklyn,Pakistani,10B,C
+Queens,Thai,02H,A
+Brooklyn,American,10B,B
+Queens,Coffee/Tea,02G,Z
+Manhattan,Pizza,04L,A
+Manhattan,Latin American,02H,A
+Queens,Chinese,04J,A
+Bronx,Latin American,08A,A
+Brooklyn,Bakery Products/Desserts,08A,A
+Brooklyn,Korean,04N,A
+Brooklyn,Tex-Mex,10F,A
+Manhattan,Latin American,06B,A
+Manhattan,Chinese,06C,A
+Manhattan,Coffee/Tea,10F,C
+Manhattan,American,10B,A
+Staten Island,Pizza,09B,A
+Brooklyn,Pizza,09E,A
+Brooklyn,Juice, Smoothies, Fruit Salads,28-06,B
+Queens,American,10F,A
+Staten Island,Mexican,06D,Z
+Brooklyn,Pizza,09E,A
+Brooklyn,American,05D,A
+Brooklyn,Russian,10H,B
+Manhattan,Pizza,10F,A
+Manhattan,Mediterranean,02G,C
+Manhattan,American,06C,A
+Brooklyn,Creole,08B,A
+Manhattan,Seafood,04L,B
+Manhattan,Latin American,05B,B
+Queens,American,06D,A
+Brooklyn,Chicken,10E,A
+Bronx,American,02B,B
+Brooklyn,Tex-Mex,10F,A
+Manhattan,American,10F,A
+Queens,Latin American,06F,A
+Manhattan,American,06F,A
+Manhattan,Juice, Smoothies, Fruit Salads,10F,A
+Brooklyn,Hamburgers,04L,A
+Staten Island,Continental,10B,A
+Manhattan,Hamburgers,08C,B
+Queens,Donuts,08B,P
+Manhattan,Sandwiches/Salads/Mixed Buffet,10B,N
+Brooklyn,Spanish,10F,B
+Manhattan,Chinese,06C,A
+Queens,American,04L,A
+Queens,Italian,09E,Z
+Queens,Korean,06C,B
+Brooklyn,American,04L,A
+Brooklyn,Coffee/Tea,04M,B
+Manhattan,Bagels/Pretzels,06C,A
+Brooklyn,Mexican,09C,B
+Brooklyn,American,10F,A
+Bronx,Middle Eastern,09C,A
+Manhattan,Italian,06C,A
+Queens,American,10B,A
+Manhattan,French,02G,A
+Manhattan,Frozen Desserts,06C,A
+Manhattan,Latin American,09C,A
+Staten Island,Donuts,06A,A
+Bronx,Sandwiches,10B,A
+Queens,Indian,06C,Z
+Manhattan,Vegan,10F,A
+Queens,Chinese,10B,N
+Manhattan,Barbecue,10F,A
+Queens,Bangladeshi,08A,N
+Brooklyn,Caribbean,10A,C
+Manhattan,Spanish,08A,A
+Manhattan,American,04L,A
+Manhattan,Asian/Asian Fusion,10B,A
+Bronx,Chicken,06A,A
+Manhattan,American,06D,A
+Manhattan,Hamburgers,10B,A
+Manhattan,Coffee/Tea,10G,A
+Manhattan,Chinese,06E,A
+Staten Island,Other,08A,N
+Queens,Bakery Products/Desserts,04H,B
+Queens,Mexican,06F,B
+Queens,Caribbean,04J,A
+Bronx,Latin American,04M,Z
+Brooklyn,Middle Eastern,10B,A
+Brooklyn,Sandwiches,10D,A
+Manhattan,Tex-Mex,10F,A
+Brooklyn,Other,03I,N
+Staten Island,American,10J,B
+Manhattan,American,10F,A
+Queens,Spanish,10F,A
+Manhattan,American,10F,A
+Queens,Indian,10F,Z
+Bronx,American,10B,A
+Queens,Mexican,09E,Z
+Brooklyn,Caribbean,04L,B
+Brooklyn,Bangladeshi,02B,B
+Queens,Sandwiches,10G,A
+Brooklyn,Tapas,06B,A
+Manhattan,American,02B,N
+Bronx,Latin American,10B,A
+Queens,American,08A,A
+Staten Island,Chicken,06C,A
+Manhattan,Mexican,02B,N
+Queens,Pizza,04M,A
+Manhattan,Peruvian,06A,A
+Manhattan,Mexican,10B,A
+Manhattan,Steakhouse,10F,A
+Bronx,Latin American,06D,A
+Manhattan,Japanese,06D,C
+Manhattan,Jewish/Kosher,10F,A
+Brooklyn,Bakery Products/Desserts,05D,A
+Brooklyn,Coffee/Tea,06C,N
+Bronx,Donuts,10F,A
+Brooklyn,Bagels/Pretzels,02G,C
+Brooklyn,Coffee/Tea,02G,A
+Manhattan,Chicken,04N,A
+Brooklyn,American,06C,A
+Bronx,Bakery Products/Desserts,04H,B
+Manhattan,American,04N,A
+Bronx,Chicken,04L,A
+Bronx,Latin American,10B,A
+Bronx,Latin American,10F,A
+Manhattan,Mediterranean,08A,A
+Queens,Chinese,06C,A
+Manhattan,Asian/Asian Fusion,05D,C
+Manhattan,Coffee/Tea,10G,A
+Brooklyn,American,06C,A
+Brooklyn,African,04M,C
+Queens,American,10F,A
+Manhattan,Korean,04H,A
+Brooklyn,Chinese,10H,A
+Brooklyn,Frozen Desserts,10F,A
+Brooklyn,Coffee/Tea,02G,A
+Brooklyn,Chinese,10F,B
+Manhattan,Bakery Products/Desserts,10F,A
+Manhattan,Chinese,06D,C
+Queens,Korean,10B,N
+Queens,Donuts,06D,A
+Manhattan,Asian/Asian Fusion,02G,C
+Manhattan,Jewish/Kosher,10B,A
+Brooklyn,American,04K,A
+Manhattan,Other,04A,N
+Brooklyn,Pizza,04A,Z
+Bronx,Pizza,02G,A
+Manhattan,American,06C,A
+Brooklyn,Mediterranean,08C,B
+Manhattan,Thai,06D,A
+Manhattan,Coffee/Tea,10F,A
+Queens,Donuts,06C,A
+Brooklyn,Chinese,06C,A
+Bronx,Mexican,10F,A
+Brooklyn,Japanese,02B,C
+Manhattan,Pizza,06C,C
+Brooklyn,Jewish/Kosher,06D,A
+Brooklyn,Bakery Products/Desserts,06D,A
+Queens,Mexican,10B,B
+Queens,Spanish,10B,A
+Brooklyn,American,04A,A
+Queens,Coffee/Tea,04L,A
+Manhattan,American,08A,B
+Brooklyn,Chinese,10F,A
+Queens,Pizza,10G,B
+Bronx,Donuts,10F,A
+Manhattan,Fusion,06D,A
+Manhattan,Thai,04L,B
+Bronx,Chicken,04N,A
+Brooklyn,Latin American,10G,A
+Brooklyn,Mexican,08C,A
+Brooklyn,Coffee/Tea,06E,A
+Queens,Pizza,10F,A
+Brooklyn,American,04N,B
+Brooklyn,Spanish,02B,C
+Queens,Pizza,02G,B
+Manhattan,Chinese,08C,P
+Bronx,Chicken,02B,C
+Manhattan,American,10B,A
+Brooklyn,Mexican,10F,A
+Queens,Chinese,10F,C
+Manhattan,American,10E,A
+Manhattan,Juice, Smoothies, Fruit Salads,08A,B
+Bronx,American,10F,A
+Brooklyn,Asian/Asian Fusion,02I,A
+Queens,Juice, Smoothies, Fruit Salads,04A,A
+Queens,Bakery Products/Desserts,10F,A
+Queens,Chinese,04L,B
+Staten Island,American,10F,A
+Manhattan,American,10F,A
+Manhattan,Korean,08C,A
+Manhattan,Greek,08A,A
